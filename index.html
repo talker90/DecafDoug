@@ -10,34 +10,27 @@
 	<title>Decaf Doug</title>
 
 	<style type="text/css">
-
 		html {
   			box-sizing: border-box;
 		}
-
 		*, *:before, *:after {
   			box-sizing: inherit;
 		}
-
 		main {
 			display: block;
 		}
-
 		body {
 			font-family: Oswald, Montserrat, Arial, sans-serif;
 		}
-
 		a {
 			text-decoration: none;
 			color: black;
 		}
-
 		h1 {
 			display: flex;
 			justify-content: center;
 			font-size: 9vw;
 		}
-
 		#nav {
 			display: flex;
 			justify-content: space-around;	
@@ -46,17 +39,13 @@
 			list-style-type: none;
 			font-size: 4vw;
 		}
-
 		.nav-items:hover {
 			font-size: 130%;
 		}
-
 		input[id="hamburger"] {
 			display: none;
 		}
-
 		@media only screen and (min-width:0) and (max-width:360px) {
-
 			label[for="hamburger"] {
 				display: flex;
 				align-items: center;
@@ -72,30 +61,39 @@
 			input[id="hamburger"]:checked ~ nav {
 				height: auto;
 			}
-
 		}	
-
 		@media only screen and (min-width:361px) {
-
 			label[for="hamburger"] {
 				display: none;
-
 			}
-
 			h1 {
 				margin-bottom: 3rem;
 			}
 		}
 		
-
 		@media (min-width: 673px) {
 			h1 {
 				font-size: 4rem;
 			}
-
 			#nav {
 				font-size: 1.8rem;
 			}
+		}
+		
+		.post {
+			border: 1px solid red;
+		}
+		
+		.title {
+			border: 1px solid orange;
+		}
+		
+		.text {
+			border: 1px solid yellow;
+		}
+		
+		.photos {
+			border: 1px solid green;
 		}
 		
 		.post, .title, .text, .photos {
@@ -106,8 +104,6 @@
 		.post {
 			height: 50vh;
 			flex-direction: column; /* -webkit-flex-direction: column; */
-			justify-content: center;
-			align-items: center;
 		}
 		
 		.title {
@@ -171,14 +167,10 @@
 		<div class="title">The Lexington</div>
 		<div class="title">
 			<div class="text">
-				<div class="photos">
-					<p>Free Refill Frequency &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;<br>
-					Flavor &#x2615; &#x2615;<br>
-					Temperature &#x2615; &#x2615;
-				</div>
+				<div class="photos">&#x2615;</div>
 				<div class="photos">photo</div>
 			</div>
-			<div class="text">text text text 4</div>
+			<div class="text">text text text 3</div>
 		</div>
 	</div>
 	
