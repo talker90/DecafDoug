@@ -98,9 +98,24 @@
 			}
 		}
 		
+		.post {
+			border: 1px solid red;
+		}
+		
+		.title {
+			border: 1px solid orange;
+		}
+		
+		.text {
+			border: 1px solid yellow;
+		}
+		
+		.photos {
+			border: 1px solid green;
+		}
+		
 		.post, .title, .text, .photos {
 			display: -webkit-box;display: -webkit-flex;display;display: -ms-flexbox;display: flex;
-			border: 1px solid red;
 		}
 		
 		.post {
@@ -112,6 +127,14 @@
 			width: 100%;
 			flex-direction: row;
 			judstify-content: center;
+		}
+		
+		.title:nth-child(1) {
+			height: 10%;
+		}
+		
+		.title:nth-child(2) {
+			height: 90%;
 		}
 		
 		.text {
