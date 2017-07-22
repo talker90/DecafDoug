@@ -98,22 +98,6 @@
 			}
 		}
 		
-		.post {
-			border: 1px solid red;
-		}
-		
-		.title {
-			border: 1px solid orange;
-		}
-		
-		.text {
-			border: 1px solid yellow;
-		}
-		
-		.photos {
-			border: 1px solid green;
-		}
-		
 		.post, .title, .text, .photos {
 			display: -webkit-box;display: -webkit-flex;display;display: -ms-flexbox;display: flex;
 			margin: 1px;
@@ -122,6 +106,8 @@
 		.post {
 			height: 50vh;
 			flex-direction: column; /* -webkit-flex-direction: column; */
+			justify-content: center;
+			align-items: center;
 		}
 		
 		.title {
@@ -185,7 +171,11 @@
 		<div class="title">The Lexington</div>
 		<div class="title">
 			<div class="text">
-				<div class="photos">&#x2615;</div>
+				<div class="photos">
+					<p>Free Refill Frequency &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;</p>
+					<p>Flavor &#x2615; &#x2615;</p>
+					<p>Temperature &#x2615; &#x2615;</p>
+				</div>
 				<div class="photos">photo</div>
 			</div>
 			<div class="text">text text text 3</div>
