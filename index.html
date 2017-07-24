@@ -83,8 +83,13 @@
 		
 		.photos {
 			background: url('USzmCKh.jpg') no-repeat center center;
-			background-color: red;
-			background-size: contain;
+			background-size: cover;
+		}
+		
+		.ratings {
+			display: -webkit-flex; display: flex;
+   			-webkit-flex-direction: column; flex-direction: column;
+    			-webkit-justify-content: space-around; justify-content: space-around;
 		}
 		
 		@media only screen and (min-width:0) and (max-width:604px) {
@@ -230,9 +235,9 @@
 		<div class="container2 title"><strong>The Lexington</strong></div>
 		<div class="container2">
 			<div class="container3 ratings">
-				<strong>Free Refill Frequency &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;</br>
-				Flavor &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;</br>
-				Temperature &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;</strong>
+				<p><strong>Free Refill Frequency &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;</strong></p>
+				<p><strong>Flavor &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;</strong></p>
+				<p><strong>Temperature &#x2615; &#x2615; &#x2615; &#x2615; &#x2615;</strong></p>
 			</div>
 			<div class="container3 photos">
 				<figure>
