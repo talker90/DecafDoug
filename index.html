@@ -176,7 +176,7 @@
 			}
 			
 			.container2 {
-				-webkit-flex-direction: column; flex-direction: column; 
+				-webkit-flex-direction: column; flex-direction: row; 
 				-webkit-flex-wrap: wrap; flex-wrap: wrap; 
 				-webkit-flex-grow: 1; flex-grow: 1; 
 				margin: 0 auto; 
@@ -192,20 +192,18 @@
 			}
 			
 			.container3:nth-child(1) {
-				width: 30%;
 				-webkit-flex-basis: 30%; flex-basis: 30%; 
 				-webkit-flex-basis: calc(100% / 3); flex-basis: calc(100% / 3); 
 			}
 			
 			.container3:nth-child(2) {
-				width: 30%;
-				-webkit-flex-basis: 60%; flex-basis: 60%; 
-				-webkit-flex-basis: calc(100% / 3 * 2); flex-basis: calc(100% / 3 * 2); 
+				-webkit-flex-basis: 300%; flex-basis: 30%; 
+				-webkit-flex-basis: calc(100% / 3); flex-basis: calc(100% / 3); 
 			}
 
 			.container3:nth-child(3) {
-				width: 70%;
-				-webkit-flex-basis: 100%; flex-basis: 100%; 
+				-webkit-flex-basis: 30%; flex-basis: 30%;
+				-webkit-flex-basis: calc(100% / 3); flex-basis: calc(100% / 3); 
 			}
 
 			@media only screen and (min-width:992px) {
