@@ -27,6 +27,7 @@
 			text-decoration: none;
 			color: black;
 		}
+		/* blocking out hamburger until I need it
 		#nav {
 			display: -webkit-flex; display: flex;
 			-webkit-justify-content: space-around; justify-content: space-around; 	
@@ -69,7 +70,8 @@
 				font-size: 1.8rem;
 			}
 		}
-		
+		blocking out hamburger until I need it */
+
 		h1 {
 			display: -webkit-flex; display: flex;
 			-webkit-justify-content: center; justify-content: center; 
@@ -128,12 +130,25 @@
 			-webkit-flex-direction: column; flex-direction: column;
 		}
 		
-		@media only screen and (min-width:0) and (max-width:604px) {
-			.container1 {
-				height: 275vh;
+		@media only screen @media only screen and (min-width:0) and (max-width:604px) and (orientation: portrait) {
+    			.container1 {
+				height: 285vh;
 				width: 100vw;
+			}
+		}
+		
+		@media only screen @media only screen and (min-width:0) and (max-width:604px) and (orientation: landscape) {
+    			.container1 {
+				height: 325vh;
+				width: 100vw;
+			}
+		}
+		
+		@media only screen and (min-width:0) and (max-width:604px) {
+			
+			.container1 {
 				-webkit-flex-direction: column; flex-direction: column; 
-				margin: 0.05vh 0;
+				margin: 0 0;
 			}
 			
 			.container2 {
@@ -149,6 +164,7 @@
 			.address {
 				font-size: 3.5rem;
 				font-size: 4vmax;
+				text-align: center;
 			}
 			
 			.container2:nth-child(1) {
