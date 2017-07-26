@@ -101,6 +101,10 @@
 			margin: 0 auto 2.5vh auto;
 		}
 		
+		[class^="photo"] {
+				background-size: cover;
+		}
+		
 		.photo1 {
 			background: url('IMG_4839 (2).jpg') no-repeat center center;
 		}
@@ -131,10 +135,9 @@
 		@media only screen and (min-width:0) and (max-width:604px) {
 			
 			.container1 {
-				height: 285vh;
+				height: 275vh;
 				width: 100vw;
 				-webkit-flex-direction: column; flex-direction: column; 
-				margin: 0 0;
 			}
 			
 			.container2 {
@@ -175,50 +178,29 @@
 					font-size: 3.25rem;
 					font-size: 3.5vmax;
 				}
-			
-			[class^="photo"] {
-				background-size: contain;
-			}
-			
-			.container3:nth-child(1) {
-				height: 18%;
-				-webkit-order: 1; order: 1;
-				background-color:red;
-			}
-			
-			.container3:nth-child(2) {
-				height: 50%;
-				-webkit-order: 3; order: 3; 
-				background-color:white;
-			}
-
-			.container3:nth-child(3) {
-				height: 32%;
-				-webkit-order: 2; order: 2; 
-				background-color:blue;
-			}
 		}
 		
 		@media only screen @media only screen and (min-width:0) and (max-width:604px) and (orientation: portrait) {
     			.container1 {
-				height: 285vh;
+				height: 275vh;
 				width: 100vw;
+				margin: 0;
 			}
 			
 			.container3:nth-child(1) {
-				height: 18%;
+				height: 25%;
 				-webkit-order: 1; order: 1;
 				background-color:red;
 			}
 			
 			.container3:nth-child(2) {
-				height: 50%;
+				height: 45%;
 				-webkit-order: 3; order: 3; 
 				background-color:white;
 			}
 
 			.container3:nth-child(3) {
-				height: 32%;
+				height: 30%;
 				-webkit-order: 2; order: 2; 
 				background-color:blue;
 			}
@@ -226,15 +208,15 @@
 		
 		@media only screen @media only screen and (min-width:0) and (max-width:604px) and (orientation: landscape) {
     			.container1 {
-				height: 325vh;
+				height: 315vh;
 				width: 100vw;
-				margin: 1vh 0;
+				margin: 0 0 10vh 0;
 			}
 			
 			.container3:nth-child(1) {
-				height: 25%;
+				height: 30%;
 				-webkit-order: 1; order: 1;
-				background-color:red;
+				background-color:blue;
 			}
 			
 			.container3:nth-child(2) {
@@ -244,9 +226,9 @@
 			}
 
 			.container3:nth-child(3) {
-				height: 25%;
+				height: 20%;
 				-webkit-order: 2; order: 2; 
-				background-color:blue;
+				background-color:red;
 			}
 		}
 		
