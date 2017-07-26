@@ -132,7 +132,6 @@
 			.container1 {
 				height: 100vh;
 				width: 100vw;
-				margin: 10vh;
 				-webkit-flex-direction: column; flex-direction: column; 
 			}
 			
@@ -188,6 +187,7 @@
 		@media only screen and (min-width:604px) {
 			.container1 {
 				-webkit-flex-direction: column; flex-direction: column;
+				margin: 10vh;
 			}
 			
 			.title {
@@ -246,10 +246,16 @@
 				}
 			}
 			
-			@media only screen and (min-width:604px) and (max-width:695px) {
+			@media only screen and (min-width:663px) and (max-width:695px) {
 				.ratings {
-					font-size: 0.85rem;
-					font-size: 1vmax;
+					font-size: 0.5rem;
+					font-size: 0.75vmax;
+				}
+			
+			@media only screen and (min-width:604px) and (max-width:663px) {
+				.ratings {
+					font-size: 0.3rem;
+					font-size: 0.5vmax;
 				}
 			}
 		}
