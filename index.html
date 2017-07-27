@@ -200,10 +200,6 @@
 		
 		/* portrait */
 		@media
-		only screen and (min-width:0) and (max-width:604px),
-		only screen and (min-width:0) and (max-width:604px) and (max-aspect-ratio: 1/1),
-		only screen and (min-width:0) and (max-width:604px) and (orientation: portrait),
-			
 		only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
 		only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
 		only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
@@ -230,26 +226,22 @@
 			.container3:nth-child(1) {
 				height: 25%;
 				-webkit-order: 1; order: 1;
-				background-color:red;
 			}
 			
 			.container3:nth-child(2) {
 				height: 40%;
-				-webkit-order: 3; order: 3; 
-				background-color:white;
+				-webkit-order: 3; order: 3;
 			}
 
 			.container3:nth-child(3) {
 				height: 35%;
 				-webkit-order: 2; order: 2; 
-				background-color:blue;
 			}
 		}
 		
 		/* landscape */
 		@media
-		only screen and (min-width:0) and (max-width:604px) and (min-aspect-ratio: 1/1),
-		only screen and (min-width:0) and (max-width:604px) and (orientation: landscape),
+		only screen and (min-width:0) and (max-width:604px),
 		
 		only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
 		only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
@@ -273,37 +265,19 @@
 				margin: 0 0 15vh 0;
 			}
 			
-			.photo1 {
-				background: url('IMG_4839 (2).jpg') no-repeat center center;
-				background-size: cover; /* this is needed with alongside the background property */
-			}
-		
-			.photo2 {
-				background: url('IMG_4840 (2).jpg') no-repeat center center;
-				background-size: cover;
-			}
-		
-			.photo3 {
-				background: url('IMG_4838 (2).jpg') no-repeat center center;
-				background-size: cover;
-			}
-			
 			.container3:nth-child(1) {
 				height: 27.5%;
 				-webkit-order: 1; order: 1;
-				background-color:yellow;
 			}
 			
 			.container3:nth-child(2) {
 				height: 47.5%;
 				-webkit-order: 3; order: 3; 
-				background-color:green;
 			}
 
 			.container3:nth-child(3) {
 				height: 25%;
 				-webkit-order: 2; order: 2; 
-				background-color:purple;
 			}
 		}
 		
@@ -395,9 +369,8 @@
 	</style>
 </head>
 <body>
-
 	<header>
-		<h1>Decaf Doug 11:01</h1>
+		<h1>Decaf Doug</h1>
 		
 		<!-- commenting out hamburger and nav for now
 		<input type="checkbox" id="hamburger" />
@@ -410,117 +383,120 @@
 		-->
 		
 	</header>
+	<main>
+		<div class="container1">
+			<div class="container2 title-box">
+				<p class="title"><strong>The Broiler</strong></p>
+				<p class="address"><em>1580 St. Clair Avenue St. Paul, MN</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3 ratings">
+					<p><strong>Free Refill Frequency 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+					</strong></p>
+					<p><strong>Price 
+						<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+					</strong></p>
+					<p><strong>Flavor <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+					</strong></p>
+					<p><strong>Temperature 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+					</strong></p>
+				</div>
+				<div class="container3 photo1">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>Hey coffee lovers. 
+					I went to the Broiler today and I had an empty cup for a long time. 
+					Usually they are pretty good. 
+					Sometimes they bring a pot, but the waiter wanted to serve one cup at a time. 
+					And they had a lot of servers so I don't know what the deal was. 
+					But their coffee is pretty good, it was hot, and freshly brewed.</p>
+				</div>
+			</div>
+		</div>
 
-	<div class="container1">
-		<div class="container2 title-box">
-			<p class="title"><strong>The Broiler</strong></p>
-			<p class="address"><em>1580 St. Clair Avenue St. Paul, MN</em></p>
-		</div>
-		<div class="container2 post">
-			<div class="container3 ratings">
-				<p><strong>Free Refill Frequency 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-				</strong></p>
-				<p><strong>Price 
-					<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
-				</strong></p>
-				<p><strong>Flavor <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-				</strong></p>
-				<p><strong>Temperature 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-				</strong></p>
+		<div class="container1">
+			<div class="container2 title-box">
+				<p class="title"><strong>Red Cow</strong></p>
+				<p class="address"><em>393 Selby Ave, St Paul, MN 55102</em></p>
 			</div>
-			<div class="container3 photo1">
-				<figure>
-					<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-				</figure>
-			</div>
-			<div class="container3 text">
-				<p>Hey coffee lovers. 
-				I went to the Broiler today and I had an empty cup for a long time. 
-				Usually they are pretty good. 
-				Sometimes they bring a pot, but the waiter wanted to serve one cup at a time. 
-				And they had a lot of servers so I don't know what the deal was. 
-				But their coffee is pretty good, it was hot, and freshly brewed.</p>
-			</div>
-		</div>
-	</div>
-	
-	<div class="container1">
-		<div class="container2 title-box">
-			<p class="title"><strong>Red Cow</strong></p>
-			<p class="address"><em>393 Selby Ave, St Paul, MN 55102</em></p>
-		</div>
-		<div class="container2 post">
-			<div class="container3 ratings">
-				<p><strong>Free Refill Frequency 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-				</strong></p>
-				<p><strong>Price 
-					<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
-				</strong></p>
-				<p><strong>Flavor 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-				</strong></p>
-				<p><strong>Temperature 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-				</strong></p>
-			</div>
-			<div class="container3 photo2">
-				<figure>
-					<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-				</figure>
-			</div>
-			<div class="container3 text">
-				<p>I liked the size of their mug. 
-				It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
-				They made a fresh pot for me and the flavor was pretty good.</p>
+			<div class="container2 post">
+				<div class="container3 ratings">
+					<p><strong>Free Refill Frequency 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+					</strong></p>
+					<p><strong>Price 
+						<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+					</strong></p>
+					<p><strong>Flavor 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+					</strong></p>
+					<p><strong>Temperature 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+					</strong></p>
+				</div>
+				<div class="container3 photo2">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>I liked the size of their mug. 
+					It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
+					They made a fresh pot for me and the flavor was pretty good.</p>
+				</div>
 			</div>
 		</div>
-	</div>
-	
-	<div class="container1">
-		<div class="container2 title-box">
-			<p class="title"><strong>The Lexington</strong></p>
-			<p class="address"><em>1096 Grand Ave, St Paul, MN 55105</em></p>
-		</div>
-		<div class="container2 post">
-			<div class="container3 ratings">
-				<p><strong>Free Refill Frequency 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-				</strong></p>
-				<p><strong>Price 
-					<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i></strong></p>
-				<p><strong>Flavor 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-				</strong></p>
-				<p><strong>Temperature <i class="material-icons">&#xE541;</i> 
-					<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-				</strong></p>
-			</div>
-			<div class="container3 photo3">
-				<figure>
-					<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-				</figure>
-			</div>
-			<div class="container3 text">
-				<p>The Lexngton had the best coffee service ever.
-				My cup was aways full.
-				They had a little coffee server with about 2 cups of coffee in it and the coffee was always fresh too.
-				And it was good tasting coffee, with fresh cream in a little pitcher
-				Very nice.</p>
-			</div>
-		</div>
-	</div>
 
+		<div class="container1">
+			<div class="container2 title-box">
+				<p class="title"><strong>The Lexington</strong></p>
+				<p class="address"><em>1096 Grand Ave, St Paul, MN 55105</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3 ratings">
+					<p><strong>Free Refill Frequency 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+					</strong></p>
+					<p><strong>Price 
+						<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i></strong></p>
+					<p><strong>Flavor 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+					</strong></p>
+					<p><strong>Temperature <i class="material-icons">&#xE541;</i> 
+						<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+					</strong></p>
+				</div>
+				<div class="container3 photo3">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>The Lexngton had the best coffee service ever.
+					My cup was aways full.
+					They had a little coffee server with about 2 cups of coffee in it and the coffee was always fresh too.
+					And it was good tasting coffee, with fresh cream in a little pitcher
+					Very nice.</p>
+				</div>
+			</div>
+		</div>
+	</main>
+
+<!-- this is so main tag is universally accepted -->
 <script>document.createElement('main');</script>
+	
 </body>
 </html>
