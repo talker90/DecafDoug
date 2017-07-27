@@ -100,20 +100,19 @@
 			margin: 0 auto 2.5vh auto;
 		}
 		
-		[class^="photo"] {
-				background-size: cover;
-		}
-		
 		.photo1 {
 			background: url('IMG_4839 (2).jpg') no-repeat center center;
+			background-size: contain; /* this is needed with alongside the background property */
 		}
 		
 		.photo2 {
 			background: url('IMG_4840 (2).jpg') no-repeat center center;
+			background-size: contain;
 		}
 		
 		.photo3 {
 			background: url('IMG_4838 (2).jpg') no-repeat center center;
+			background-size: contain;
 		}
 		
 		.ratings {
@@ -181,7 +180,8 @@
 		
 		/* portrait versus landscape */
 		
-		@media only screen and (min-width:0) and (max-width:604px) and (max-aspect-ratio: 1/1) {
+		@media only screen and (min-width:0) and (max-width:604px) and (max-aspect-ratio: 1/1) 
+			only screen and (min-device-width: 320px) and (max-device-width: 736px) {
     			.container1 {
 				height: 275vh;
 				width: 100vw;
@@ -207,7 +207,8 @@
 			}
 		}
 		
-		@media only screen and (min-width:0) and (max-width:604px) and (orientation: portrait) {
+		@media only screen and (min-width:0) and (max-width:604px) and (orientation: portrait) 
+			only screen and (min-device-width: 320px) and (max-device-width: 736px) {
     			.container1 {
 				height: 275vh;
 				width: 100vw;
@@ -233,7 +234,8 @@
 			}
 		}
 		
-		@media only screen and (min-width:0) and (max-width:604px) and (min-aspect-ratio: 1/1) {
+		@media only screen and (min-width:0) and (max-width:604px) and (min-aspect-ratio: 1/1),
+			only screen and (min-device-width: 320px) and (max-device-width: 736px) {
     			.container1 {
 				height: 315vh;
 				width: 100vw;
@@ -259,7 +261,8 @@
 			}
 		}
 			
-		@media only screen and (min-width:0) and (max-width:604px) and (orientation: landscape) {
+		@media only screen and (min-width:0) and (max-width:604px) and (orientation: landscape), 
+			only screen and (min-device-width: 320px) and (max-device-width: 736px) {
     			.container1 {
 				height: 315vh;
 				width: 100vw;
@@ -273,13 +276,13 @@
 			}
 			
 			.container3:nth-child(2) {
-				height: 50%;
+				height: 60%;
 				-webkit-order: 3; order: 3; 
 				background-color:white;
 			}
 
 			.container3:nth-child(3) {
-				height: 20%;
+				height: 10%;
 				-webkit-order: 2; order: 2; 
 				background-color:red;
 			}
