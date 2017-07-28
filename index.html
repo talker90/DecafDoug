@@ -254,17 +254,13 @@
 		screen and (device-width: 601px) and (device-height: 906px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332) and (orientation: portrait) {
 			.container1 {
 				height: 225vh;
-				width: 98vh; /* for border */
+				width: 98vw; /* for border */
 				padding: 2vmin; /* for border */
 				margin: 0 0 7.5vh 0;
 			}
 			
 			.border {
 				border: 1vmin solid grey;
-			}
-			
-			[class^="photo"] {
-				border: 1vmin solid black;
 			}
 		
 			.container3:nth-child(1) {
@@ -276,6 +272,7 @@
 				height: 42.5%;
 				height: calc(42.5% - 2vmin);
 				-webkit-order: 3; order: 3;
+				border: 1vmin solid black;
 			}
 
 			.container3:nth-child(3) {
