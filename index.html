@@ -71,64 +71,6 @@
 			}
 		}
 		*/
-
-		h1 {
-			display: -webkit-flex; display: flex;
-			-webkit-justify-content: center; justify-content: center; 
-			font-size: 90px;
-			font-size: 6rem;
-			font-size: 7.85vw;
-		}
-		
-		[class^="container"] {
-			display: -webkit-flex; display: flex;
-			padding: 1vmin;
-		}
-		
-		.title-box {
-			display: -webkit-flex; display: flex;
-			-webkit-flex-direction: column; flex-direction: column;
-			-webkit-align-items: center; align-items: center;
-			-webkit-justify-content: center; justify-content: center;
-		}
-		
-		.title {
-			margin: auto auto 1vh auto;
-		}
-		
-		.address {
-			margin: 0 auto 2.5vh auto;
-		}
-		
-		.photo1 {
-			background: url('IMG_4839 (2).jpg') no-repeat center center;
-			background-size: contain; /* this is needed with alongside the background property */
-		}
-		
-		.photo2 {
-			background: url('IMG_4840 (2).jpg') no-repeat center center;
-			background-size: contain;
-		}
-		
-		.photo3 {
-			background: url('IMG_4838 (2).jpg') no-repeat center center;
-			background-size: contain;
-		}
-		
-		.ratings {
-			display: -webkit-flex; display: flex;
-			-webkit-flex-direction: column; flex-direction: column;
-		}
-		
-		.empty {
-			color: grey; 
-			filter: Alpha(opacity=20); opacity: 0.2;
-		}
-		
-		.text {
-			display: -webkit-flex; display: flex;
-			-webkit-flex-direction: column; flex-direction: column;
-		}
 		
 		/* portrait and landscape */
 		@media 
@@ -251,9 +193,7 @@
 		only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1),
 		only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2),
 		(max-device-width: 800px) and (orientation: portrait),
-		screen and (device-width: 601px) and (device-height: 906px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332) and (orientation: portrait),
-		only screen and (min-device-width: 800px) and (max-device-width: 1280px) and (-webkit-min-device-pixel-ratio: 1.5) and (orientation: portrait),
-		only screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1.5) and (orientation: portrait) {
+		screen and (device-width: 601px) and (device-height: 906px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332) and (orientation: portrait) {
 			.container1 {
 				height: 225vh;
 				width: 100vw;
@@ -362,6 +302,64 @@
 						font-size: 1.15vmax;
 					}
 				}
+		}
+		
+		h1 {
+			display: -webkit-flex; display: flex;
+			-webkit-justify-content: center; justify-content: center; 
+			font-size: 90px;
+			font-size: 6rem;
+			font-size: 7.85vw;
+		}
+		
+		[class^="container"] {
+			display: -webkit-flex; display: flex;
+			padding: 1vmin;
+		}
+		
+		.title-box {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: column; flex-direction: column;
+			-webkit-align-items: center; align-items: center;
+			-webkit-justify-content: center; justify-content: center;
+		}
+		
+		.title {
+			margin: auto auto 1vh auto;
+		}
+		
+		.address {
+			margin: 0 auto 2.5vh auto;
+		}
+		
+		.photo1 {
+			background: url('IMG_4839 (2).jpg') no-repeat center center;
+			background-size: contain; /* this is needed with alongside the background property */
+		}
+		
+		.photo2 {
+			background: url('IMG_4840 (2).jpg') no-repeat center center;
+			background-size: contain;
+		}
+		
+		.photo3 {
+			background: url('IMG_4838 (2).jpg') no-repeat center center;
+			background-size: contain;
+		}
+		
+		.ratings {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: column; flex-direction: column;
+		}
+		
+		.empty {
+			color: grey; 
+			filter: Alpha(opacity=20); opacity: 0.2;
+		}
+		
+		.text {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: column; flex-direction: column;
 		}
 			
 	</style>
