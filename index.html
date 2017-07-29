@@ -8,11 +8,18 @@
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oswald|Montserrat">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	
-	<meta property="og:url" content="decafdoug.com" />
-	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Decaf Doug.com" />
 	<meta property="og:description" content="A webpage about decaf coffee, because coffee lovers have to drink decaf sometimes" />
 	<meta property="og:image" content="http://i.imgur.com/jejxCJZ.jpg" />
+	<meta property="og:url" content="decafdoug.com" />
+	<meta property="og:type" content="website" />
+	<meta name="twitter:title" content="Decaf Doug.com">
+	<meta name="twitter:description" content="A webpage about decaf coffee, because coffee lovers have to drink decaf sometimes">
+	<meta name="twitter:image" content="http://i.imgur.com/jejxCJZ.jpg">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image:alt" content="Image of a cup of decaf coffee">
+	<meta property="og:site_name" content="Decaf Doug">
+	<meta property="fb:app_id" content="261141244400249" />
 	
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
@@ -387,18 +394,29 @@
 		}
 			
 	</style>
-	
-	<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-		  ga('create', 'UA-103616212-1', 'auto');
-		  ga('send', 'pageview');
-	</script>
 </head>
 <body>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '261141244400249',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+    FB.AppEvents.logPageView();   
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+	
 <div class="border">
 	<header>
 		<h1>Decaf Doug</h1>
