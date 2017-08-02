@@ -102,8 +102,8 @@
 		}
 		
 		.logo {
-				background: url('IMG_1231 (1).jpg') no-repeat center center;
-				background-size: cover;
+			background: url('IMG_1231 (1).jpg') no-repeat center center;
+			background-size: cover;
 		}
 		
 		[class^="container"] {
@@ -115,6 +115,11 @@
 			-webkit-flex-direction: column; flex-direction: column;
 			-webkit-align-items: center; align-items: center;
 			-webkit-justify-content: center; justify-content: center;
+		}
+		
+		.beans {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: row; flex-direction: row;
 		}
 		
 		.title {
@@ -196,7 +201,7 @@
 				width: 100%;
 			}
 			
-			.title {
+			.title, .beans {
 				font-size: 5.25rem;
 				font-size: 5.5vw;
 			}
@@ -347,7 +352,7 @@
 				margin: 0 0 20vh 0;
 			}
 			
-			.title {
+			.title, .beans {
 				font-size: 2.5vw;
 			}
 			
@@ -473,10 +478,12 @@
 	<main>
 		<div class="container1">
 			<div class="container2 title-box">
-				<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
-				<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
-				<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
-				
+				<div class="beans">
+					<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
+					<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
+					<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
+				</div>
+					
 				<p class="title"><strong>IHOP</strong></p>
 				<p class="address"><em>2231 Killebrew Dr, Bloomington, MN 55425</em></p>
 			</div>
