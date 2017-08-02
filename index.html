@@ -299,6 +299,11 @@
 		/* desktop */
 			
 		@media only screen and (min-width:604px) {
+			.header-box {
+				display: -webkit-flex; display: flex;
+				-webkit-justify-content: center; justify-content: center; 
+			}
+			
 			.logo {
 				background: url('IMG_1231 (1).jpg') no-repeat center center;
 				background-size: cover;
@@ -422,7 +427,9 @@
 	
 <div class="border">
 	<header>
-		<div class="logo"></div><h1>Decaf Doug</h1>
+		<div class="header-box">
+			<div class="logo"></div><h1>Decaf Doug</h1>
+		</div>
 		
 		<!-- commenting out hamburger and nav for now
 		<input type="checkbox" id="hamburger" />
