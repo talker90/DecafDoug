@@ -101,8 +101,9 @@
 			-webkit-align-items: center; align-items: center;
 		}
 		
-		.container1 {
-			100vw;
+		.logo {
+				background: url('IMG_1231 (1).jpg') no-repeat center center;
+				background-size: cover;
 		}
 		
 		[class^="container"] {
@@ -173,8 +174,13 @@
 		only screen and (min-width:0) and (max-width:604px) {
 			h1 {
 				height: 10vh;
-				font-size: 6rem;
-				font-size: 7vw;
+				font-size: 9rem;
+				font-size: 10vw;
+			}
+			
+			.logo {
+				height: 9rem; height: 10vw;
+				width: 9rem; width: 10vw;
 			}
 			
 			.container1 {
@@ -227,6 +233,7 @@
 		screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
 			.container1 {
 				margin: 0 0 15vh 0;
+				width: 100vw;
 			}
 			
 			.container3:nth-child(1) {
@@ -301,6 +308,10 @@
 		/* desktop */
 			
 		@media only screen and (min-width:604px) {
+			.container1 {
+				width: 100vw;
+			}
+			
 			h1 {
 				font-size: 90px;
 				font-size: 6rem;
@@ -308,8 +319,6 @@
 			}
 			
 			.logo {
-				background: url('IMG_1231 (1).jpg') no-repeat center center;
-				background-size: cover;
 				height:7.85vw;
 				width:7.85vw;
 			}
@@ -430,7 +439,7 @@
 	
 <div class="border">
 	<header>
-		<h1><div class="logo"></div>&nbspDecaf Doug</h1>
+		<h1><div class="logo"></div>&nbspDecaf Doug&nbsp<div class="logo"></div></h1>
 		
 		<!-- commenting out hamburger and nav for now
 		<input type="checkbox" id="hamburger" />
