@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta name="keywords" content="coffee, decaf, decaf coffee, st. paul, saint paul, coffee lovers">
+	<meta property="og:title" content="Decaf Doug">
+	<meta property="og:description" content="A webpage about decaf coffee, because coffee lovers have to drink decaf sometimes">
+	<meta name="description" content="A webpage about decaf coffee, because coffee lovers have to drink decaf sometimes">
+	<meta property="og:image" content="http://i.imgur.com/jejxCJZ.jpg">
+	<meta property="og:url" content="http://www.decafdoug.com">
+	<meta property="og:type" content="website">
+	<meta name="twitter:title" content="Decaf Doug.com">
+	<meta name="twitter:description" content="A webpage about decaf coffee, because coffee lovers have to drink decaf sometimes">
+	<meta name="twitter:image" content="http://i.imgur.com/jejxCJZ.jpg">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image:alt" content="Image of a cup of decaf coffee">
+	<meta property="og:site_name" content="Decaf Doug">
+	<meta property="fb:app_id" content="261141244400249" />
+
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oswald|Montserrat">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		  (adsbygoogle = window.adsbygoogle || []).push({
+		    google_ad_client: "ca-pub-9283020036917902",
+		    enable_page_level_ads: true
+		  });
+	</script>
+
+	<title>Decaf Doug</title>
+
+	<style type="text/css">
+		html {
+  			box-sizing: border-box;
+		}
+		*, *:before, *:after {
+  			box-sizing: inherit;
+		}
+		main {
+			display: block;
+		}
+		body {
+			font-family: Oswald, Montserrat, Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		a {
+			text-decoration: none;
+			color: black;
+		}
+		
+		/* commenting out nav and hamburger for now
+		#nav {
+			display: -webkit-flex; display: flex;
+			-webkit-justify-content: space-around; justify-content: space-around; 	
+			padding: 0;
+			margin-bottom: 0;
+			list-style-type: none;
+			font-size: 4vw;
+		}
+		.nav-items:hover {
+			font-size: 130%;
+		}
+		input[id="hamburger"] {
+			display: none;
+		}
+		@media only screen and (min-width:0) and (max-width:360px) {
+			label[for="hamburger"] {
+				display: -webkit-flex; display: flex;
+				-webkit-align-items: center; align-items: center; 
+				-webkit-justify-content: center; justify-content: center; 
+				font-size: 10vmin;
+			}
+	
+			label[for="hamburger"] + nav {
+				overflow: hidden;
+				height: 0;
+			}
+	
+			input[id="hamburger"]:checked ~ nav {
+				height: auto;
+			}
+		}
+		@media only screen and (min-width:361px) {
+			label[for="hamburger"] {
+				display: none;
+			}
+		}
+		@media (min-width: 673px) {
+			#nav {
+				font-size: 1.8rem;
+			}
+		}
+		*/
+		
+		h1 {
+			display: -webkit-flex; display: flex;
+			-webkit-justify-content: center; justify-content: center; 
+			-webkit-align-items: center; align-items: center;
+		}
+		
+		.logo {
+			background: url('IMG_1231 (1).jpg') no-repeat center center;
+			background-size: cover;
+		}
+		
+		[class^="container"] {
+			display: -webkit-flex; display: flex;
+		}
+		
+		.title-box {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: column; flex-direction: column;
+			-webkit-align-items: center; align-items: center;
+			-webkit-justify-content: center; justify-content: center;
+		}
+		
+		.beans {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: row; flex-direction: row;
+			-webkit-justify-content: center; justify-content: center; 
+			-webkit-align-items: flex-end; align-items: flex-start;
+		}
+		
+		.title {
+			margin: 0 0 1vh 0;
+		}
+		
+		.address {
+			margin: 0 0 1.5vh 0;
+		}
+		
+		.photo1 {
+			background: url('IMG_4839 (2).jpg') no-repeat center center;
+			background-size: contain; /* this is needed with alongside the background property */
+		}
+		
+		.photo2 {
+			background: url('IMG_4840 (2).jpg') no-repeat center center;
+			background-size: contain;
+		}
+		
+		.photo3 {
+			background: url('IMG_4838 (2).jpg') no-repeat center center;
+			background-size: contain;
+		}
+		
+		.photo4 {
+			background: url('unnamed (2).jpg') no-repeat center center;
+			background-size: contain;
+		}
+		
+		.photo5 {
+				background: url('IMG-4899 (1).JPG') no-repeat center center;
+				background-size: cover;
+		}
+		
+		.photo6 {
+				background: url('IMG_4926.jpg') no-repeat center center;
+				background-size: cover;
+		}
+		
+		.ratings {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: column; flex-direction: column;
+		}
+		
+		.empty {
+			color: grey; 
+			filter: Alpha(opacity=20); opacity: 0.2;
+		}
+		
+		.text {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: column; flex-direction: column;
+		}
+		
+		.logo {
+			display: inline-block;
+		} /* put this at the bottom just in case */
+		
+		/* portrait and landscape */
+		@media 
+		
+		only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2),
+		only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2),
+		only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2),
+		only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3),
+		screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2),
+		screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+		screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+		screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+		
+		only screen and (min-width:0) and (max-width:604px) {
+			h1 {
+				font-size: 9rem;
+				font-size: 10vw;
+			}
+			
+			.beans {
+				height: 14rem;
+				height: 15vh;
+			}
+			
+			.logo {
+				height: 9rem; height: 10vw;
+				width: 9rem; width: 10vw;
+			}
+			
+			.container1 {
+				-webkit-flex-direction: column; flex-direction: column; 
+			}
+			
+			.container2 {
+				-webkit-flex-direction: column; flex-direction: column; 
+				width: 100%;
+			}
+			
+			.title {
+				font-size: 5.25rem;
+				font-size: 5.5vw;
+			}
+			
+			.beans img {
+				height: 5.25rem; height:5.5vw;
+			}
+			
+			.address {
+				font-size: 3.5rem;
+				font-size: 4vmax;
+				text-align: center;
+			}
+			
+			.text {
+				font-size: 3.5rem;
+				font-size: 4vmax;
+			}
+			
+			.ratings {
+				font-size: 2.5rem;
+				font-size: 3vmax;
+			}
+			
+			.material-icons {
+					font-size: 3.25rem;
+					font-size: 3.5vmax;
+			}
+		}
+		
+		/* landscape */
+		@media
+		only screen and (min-width:0) and (max-width:604px),
+		
+		only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
+		only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
+		only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
+		only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape),
+		screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape),
+		screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape),
+		screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape),
+		screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+			h1 {
+				height: 50vh;
+			}
+			
+			.container1 {
+				margin: 0 0 15vh 0;
+				width: 100vw;
+			}
+			
+			.container3:nth-child(1) {
+				-webkit-order: 1; order: 1;
+			}
+			
+			.container3:nth-child(2) {
+				height: 47.5vh;
+				-webkit-order: 3; order: 3;
+			}
+
+			.container3:nth-child(3) {
+				-webkit-order: 2; order: 2;
+			}
+		}
+		
+		/* portrait */
+		@media
+		only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
+		only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
+		only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
+		only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait),
+		screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait),
+		screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait),
+		screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait),
+		screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+			h1 {
+				height: 30vh;
+			}
+			
+			.container1 {
+				width: 98vw; /* for border */
+				margin: 0 0 7.5vh 0;
+				padding:0 8vmin 0 4vmin;
+			}
+			
+			.border {
+				border: 1vmin solid grey;
+			}
+			
+			.ratings {
+				font-size: 2rem;
+				font-size: 2.5vmax;
+			}
+			
+			.photo1 {
+				background: url('IMG_4839 (2).jpg') no-repeat center center;
+				background-size: cover; /* this is needed with alongside the background property */
+			}
+
+			.photo2 {
+				background: url('IMG_4840 (2).jpg') no-repeat center center;
+				background-size: cover;
+			}
+
+			.photo3 {
+				background: url('IMG_4838 (2).jpg') no-repeat center center;
+				background-size: cover;
+			}
+			
+			.photo4 {
+				background: url('unnamed (2).jpg') no-repeat center center;
+				background-size: cover;
+			}
+			
+			.photo5 {
+				background: url('IMG-4899 (1).JPG') no-repeat center center;
+				background-size: cover;
+			}
+			
+			.photo6 {
+				background: url('IMG_4926.jpg') no-repeat center center;
+				background-size: cover;
+			}
+		
+			.container3:nth-child(1) {
+				-webkit-order: 1; order: 1;
+			}
+			
+			.container3:nth-child(2) {
+				height: 42.5vh;
+				-webkit-order: 3; order: 3;
+				border: 1vmin solid black;
+			}
+
+			.container3:nth-child(3) {
+				-webkit-order: 2; order: 2;
+			}
+		}
+		
+		/* desktop */
+			
+		@media only screen and (min-width:604px) {
+			.container1 {
+				width: 100vw;
+			}
+			
+			h1 {
+				font-size: 90px;
+				font-size: 6rem;
+				font-size: 7.85vw;
+				height: 45vh;
+			}
+			
+			.logo {
+				height:7.85vw;
+				width:7.85vw;
+			}
+			
+			.container1 {
+				-webkit-flex-direction: column; flex-direction: column;
+				margin: 0 0 20vh 0;
+			}
+			
+			.title {
+				font-size: 2.5vw;
+			}
+			
+			.beans {
+				height: 25vh;
+			}
+			
+			.beans img {
+				height: 2.5vw;
+			}
+			
+			.address {
+				font-size: 1.5rem;
+				font-size: 1.75vmax;
+			}
+			
+			.container2 {
+				width: 100%;
+				margin: 0 0 3.5rem 0;
+				margin: 0 0 4vh 0;
+			}
+			
+			.post {
+				-webkit-flex-direction: row; flex-direction: row; 
+				-webkit-flex-wrap: wrap; flex-wrap: wrap; 
+				-webkit-flex-grow: 1; flex-grow: 1; 
+				margin: 0 0; 
+			}
+			
+			.text {
+				padding: 0 3.5vw;
+				font-size: 1.75rem;
+				font-size: 2vmax;
+			}
+			
+			.container3 {
+				-webkit-flex-grow: 1; flex-grow: 1; 
+			}
+			
+			.container3:nth-child(1) {
+				-webkit-flex-basis: 25%; flex-basis: 25%;
+				-webkit-align-items: center; align-items: center;
+				-webkit-justify-content: center; justify-content: center;
+			}
+			
+			.container3:nth-child(2) {
+				-webkit-flex-basis: 20%; flex-basis: 20%; 
+			}
+
+			.container3:nth-child(3) {
+				-webkit-flex-basis: 55%; flex-basis: 55%;
+				-webkit-justify-content: center; justify-content: center;
+			}
+			
+			.ratings {
+				-webkit-align-items: flex-start; align-items: flex-start;
+			}
+			
+			/* ratings for desktop */
+			
+				@media only screen and (min-width:823px) {
+					.ratings {
+						font-size: 1rem;
+						font-size: 1.25vmax;
+					}
+					.material-icons {
+						font-size: 1.15rem;
+						font-size: 1.5vmax;
+					}
+				}
+		
+		
+				@media only screen and (min-width:670px) and (max-width:823px) {
+					.ratings {
+						font-size: 0.85rem;
+						font-size: 1vmax;
+					}
+					.material-icons {
+						font-size: 1.15rem;
+						font-size: 1.35vmax;
+					}
+				}
+
+				@media only screen and (min-width:604px) and (max-width:670px) {
+					.ratings {
+						font-size: 0.6rem;
+						font-size: 0.75vmax;
+					}
+					.material-icons {
+						font-size: 1rem;
+						font-size: 1.15vmax;
+					}
+				}
+		}
+			
+	</style>
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-103616212-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+<body>
+	
+<div class="border">
+	<header>
+		<h1>
+			<div class="logo"></div>&nbspAbout Us&nbsp<div class="logo"></div>
+		</h1>
+		
+		
+		
+		<!-- commenting out hamburger and nav for now
+		<input type="checkbox" id="hamburger" />
+		<label for="hamburger">&#x2630;</label>
+		<nav>
+			<ul id="nav">
+				<li class="nav-items"><a href="index.html"></a></li>
+			</ul>
+		</nav>
+		-->
+		
+	</header>
+	<div class="beans">
+		<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
+		&nbsp
+		<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
+		&nbsp
+		<img src="if_barista-icons_coffee-bean_889379.svg" onerror="this.onerror=null; this.src='if_barista-icons_coffee-bean_889379.png'">
+	</div>
+
+	<main>
+		<div class="container1" id="review_uptowner">
+			<div class="container2 title-box">	
+				<p class="title"><strong>The Uptowner</strong></p>
+				<p class="address"><em>1100 Grand Ave, St Paul, MN 55105</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3">
+					<div class="container4 ratings">
+						<p><strong>Flavor 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Temperature 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Refill Frequency 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Price 
+							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i>
+						</strong></p>
+					</div>
+				</div>
+				<div class="container3 photo6">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>
+					Hello, this is Decaf Doug &#8482;. The flavor was about average.
+					I guess we could give the temperature a 5, it was really hot coffee.
+					The refill frequency was good. 
+					They didn't give me a pot, and they were really busy, but when my cup was empty they were still there within a minute.
+					But the price was kind of high. It was $2.95 which I think makes them in a higher price range.
+					The regular coffee did have a little more flavor than the decaf, but I don't know if that's a typical thing.
+					So the Uptowner was very busy but still kept my coffee filled, it was hot, and it had a good flavor.
+					They had a higher priced coffee but they had a coupon for my food, so it was like getting free coffee.
+					Also, as a side note, they have free parking in the back before 3 o'clock which is always a good thing on Grand Avenue.
+					This is Decaf Doug &#8482, signing out.
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="container1" id="review_snuffys">
+			<div class="container2 title-box">	
+				<p class="title"><strong>Snuffy's</strong></p>
+				<p class="address"><em>244 Cleveland Ave S, St Paul, MN 55105</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3">
+					<div class="container4 ratings">
+						<p><strong>Flavor 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Temperature 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Refill Frequency 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Price 
+							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+						</strong></p>
+					</div>
+				</div>
+				<div class="container3 photo5">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>
+					Hello, this is Decaf Doug &#8482;. I stopped at Snuffy's today and even though the coffee was average tasting but they were exceptional in refills.
+					In fact, they even gave me a to-go cup and made <em>two</em> fresh pots of coffee!
+					My cup was always filled so I never ran out of coffee. Even when I left I had coffee.
+					The temperature was great, it was very hot, just how I like it.
+					I think I covered everything. 
+					I'd recommend it.
+					And then if you go for food they usually have a coupon, but that may be another story.
+					</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="container1" id="review_ihop">
+			<div class="container2 title-box">	
+				<p class="title"><strong>IHOP</strong></p>
+				<p class="address"><em>2231 Killebrew Dr, Bloomington, MN 55425</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3">
+					<div class="container4 ratings">
+						<p><strong>Flavor 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Temperature 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Refill Frequency 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Price 
+							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+						</strong></p>
+					</div>
+				</div>
+				<div class="container3 photo4">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>
+					The IHOP coffee was hot and fresh and they even brought me a second pot when I asked for more coffee.
+					They were quick about it so I never had an empty cup.
+					The coffee had a good flavor but wasn't very strong coffee while still robust.
+					It was hot and fresh and good tasting coffee.
+					It was an average price at $2.29.
+					The last time I was at an IHOP they even gave me a to-go cup for my coffee, so they are super about getting you all the coffee that you could possibly drink.
+					And that's important for Decaf Doug &#8482;, to be able to have a sip of coffee all of the time.
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="container1">
+			<div class="container2 title-box">
+				<p class="title"><strong>Red Cow</strong></p>
+				<p class="address"><em>393 Selby Ave, St Paul, MN 55102</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3">
+					<div class="container4 ratings">
+						<p><strong>Flavor 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Temperature 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Refill Frequency 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Price 
+							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+						</strong></p>
+					</div>
+				</div>
+				<div class="container3 photo2">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>I liked the size of their mug. 
+					It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
+					They made a fresh pot for me and the flavor was pretty good.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="container1">
+			<div class="container2 title-box">
+				<p class="title"><strong>The Lexington</strong></p>
+				<p class="address"><em>1096 Grand Ave, St Paul, MN 55105</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3 ratings">
+					<div class="container4 ratings">
+						<p><strong>Flavor 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Temperature <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Refill Frequency 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Price 
+							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i></strong>
+						</p>
+					</div>
+				</div>
+				<div class="container3 photo3">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>The Lexington had the best coffee service ever.
+					My cup was aways full.
+					They had a little coffee server with about 2 cups of coffee in it and the coffee was always fresh too.
+					And it was good tasting coffee, with fresh cream in a little pitcher.
+					Very nice.</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="container1">
+			<div class="container2 title-box">
+				<p class="title"><strong>The Broiler</strong></p>
+				<p class="address"><em>1580 St. Clair Avenue St. Paul, MN</em></p>
+			</div>
+			<div class="container2 post">
+				<div class="container3 ratings">
+					<div class="container4 ratings">
+						<p><strong>Flavor <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Temperature 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Refill Frequency 
+							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+							<i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+						</strong></p>
+						<p><strong>Price 
+							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+						</strong></p>
+					</div>
+				</div>
+				<div class="container3 photo1">
+					<figure>
+						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+					</figure>
+				</div>
+				<div class="container3 text">
+					<p>Hey coffee lovers. 
+					I went to the Broiler today and I had an empty cup for a long time. 
+					Usually they are pretty good. 
+					Sometimes they bring a pot, but the waiter wanted to serve one cup at a time. 
+					And they had a lot of servers so I don't know what the deal was. 
+					But their coffee is pretty good, it was hot, and freshly brewed.</p>
+				</div>
+			</div>
+		</div>
+	</main>
+</div>
+
+<!-- this is so main tag is universally accepted -->
+<script>document.createElement('main');</script>
+	
+</body>
+</html>
