@@ -486,6 +486,11 @@
 			border-style: solid none none none;
 			padding: 0.75rem; padding: 1vh;
 		}
+		
+		:target > div {
+			display: none;
+		}
+		
 			
 	</style>
 	
@@ -531,263 +536,286 @@
 	</div>
 
 	<main>
-		<div class="container1" id="review_uptowner">
-			<div class="container2 title-box">	
-				<p class="title"><strong>The Uptowner</strong></p>
-				<p class="address"><em>1100 Grand Ave, St Paul, MN 55105</em></p>
-			</div>
-			<div class="container2 post">
-				<div class="container3">
-					<div class="container4 ratings">
-						<p><strong>Flavor 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Temperature 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Refill Frequency 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Price 
-							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i>
-						</strong></p>
+		<div id="lifestyle"> <!-- opposite for :target -->
+			<div class="container1" id="review_uptowner">
+				<div class="container2 title-box">	
+					<p class="title"><strong>The Uptowner</strong></p>
+					<p class="address"><em>1100 Grand Ave, St Paul, MN 55105</em></p>
+				</div>
+				<div class="container2 post">
+					<div class="container3">
+						<div class="container4 ratings">
+							<p><strong>Flavor 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i>
+							</strong></p>
+						</div>
 					</div>
-				</div>
-				<div class="container3 photo6">
-					<figure>
-						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-					</figure>
-				</div>
-				<div class="container3 text">
-					<p>
-					Hello, this is Decaf Doug &#8482;. The flavor was about average.
-					I guess we could give the temperature a 5, it was really hot coffee.
-					The refill frequency was good. 
-					They didn't give me a pot, and they were really busy, but when my cup was empty they were still there within a minute.
-					But the price was kind of high. It was $2.95 which I think makes them in a higher price range.
-					The regular coffee did have a little more flavor than the decaf, but I don't know if that's a typical thing.
-					So the Uptowner was very busy but still kept my coffee filled, it was hot, and it had a good flavor.
-					They had a higher priced coffee but they had a coupon for my food, so it was like getting free coffee.
-					Also, as a side note, they have free parking in the back before 3 o'clock which is always a good thing on Grand Avenue.
-					This is Decaf Doug &#8482, signing out.
-					</p>
-				</div>
-			</div>
-		</div>
-		<div class="container1" id="review_snuffys">
-			<div class="container2 title-box">	
-				<p class="title"><strong>Snuffy's</strong></p>
-				<p class="address"><em>244 Cleveland Ave S, St Paul, MN 55105</em></p>
-			</div>
-			<div class="container2 post">
-				<div class="container3">
-					<div class="container4 ratings">
-						<p><strong>Flavor 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Temperature 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Refill Frequency 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Price 
-							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
-						</strong></p>
+					<div class="container3 photo6">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
 					</div>
-				</div>
-				<div class="container3 photo5">
-					<figure>
-						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-					</figure>
-				</div>
-				<div class="container3 text">
-					<p>
-					Hello, this is Decaf Doug &#8482;. I stopped at Snuffy's today and even though the coffee was average tasting but they were exceptional in refills.
-					In fact, they even gave me a to-go cup and made <em>two</em> fresh pots of coffee!
-					My cup was always filled so I never ran out of coffee. Even when I left I had coffee.
-					The temperature was great, it was very hot, just how I like it.
-					I think I covered everything. 
-					I'd recommend it.
-					And then if you go for food they usually have a coupon, but that may be another story.
-					</p>
-				</div>
-			</div>
-		</div>
-		
-		<div class="container1" id="review_ihop">
-			<div class="container2 title-box">	
-				<p class="title"><strong>IHOP</strong></p>
-				<p class="address"><em>2231 Killebrew Dr, Bloomington, MN 55425</em></p>
-			</div>
-			<div class="container2 post">
-				<div class="container3">
-					<div class="container4 ratings">
-						<p><strong>Flavor 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Temperature 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Refill Frequency 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Price 
-							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
-						</strong></p>
-					</div>
-				</div>
-				<div class="container3 photo4">
-					<figure>
-						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-					</figure>
-				</div>
-				<div class="container3 text">
-					<p>
-					The IHOP coffee was hot and fresh and they even brought me a second pot when I asked for more coffee.
-					They were quick about it so I never had an empty cup.
-					The coffee had a good flavor but wasn't very strong coffee while still robust.
-					It was hot and fresh and good tasting coffee.
-					It was an average price at $2.29.
-					The last time I was at an IHOP they even gave me a to-go cup for my coffee, so they are super about getting you all the coffee that you could possibly drink.
-					And that's important for Decaf Doug &#8482;, to be able to have a sip of coffee all of the time.
-					</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="container1">
-			<div class="container2 title-box">
-				<p class="title"><strong>Red Cow</strong></p>
-				<p class="address"><em>393 Selby Ave, St Paul, MN 55102</em></p>
-			</div>
-			<div class="container2 post">
-				<div class="container3">
-					<div class="container4 ratings">
-						<p><strong>Flavor 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Temperature 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Refill Frequency 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Price 
-							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
-						</strong></p>
-					</div>
-				</div>
-				<div class="container3 photo2">
-					<figure>
-						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-					</figure>
-				</div>
-				<div class="container3 text">
-					<p>I liked the size of their mug. 
-					It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
-					They made a fresh pot for me and the flavor was pretty good.</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="container1">
-			<div class="container2 title-box">
-				<p class="title"><strong>The Lexington</strong></p>
-				<p class="address"><em>1096 Grand Ave, St Paul, MN 55105</em></p>
-			</div>
-			<div class="container2 post">
-				<div class="container3 ratings">
-					<div class="container4 ratings">
-						<p><strong>Flavor 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Temperature <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Refill Frequency 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Price 
-							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i></strong>
+					<div class="container3 text">
+						<p>
+						Hello, this is Decaf Doug &#8482;. The flavor was about average.
+						I guess we could give the temperature a 5, it was really hot coffee.
+						The refill frequency was good. 
+						They didn't give me a pot, and they were really busy, but when my cup was empty they were still there within a minute.
+						But the price was kind of high. It was $2.95 which I think makes them in a higher price range.
+						The regular coffee did have a little more flavor than the decaf, but I don't know if that's a typical thing.
+						So the Uptowner was very busy but still kept my coffee filled, it was hot, and it had a good flavor.
+						They had a higher priced coffee but they had a coupon for my food, so it was like getting free coffee.
+						Also, as a side note, they have free parking in the back before 3 o'clock which is always a good thing on Grand Avenue.
+						This is Decaf Doug &#8482, signing out.
 						</p>
 					</div>
 				</div>
-				<div class="container3 photo3">
-					<figure>
-						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-					</figure>
+			</div>
+			<div class="container1" id="review_snuffys">
+				<div class="container2 title-box">	
+					<p class="title"><strong>Snuffy's</strong></p>
+					<p class="address"><em>244 Cleveland Ave S, St Paul, MN 55105</em></p>
 				</div>
-				<div class="container3 text">
-					<p>The Lexington had the best coffee service ever.
-					My cup was aways full.
-					They had a little coffee server with about 2 cups of coffee in it and the coffee was always fresh too.
-					And it was good tasting coffee, with fresh cream in a little pitcher.
-					Very nice.</p>
+				<div class="container2 post">
+					<div class="container3">
+						<div class="container4 ratings">
+							<p><strong>Flavor 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+							</strong></p>
+						</div>
+					</div>
+					<div class="container3 photo5">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
+					</div>
+					<div class="container3 text">
+						<p>
+						Hello, this is Decaf Doug &#8482;. I stopped at Snuffy's today and even though the coffee was average tasting but they were exceptional in refills.
+						In fact, they even gave me a to-go cup and made <em>two</em> fresh pots of coffee!
+						My cup was always filled so I never ran out of coffee. Even when I left I had coffee.
+						The temperature was great, it was very hot, just how I like it.
+						I think I covered everything. 
+						I'd recommend it.
+						And then if you go for food they usually have a coupon, but that may be another story.
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="container1" id="review_ihop">
+				<div class="container2 title-box">	
+					<p class="title"><strong>IHOP</strong></p>
+					<p class="address"><em>2231 Killebrew Dr, Bloomington, MN 55425</em></p>
+				</div>
+				<div class="container2 post">
+					<div class="container3">
+						<div class="container4 ratings">
+							<p><strong>Flavor 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+							</strong></p>
+						</div>
+					</div>
+					<div class="container3 photo4">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
+					</div>
+					<div class="container3 text">
+						<p>
+						The IHOP coffee was hot and fresh and they even brought me a second pot when I asked for more coffee.
+						They were quick about it so I never had an empty cup.
+						The coffee had a good flavor but wasn't very strong coffee while still robust.
+						It was hot and fresh and good tasting coffee.
+						It was an average price at $2.29.
+						The last time I was at an IHOP they even gave me a to-go cup for my coffee, so they are super about getting you all the coffee that you could possibly drink.
+						And that's important for Decaf Doug &#8482;, to be able to have a sip of coffee all of the time.
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="container1" id="review_redCow">
+				<div class="container2 title-box">
+					<p class="title"><strong>Red Cow</strong></p>
+					<p class="address"><em>393 Selby Ave, St Paul, MN 55102</em></p>
+				</div>
+				<div class="container2 post">
+					<div class="container3">
+						<div class="container4 ratings">
+							<p><strong>Flavor 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+							</strong></p>
+						</div>
+					</div>
+					<div class="container3 photo2">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
+					</div>
+					<div class="container3 text">
+						<p>I liked the size of their mug. 
+						It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
+						They made a fresh pot for me and the flavor was pretty good.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="container1" id="review_lexington">
+				<div class="container2 title-box">
+					<p class="title"><strong>The Lexington</strong></p>
+					<p class="address"><em>1096 Grand Ave, St Paul, MN 55105</em></p>
+				</div>
+				<div class="container2 post">
+					<div class="container3 ratings">
+						<div class="container4 ratings">
+							<p><strong>Flavor 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i></strong>
+							</p>
+						</div>
+					</div>
+					<div class="container3 photo3">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
+					</div>
+					<div class="container3 text">
+						<p>The Lexington had the best coffee service ever.
+						My cup was aways full.
+						They had a little coffee server with about 2 cups of coffee in it and the coffee was always fresh too.
+						And it was good tasting coffee, with fresh cream in a little pitcher.
+						Very nice.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="container1" id="review_broiler">
+				<div class="container2 title-box">
+					<p class="title"><strong>The Broiler</strong></p>
+					<p class="address"><em>1580 St. Clair Avenue St. Paul, MN</em></p>
+				</div>
+				<div class="container2 post">
+					<div class="container3 ratings">
+						<div class="container4 ratings">
+							<p><strong>Flavor <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+							</strong></p>
+						</div>
+					</div>
+					<div class="container3 photo1">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
+					</div>
+					<div class="container3 text">
+						<p>Hey coffee lovers. 
+						I went to the Broiler today and I had an empty cup for a long time. 
+						Usually they are pretty good. 
+						Sometimes they bring a pot, but the waiter wanted to serve one cup at a time. 
+						And they had a lot of servers so I don't know what the deal was. 
+						But their coffee is pretty good, it was hot, and freshly brewed.</p>
+					</div>
 				</div>
 			</div>
 		</div>
-		
-		<div class="container1">
-			<div class="container2 title-box">
-				<p class="title"><strong>The Broiler</strong></p>
-				<p class="address"><em>1580 St. Clair Avenue St. Paul, MN</em></p>
-			</div>
-			<div class="container2 post">
-				<div class="container3 ratings">
-					<div class="container4 ratings">
-						<p><strong>Flavor <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Temperature 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Refill Frequency 
-							<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
-							<i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
-						</strong></p>
-						<p><strong>Price 
-							<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
-						</strong></p>
-					</div>
-				</div>
-				<div class="container3 photo1">
-					<figure>
-						<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
-					</figure>
-				</div>
-				<div class="container3 text">
-					<p>Hey coffee lovers. 
-					I went to the Broiler today and I had an empty cup for a long time. 
-					Usually they are pretty good. 
-					Sometimes they bring a pot, but the waiter wanted to serve one cup at a time. 
-					And they had a lot of servers so I don't know what the deal was. 
-					But their coffee is pretty good, it was hot, and freshly brewed.</p>
-				</div>
-			</div>
+		<div id="reviews"
 		</div>
 	</main>
 	<footer>
 		<div class="container1">
 			<div class="container2 title-box">
+				<a href="http://decafdoug.com" class="address">home</a>
+			</div>
+		</div>
+		<div class="container1">
+			<div class="container2 title-box">
 				<a href="http://decafdoug.com/AboutUs.html" class="address">about</a>
 			</div>
 		</div>
+		<div class="container1">
+			<input type="checkbox" id="reviews" />
+			<label for="reviews">
+				<div class="container2 title-box">
+					<a href="#reviews" class="address">reviews</a>
+				</div>
+			</label>
+		</div>
+		<div class="container1">
+			<div class="container2 title-box">
+				<a href="#lifestyle" class="address">lifestyle</a>
+			</div>
+		</div>
+		
 	</footer>
 </div>
 
