@@ -342,6 +342,17 @@
 				-webkit-justify-content: center; justify-content: center;
 			}
 		}
+		
+		footer {
+			display: -webkit-flex; display: flex;
+			-webkit-flex-direction: row; flex-direction: row;
+			border-style: solid none none none;
+			padding: 0.75rem; padding: 1vh;
+		}
+		
+		:target > div {
+			display: none;
+		}
 			
 	</style>
 	
@@ -414,6 +425,31 @@
 		</div>
 		
 	</main>
+		<footer>
+		<div class="container1">
+			<div class="container2 title-box">
+				<a href="http://decafdoug.com" class="address">home</a>
+			</div>
+		</div>
+		<div class="container1">
+			<div class="container2 title-box">
+				<a href="http://decafdoug.com/AboutUs.html" class="address">about</a>
+			</div>
+		</div>
+		<div class="container1">
+			<label for="reviews">
+				<div class="container2 title-box">
+					<a href="#reviews" class="address">reviews</a>
+				</div>
+			</label>
+		</div>
+		<div class="container1">
+			<div class="container2 title-box">
+				<a href="#lifestyle" class="address">lifestyle</a>
+			</div>
+		</div>
+		
+	</footer>
 </div>
 
 <!-- this is so main tag is universally accepted -->
