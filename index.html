@@ -288,9 +288,9 @@
 			}
 			
 			.photo1 { background: url('IMG_4839 (2).jpg') no-repeat center center;
-				background-size: contain; /* this is needed with alongside the background property */ }
+				background-size: cover; /* this is needed with alongside the background property */ }
 			.photo2 { background: url('IMG_4840 (2).jpg') no-repeat center center;
-				background-size: contain; }
+				background-size: cover; }
 			.photo3 { background: url('IMG_4838 (2).jpg') no-repeat center center;
 				background-size: cover; }
 			.photo4 { background: url('unnamed (2).jpg') no-repeat center center;
@@ -298,7 +298,7 @@
 			.photo5 { background: url('IMG-4899 (1).JPG') no-repeat center center;
 				background-size: cover; }
 			.photo6 { background: url('IMG_4926.jpg') no-repeat center center;
-				background-size: contain; }
+				background-size: cover; }
 			.photo7 { background: url('IMG_2713.JPG') no-repeat center center;
 				background-size: cover; }
 			.photo8 { background: url('IMG_5233 (2).jpg') no-repeat center center;
@@ -376,13 +376,17 @@
 				font-size: 2.5vmax;
 			}
 			
-			.container3:nth-child(2) {
+			.container3:nth-child(2), #lifestyle_milleLacs .container3:nth-child(1) {
 				height: 42.5vh;
 				border: 1vmin solid black;
 			}
 			
 			#lifestyle_milleLacs .container3:nth-child(1) {
 				height: 42.5vh;
+			}
+			
+			#lifestyle_milleLacs .container4 {
+				-webkit-justify-content: space-between; justify-content: space-between;
 			}
 		}
 		
