@@ -285,10 +285,6 @@
 					font-size: 3.5vmax;
 			}
 			
-			.container2 {
-				border: 1px solid yellow;
-			}
-			
 			.container4 {
 				border: 1px solid green;
 			}
@@ -316,12 +312,13 @@
 			
 			#lifestyle_milleLacs .container3:nth-child(1) {
 				-webkit-order: 2; order: 2;
-				
+				width: 100%;
 			}
 			
 			#lifestyle_milleLacs .container3:nth-child(2) {
 				-webkit-order: 3; order: 3;
-				height: auto;
+				height: auto; /* also below */
+				width: 100%;
 			}
 
 			#lifestyle_milleLacs .container3:nth-child(3) {
@@ -361,6 +358,10 @@
 			.container3:nth-child(2) {
 				height: 47.5vh;
 			}
+			
+			#lifestyle_milleLacs .container3:nth-child(2) {
+				height: auto;
+			}
 		}
 		
 		/* portrait */
@@ -398,6 +399,10 @@
 			.container3:nth-child(2) {
 				height: 42.5vh;
 				border: 1vmin solid black;
+			}
+			
+			#lifestyle_milleLacs .container3:nth-child(2) {
+				height: auto;
 			}
 			
 			.photo1 {
