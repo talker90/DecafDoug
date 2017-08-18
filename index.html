@@ -266,7 +266,7 @@
 			
 			.address {
 				font-size: 3.5rem;
-				font-size: 4vmax;
+				font-size: 4vmin;
 				text-align: center;
 			}
 			
@@ -283,6 +283,41 @@
 			.material-icons {
 					font-size: 3.25rem;
 					font-size: 3.5vmax;
+			}
+			
+			.container3:nth-child(1) {
+				-webkit-order: 1; order: 1;
+			}
+			
+			.container3:nth-child(2) {
+				height: 47.5vh;
+				-webkit-order: 3; order: 3;
+			}
+
+			.container3:nth-child(3) {
+				-webkit-order: 2; order: 2;
+			}
+			
+			#lifestyle_milleLacs .container3:nth-child(1) {
+				-webkit-order: 2; order: 2;
+			}
+			
+			#lifestyle_milleLacs .container3:nth-child(2) {
+				-webkit-order: 3; order: 3;
+			}
+
+			#lifestyle_milleLacs .container3:nth-child(3) {
+				-webkit-order: 1; order: 1;
+			}
+			
+			#lifestyle_milleLacs .container3 {
+				-webkit-flex-direction: row; flex-direction: row;
+			}
+			
+			#lifestyle_milleLacs .container4 {
+				margin: 3vmin 5vmin 3vmin 5min;
+				height: 89%; width: calc(100% - 10vmin);
+				width: 23%; height: calc(30% - 6vmin);	
 			}
 		}
 		
@@ -310,17 +345,8 @@
 				margin: 0 0 15vh 0;
 			}
 			
-			.container3:nth-child(1) {
-				-webkit-order: 1; order: 1;
-			}
-			
 			.container3:nth-child(2) {
 				height: 47.5vh;
-				-webkit-order: 3; order: 3;
-			}
-
-			.container3:nth-child(3) {
-				-webkit-order: 2; order: 2;
 			}
 		}
 		
@@ -354,6 +380,11 @@
 			.ratings {
 				font-size: 2rem;
 				font-size: 2.5vmax;
+			}
+			
+			.container3:nth-child(2) {
+				height: 42.5vh;
+				border: 1vmin solid black;
 			}
 			
 			.photo1 {
@@ -419,20 +450,6 @@
 			.photo13 {
 				background: url('IMG_2697 (1).JPG') no-repeat center center;
 				background-size: cover;
-			}
-		
-			.container3:nth-child(1) {
-				-webkit-order: 1; order: 1;
-			}
-			
-			.container3:nth-child(2) {
-				height: 42.5vh;
-				-webkit-order: 3; order: 3;
-				border: 1vmin solid black;
-			}
-
-			.container3:nth-child(3) {
-				-webkit-order: 2; order: 2;
 			}
 		}
 		
