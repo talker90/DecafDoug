@@ -23,6 +23,7 @@
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oswald|Montserrat">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<script>
@@ -348,6 +349,16 @@
 			padding: 0.75rem; padding: 1vh; 
 			font-family: Oswald, Montserrat, Arial, sans-serif;
 		}
+		
+		.material-icons {
+			font-size: 3.25rem;
+			font-size: 3.5vmax;
+		}
+		
+		.empty {
+			color: grey; 
+			filter: Alpha(opacity=20); opacity: 0.2;
+		}
 			
 	</style>
 	
@@ -424,12 +435,12 @@
 					So that's the plan!</p>
 					<p>How should you interpret my rating system?</p>
 					<p>
-						<ol id="ratingSystem">
-						      <li>Poor</li>
-						      <li>So-so</li>
-						      <li>Okay</li>
-						      <li>Pretty good</li>
-						      <li>Wow... this is better than regular</li>
+						<ol id="ratingSystem" style="list-style:none;">
+						      <li>Poor = 1 x <i class="material-icons">&#xE541;</i></li>
+						      <li>So-so = 2 x <i class="material-icons">&#xE541;</i></li>
+						      <li>Okay = 3 x <i class="material-icons">&#xE541;</i></li>
+						      <li>Pretty good = 4 x <i class="material-icons">&#xE541;</i></li>
+						      <li>Wow... this is better than regular = 5 x <i class="material-icons">&#xE541;</i> (!)</li>
 						</ol>
 					</p>
 				</div>
@@ -446,13 +457,13 @@
 				<p></p>
 				<p>How to use my rating system:</p>
 					<p>
-						<ol id="ratingSystem">
-						      <li>Poor</li>
-						      <li>So-so</li>
-						      <li>Okay</li>
-						      <li>Pretty good</li>
-						      <li>Wow... this is better than regular</li>
-						</ol>
+						<ul id="ratingSystem" style="list-style:none;">
+						      <li>Poor = <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i></li>
+						      <li>So-so = <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i></li>
+						      <li>Okay = <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i></li>
+						      <li>Pretty good = <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons empty">&#xE541;</i></li>
+						      <li>Wow... this is better than regular = <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i></li>
+						</ul>
 					</p>
 			</div>
 		</div>
