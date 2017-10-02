@@ -629,10 +629,9 @@
 			padding: 0 0 2vh 0;
 		}
 		
-		main > div:not(:target) {
+		main > div:not([id^=:target]) {
 			display: none !Important;
 		}
-		
 			
 	</style>
 	
@@ -678,7 +677,7 @@
 	</div>
 
 	<main>
-		<div id="lifestyle"> <!-- opposite for :target -->
+		<div id="reviews">
 			<div class="container1" id="review_bakerSquare">
 				<div class="container2 title-box">	
 					<p class="title"><strong><a href="http://www.bakerssquarerestaurants.com">Baker Square</a></strong></p>
@@ -1269,7 +1268,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="reviews"> <!-- opposite for link -->
+		<div id="lifestyle">
 			<div class="container1 lifestyle-single-photo" id="lifestyle_coffeeDay">
 				<div class="container2 title-box">
 					<p class="title"><strong>Happy Coffee Day from Decaf Doug &#8482;!</strong></p>
