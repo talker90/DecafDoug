@@ -190,6 +190,8 @@
 				background-size: contain; }
 		.photo28 { background: url('IMG_2842.JPG') no-repeat center center;
 				background-size: contain; }
+		.photo29 { background: url('IMG_2846.JPG') no-repeat center center;
+				background-size: contain; }
 		
 		.ratings {
 			display: -webkit-flex; display: flex;
@@ -385,6 +387,8 @@
 			.photo27 { background: url('IMG_2818 (1).JPG') no-repeat center center;
 				background-size: cover; }
 			.photo28 { background: url('IMG_2842.JPG') no-repeat center center;
+				background-size: cover; }
+			.photo29 { background: url('IMG_2846.JPG') no-repeat center center;
 				background-size: cover; }
 		}
 		
@@ -625,7 +629,7 @@
 			padding: 0 0 2vh 0;
 		}
 		
-		:target > div {
+		main > div:not(:target), main > div > div:not(:target) {
 			display: none !Important;
 		}
 		
@@ -675,6 +679,60 @@
 
 	<main>
 		<div id="lifestyle"> <!-- opposite for :target -->
+			<div class="container1" id="review_bakerSquare">
+				<div class="container2 title-box">	
+					<p class="title"><strong><a href="http://www.bakerssquarerestaurants.com">Baker Square</a></strong></p>
+					<p class="address"><em>2239 Ford Pkwy, St Paul, MN 55116</em></p>
+				</div>
+				<div class="container2 post">
+					<div class="container3">
+						<div class="container4 ratings">
+							<p><strong>Flavor 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i> <i class="material-icons empty">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="material-icons empty">&#xE227;</i>
+							</strong></p>
+						</div>
+					</div>
+					<div class="container3 photo29">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
+					</div>
+					<div class="container3 text">
+						<p>
+						Baker Square coffee!
+						We went to Baker Square today. 
+						I must say we go to Baker Square quite a bit.
+						Because we like breakfast and brunch I guess.
+						But their coffee isn't as good as it used to be.
+						And my decaf panel of experts agreed with me, that years ago Baker Square coffee was better.
+						It lacks flavor.
+						So for flavor I would give it a number 2.
+						But I will say, they are terrific on refills because they give you a pot of coffee right away.
+						The coffee is really hot and the price is reasonable.
+						So if they went back to how they brewed in the 90's, I think they'd be all set.
+						It seems like they used to grind their beans fresh then. 
+						They had a different coffee service in how they had it set up.
+						Now, they brew the coffee in the back, they don't have it out by the customers so I can't tell how they do it.
+						But it definitely doesn't have the flavor it used to have.
+						So this is Decaf Doug &#8482; from Baker Square.
+						We usually go to Highland, but I guess they have a few around.
+						Okay! Bye.
+						</p>
+					</div>
+				</div>
+			</div>
 			<div class="container1" id="review_superAmerica">
 				<div class="container2 title-box">	
 					<p class="title"><strong><a href="http://superamerica.com/StoreHome/4428">SuperAmerica</a></strong></p>
