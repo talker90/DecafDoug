@@ -1756,7 +1756,7 @@
 								<p>To keep DecafDoug.com ad free, you are supporting us by mining crypto-currency</p>
 								<p>If you instead wish to start or stop mining, you can do so anytime by clicking below:</p>
 								<center>
-									<p id="mineButton"></p>
+									<p id="minebutton"></p>
 								</center>
 							</center>
 							<p>Visit <a href="https://coin-hive.com/">Coin Hive</a> to learn more about how this all works</a>
@@ -1776,12 +1776,12 @@
 								document.getElementById("hps").innerHTML = "hashes per second: " + hashesPerSecond;
 								document.getElementById("ths").innerHTML = "Total Hashes: " + totalHashes;
 								document.getElementById("tah").innerHTML = "Accepted Hashes: " + acceptedHashes;
-								document.getElementById("mineButton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
+								document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
 							    } else {
 								document.getElementById("hps").innerHTML = "Please click start";
 								document.getElementById("ths").innerHTML = "to support";
 								document.getElementById("tah").innerHTML = "this site";
-								document.getElementById("mineButton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</button>";
+								document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</button>";
 							    }
 							}, 1000);
 						</script>
