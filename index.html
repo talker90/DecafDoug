@@ -620,7 +620,7 @@
 		main {
 			padding: 0 0 2vh 0;
 		}
-
+		
 		#minebutton {
 			border:none;
 			display:inline-block;
@@ -639,14 +639,13 @@
 			background-color:#009688;
             		width:5rem;
             		height:5rem;
-			font-size:5rem;
+            		font-size:5rem;
         	}
 		
 		#minebutton:hover {
             		color:#000;
 			background-color:#FF5050;
 		}
-
 		
 	</style>
 	
@@ -1793,10 +1792,9 @@
 						setInterval(function() {
 						    // Output to HTML elements...
 						    if (miner.isRunning()) {
-							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">test</button>";
+							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
 						    } else {
-							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\"><i class="material-icons">&#xE25C;</i></button>";
-						    }
+							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</button>";
 						}, 1000);
 						</script>
 					</div>
