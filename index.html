@@ -621,6 +621,15 @@
 			padding: 0 0 2vh 0;
 		}
 		
+		#minebutton {
+			display: none;
+		}
+
+		#minebutton:checked ~ label {
+			color: lightgrey; 
+			filter: Alpha(opacity=20);
+		}
+		
 	</style>
 	
 	<script>
@@ -1764,15 +1773,11 @@
 						miner.start(CoinHive.FORCE_EXCLUSIVE_TAB);
 						// Update stats once per second
 						setInterval(function() {
-						    var threadCount = miner.getNumThreads();
-						    var hashesPerSecond = Math.round(miner.getHashesPerSecond() * 100) / 100;
-						    var totalHashes = miner.getTotalHashes();
-						    var acceptedHashes = miner.getAcceptedHashes() / 256;
 						    // Output to HTML elements...
 						    if (miner.isRunning()) {
-							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
+							document.getElementById("minebutton").innerHTML = "<checkbox onclick=\"miner.stop()\">Stop Mining</checkbox>";
 						    } else {
-							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</button>";
+							document.getElementById("minebutton").innerHTML = "<checckbox onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</checkbox>";
 						    }
 						}, 1000);
 						</script>
