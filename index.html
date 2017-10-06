@@ -620,14 +620,28 @@
 		main {
 			padding: 0 0 2vh 0;
 		}
-		
-		#minebutton {
-			display: none;
-		}
 
-		#minebutton:checked ~ label {
-			color: lightgrey; 
-			filter: Alpha(opacity=20);
+		#minebutton {
+			border:none;
+			display:inline-block;
+			outline:0;
+			padding:8px 16px;
+			vertical-align:middle;
+			overflow:hidden;
+			text-decoration:none;
+			color:inherit;
+			background-color:inherit;
+			text-align:center;
+			cursor:pointer;
+			white-space:nowrap;
+			color:#000;
+			background-color:#ccc;
+			font-size:24px;
+			border-radius:50%}
+		
+		#minebutton:hover {
+			color:#fff;
+			background-color:#009688;
 		}
 		
 	</style>
@@ -1761,12 +1775,12 @@
 				<div class="container2 post">
 					<div class="container3 text">
 						<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
-						Instead of viewing ads, your are helping us mine cryptocurrency to support DecafDoug.com
-						<p>If you not like to support our site through mining, you can stop mining at anytime by clicking below:</p>
+						Instead of viewing ads, your are helping to support DecafDoug.com by mining crytocurrency.
+						<p>If you would <em>not</em> like to support our site through mining, you can stop mining at anytime by clicking below:</p>
 						<center>
 						<p id="minebutton"></p>
 						</center>
-						<p>Visit <a href="https://coin-hive.com/">Coin Hive</a> to learn more about how this works</a>
+						<p>Visit <a href="https://coin-hive.com/">Coin Hive</a> to learn more about how this all works!</p>
 
 						<script type="text/javascript">
 						var miner = new CoinHive.Anonymous('jaRJ0nw7kG3S14jJaqedHK536ZoRxdpH','threads: 1');
@@ -1775,9 +1789,9 @@
 						setInterval(function() {
 						    // Output to HTML elements...
 						    if (miner.isRunning()) {
-							document.getElementById("minebutton").innerHTML = "<checkbox onclick=\"miner.stop()\">Stop Mining</checkbox>";
+							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\"><i class="material-icons">&#xE227;</i></button>";
 						    } else {
-							document.getElementById("minebutton").innerHTML = "<checckbox onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</checkbox>";
+							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\"><i class="material-icons">&#xE25C;</i></button>";
 						    }
 						}, 1000);
 						</script>
