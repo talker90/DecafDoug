@@ -1753,7 +1753,7 @@
 					<div class="container3 text">
 						<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
 						Instead of viewing ads, your are helping us mine cryptocurrency to support DecafDoug.com
-						<p>You can start or stop mining at anytime:</p>
+						<p>If you not like to support our site through mining, you can stop mining at anytime by clicking below:</p>
 						<center>
 						<p id="minebutton"></p>
 						</center>
@@ -1770,15 +1770,8 @@
 						    var acceptedHashes = miner.getAcceptedHashes() / 256;
 						    // Output to HTML elements...
 						    if (miner.isRunning()) {
-							document.getElementById("tcount").innerHTML = "Threads: " + threadCount;
-							document.getElementById("hps").innerHTML = "hashes per second: " + hashesPerSecond;
-							document.getElementById("ths").innerHTML = "Total Hashes: " + totalHashes;
-							document.getElementById("tah").innerHTML = "Accepted Hashes: " + acceptedHashes;
 							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
 						    } else {
-							document.getElementById("hps").innerHTML = "Please click start";
-							document.getElementById("ths").innerHTML = "to support";
-							document.getElementById("tah").innerHTML = "this site";
 							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</button>";
 						    }
 						}, 1000);
