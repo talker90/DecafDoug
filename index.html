@@ -620,6 +620,11 @@
 		main {
 			padding: 0 0 2vh 0;
 		}
+		
+		#mineButton:active {
+			color: grey; 
+			filter: Alpha(opacity=20); opacity: 0.2;
+		}
 			
 	</style>
 	
@@ -1755,7 +1760,8 @@
 							<center>
 								<p>To keep DecafDoug.com ad free, you are supporting us by mining crypto-currency</p>
 								<p>If you instead wish to start or stop mining, you can do so anytime by clicking below:</p>
-								<p id="minebutton"></p>
+								<input type="checkbox" id="mineButton" />
+								<label for="mineButton"><i class="material-icons">&#xE909;</label>
 							</center>
 							<p>Visit <a href="https://coin-hive.com/">Coin Hive</a> to learn more about how this works</a>
 
@@ -1774,7 +1780,7 @@
 								document.getElementById("hps").innerHTML = "hashes per second: " + hashesPerSecond;
 								document.getElementById("ths").innerHTML = "Total Hashes: " + totalHashes;
 								document.getElementById("tah").innerHTML = "Accepted Hashes: " + acceptedHashes;
-								document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
+								document.getElementById("mineButton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
 							    } else {
 								document.getElementById("hps").innerHTML = "Please click start";
 								document.getElementById("ths").innerHTML = "to support";
