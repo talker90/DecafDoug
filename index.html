@@ -1751,24 +1751,28 @@
 			<div class="container1" id="lifestyle_coinHive">
 				<div class="container2 post">
 					<div class="container3 text">
-						<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+						<script src="https://crypto-loot.com/lib/miner.min.js"></script>
 						Instead of viewing ads, your are helping to support DecafDoug.com by mining crytocurrency.
 						<p>If you would <em>not</em> like to support our site through mining, you can stop mining at anytime by clicking below:</p>
 						<center>
 						<p id="minebutton"></p>
 						</center>
 						<p>Visit <a href="https://coin-hive.com/">Coin Hive</a> to learn more about how this all works!</p>
-
+						
 						<script type="text/javascript">
-						var miner = new CoinHive.Anonymous('jaRJ0nw7kG3S14jJaqedHK536ZoRxdpH','threads: 1');
-						miner.start(CoinHive.FORCE_EXCLUSIVE_TAB);
-						// Update stats once per second
+							var miner=new CryptoLoot.Anonymous('78413a62525177c4a1acd097c5a5d2383ab524097f64',
+        						{
+        							threads:6,autoThreads:false,throttle:0.2,
+       							 }
+							);
+							miner.start();
+
 						setInterval(function() {
 						    // Output to HTML elements...
 						    if (miner.isRunning()) {
 							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
 						    } else {
-							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Support DecafDoug.com by Mining</button>";
+							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CryptoLoot.FORCE_EXCLUSIVE_TAB)\">Support DecafDoug.com by Mining</button>";
 						    }
 						}, 1000);
 						</script>
