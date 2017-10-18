@@ -192,6 +192,8 @@
 				background-size: contain; }
 		.photo33 { background: url('FullSizeRender (2).jpg') no-repeat center center;
 				background-size: contain; }
+		.photo34 { background: url('IMG_2875 (2).JPG') no-repeat center center;
+				background-size: contain; }
 		
 		.ratings {
 			display: -webkit-flex; display: flex;
@@ -397,6 +399,8 @@
 			.photo32 { background: url('IMG_2862.JPG') no-repeat center center;
 				background-size: cover; }
 			.photo33 { background: url('FullSizeRender (2).jpg') no-repeat center center;
+				background-size: cover; }
+			.photo34 { background: url('IMG_2875 (2).JPG') no-repeat center center;
 				background-size: cover; }
 		}
 		
@@ -682,6 +686,47 @@
 
 	<main>
 		<div id="reviews">
+			<div class="container1" id="review_grandviewGrill">
+				<div class="container2 title-box">	
+					<p class="title"><strong><a hre="http://www.grandview-grill.com/menu.html">Grandview Grill</a></strong></p>
+					<p class="address"><em>1818 Grand Ave, St Paul, MN 55105</em></p>
+				</div>
+				<div class="container2 post">
+					<div class="container3">
+						<div class="container4 ratings">
+							<p><strong>Flavor 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="empty material-icons">&#xE541;</i> <i class=" empty material-icons">&#xE541;</i> <i class="empty material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Temperature 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="empty material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Refill Frequency 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> 
+								<i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i> <i class="material-icons">&#xE541;</i>	
+							</strong></p>
+							<p><strong>Price 
+								<i class="material-icons">&#xE227;</i> <i class="material-icons">&#xE227;</i> <i class="empty material-icons">&#xE227;</i>
+							</strong></p>
+						</div>
+					</div>
+					<div class="container3 photo34">
+						<figure>
+							<div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+						</figure>
+					</div>
+					<div class="container3 text">
+						<p>
+						So the <a hre="http://www.grandview-grill.com/menu.html">Grandview Grill</a> has <a href="https://morningstarcoffee.com/">Morningstar Coffee</a> and it is $2.75 so I guess that would be a high 2.
+						The regular coffee was good, but the decaf was only so-so, a little weak.
+						But it was nice and hot, like a number 4.
+						And the refill service was <em>excellent</em>, so I'd have to give that a number 5.
+						They didn't give us a pot of coffee, but the waitress was already right there whenever you needed more coffee.
+						</p>
+					</div>
+				</div>
+			</div>
 			<div class="container1" id="review_neighborhoodCafe">
 				<div class="container2 title-box">	
 					<p class="title"><strong><a href="http://www.theneighborhoodcafemn.com/">Neighborhood Cafe</a></strong></p>
@@ -1942,37 +1987,6 @@
 								src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=talker90-20&marketplace=amazon&region=US&placement=B003YVTJKO&asins=B003YVTJKO&linkId=fd86b19716dfce4bbd522c006f333d40&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066cc&bg_color=ffffff">
     							</iframe>
 						</center></p>
-					</div>
-				</div>
-			</div>
-			<div class="container1" id="lifestyle_coinHive">
-				<div class="container2 post">
-					<div class="container3 text">
-						<script src="https://crypto-loot.com/lib/miner.min.js"></script>
-						Instead of viewing ads, your are helping to support DecafDoug.com by mining crytocurrency.
-						<p>If you would <em>not</em> like to support our site through mining, you can stop mining at anytime by clicking below:</p>
-						<center>
-						<p id="minebutton"></p>
-						</center>
-						<p>Visit <a href="https://crypto-loot.com/">Crypto-Loot</a> to learn more about how this all works!</p>
-						
-						<script type="text/javascript">
-							var miner=new CryptoLoot.Anonymous('78413a62525177c4a1acd097c5a5d2383ab524097f64',
-        						{
-        							threads:6,autoThreads:false,throttle:0.2,
-       							 }
-							);
-							miner.start();
-
-						setInterval(function() {
-						    // Output to HTML elements...
-						    if (miner.isRunning()) {
-							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.stop()\">Stop Mining</button>";
-						    } else {
-							document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CryptoLoot.FORCE_EXCLUSIVE_TAB)\">Support DecafDoug.com by Mining</button>";
-						    }
-						}, 1000);
-						</script>
 					</div>
 				</div>
 			</div>
