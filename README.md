@@ -47,6 +47,8 @@ Scripts:
 **Temperature**: ☕️ ☕️ ☕️ ☕️ 🗑️  
 **Refill Frequency**: ☕️ ☕️ ☕️ ☕️ 🗑️  
 **Price**: $☕️ 🗑️ 🗑️
+<span style="color: black; opacity: 0.5;">☕️</span>
+
 
 ![Carmelo's Coffee](caremelos1.JPG)
 
