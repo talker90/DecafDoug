@@ -38,7 +38,12 @@ Scripts:
 **Refill Frequency**: ⭐⭐⭐⭐☆  
 **Price**: $☆☆
 
-![coffee photo](path_to_photo)
+<div class="container3 photo59">
+    <figure>
+        <div role="img" aria-label="Photo showing a delicious cup of hot, decaf coffee"></div>
+    </figure>
+</div>
+
 
 We went to [Carmelo's Ristorante](http://www.carmelos.com/Site/home.html) here in St. Paul and we went with fellow coffee bloggers [Kinda Different](https://kindadifferent.net/wp/). So the restaurant has a European feel to it, with lots of photos of Italian scenery. And the decaf had a European flavor to it. Very distinct flavor, it was really good.
 
