@@ -65,9 +65,3 @@ As a sad update, Fabulous Fern's is now permanently closed. I can't believe they
 
 
 
-![Carmelo's Coffee](caremelos1.JPG)
-
-... [rest of the content remains unchanged]
-
-
-
