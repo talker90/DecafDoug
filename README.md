@@ -18,13 +18,17 @@ Scripts:
 - //pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 -->
 
-# ![logo](path_to_logo_image) Decaf Doug ![logo](path_to_logo_image)
-
 <!-- commenting out hamburger and nav for now
 - [Home](index.html)
 -->
 
-<h1><img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50"> Decaf Doug <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50"></h1>
+<div style="text-align: center;">
+    <h1 style="font-family: 'cursive';">
+        <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50"> 
+        Decaf Doug 
+        <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50">
+    </h1>
+</div>
 
 
 <!-- commenting out hamburger and nav for now
@@ -49,7 +53,9 @@ _[PERMANENTLY CLOSED](https://goo.gl/maps/DYUfsL5wkws)_
 **Refill Frequency** ☕️ ☕️ ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>  
 **Price** 💲 💲 💲
 
-![Photo showing a delicious cup of hot, decaf coffee](images/fab%20ferns1.JPG)
+<div style="text-align: center;">
+    <img src="images/fab ferns1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+</div>
 
 We went to [Fabulous Fern's](http://www.fabulousferns.com/) on [Selby Avenue](https://goo.gl/maps/DYUfsL5wkws). We had a big group, like a dozen people. And they do a great job with big groups. We've done that before a couple of times. They do have the 18% gratuity for 8 or more people, but they have lots of room. They have a big dining area, great french fries, and really good desserts too. But I'm here to talk about the coffee.
 
