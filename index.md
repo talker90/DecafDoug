@@ -9,23 +9,10 @@ Twitter Image: http://i.imgur.com/jejxCJZ.jpg
 Twitter Card Type: summary_large_image
 -->
 
-<div id="background-container" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; width: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: contain;">
+
+<div style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: contain;">
+<!-- The image is now set as a background -->
 </div>
-
-<script>
-    window.addEventListener("resize", function() {
-        var backgroundContainer = document.getElementById("background-container");
-        if (window.innerWidth <= 768) {
-            backgroundContainer.style.backgroundImage = "url('images/dalle_dali.svg')";
-        } else {
-            backgroundContainer.style.backgroundImage = "url('images/dalle_banner.svg')";
-        }
-    });
-</script>
-
-
-
-
 
 
 <div style="text-align: center;">
