@@ -9,31 +9,38 @@ Twitter Image: http://i.imgur.com/jejxCJZ.jpg
 Twitter Card Type: summary_large_image
 -->
 
-
-<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
+<div style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
 <!-- The image is now set as a background -->
 </div>
 
 ---
 
-<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: top center; background-repeat: no-repeat; background-size: cover;">
+<div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
     <!-- Content here -->
 </div>
+
+<script>
+    function adjustBackground() {
+        var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+        if (width <= 600) { // Mobile devices
+            document.getElementById('backgroundDiv').style.backgroundAttachment = 'scroll';
+        } else {
+            document.getElementById('backgroundDiv').style.backgroundAttachment = 'fixed';
+        }
+    }
+
+    window.addEventListener('resize', adjustBackground);
+    adjustBackground();
+</script>
 
 ---
 
-<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: top center; background-repeat: no-repeat; background-size: auto 100%;">
-    <!-- Content here -->
+<div style="text-align: center; overflow: hidden; height: 85vh;">
+    <img src="images/dalle_banner.svg" alt="Your Image Description" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
 </div>
+
 
 ---
-
-<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: top center; background-repeat: no-repeat; background-size: 100% auto;">
-    <!-- Content here -->
-</div>
-
-
-
 
 <div style="text-align: center;">
     <p><a href="AboutUs.html" style="color: black; text-decoration: none;"><em>About</em></a></p>
