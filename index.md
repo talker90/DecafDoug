@@ -18,10 +18,6 @@ Scripts:
 - //pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 -->
 
-<!-- commenting out hamburger and nav for now
-- [Home](index.html)
--->
-
 <div style="text-align: center;">
     <h1 style="font-family: 'cursive';">
         <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50"> 
@@ -30,10 +26,7 @@ Scripts:
     </h1>
 </div>
 
-
-<!-- commenting out hamburger and nav for now
-- [Home](index.html)
--->
+[About](AboutUs.html)
 
 ---
 
