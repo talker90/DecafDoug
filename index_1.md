@@ -1,4 +1,796 @@
-# Decaf Doug
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (adsbygoogle = window.adsbygoogle || []).push({
+ google\_ad\_client: "ca-pub-9283020036917902",
+ enable\_page\_level\_ads: true
+ });
+ 
+Decaf Doug
+
+ html {
+ box-sizing: border-box;
+ }
+ \*, \*:before, \*:after {
+ box-sizing: inherit;
+ }
+ main {
+ display: block;
+ }
+ body {
+ font-family: Oswald, Montserrat, Arial, sans-serif;
+ margin: 0;
+ padding: 0;
+ }
+ a {
+ text-decoration: none;
+ color: #0066cc;
+ }
+ 
+ /\* commenting out nav and hamburger for now
+ #nav {
+ display: -webkit-flex; display: flex;
+ -webkit-justify-content: space-around; justify-content: space-around; 
+ padding: 0;
+ margin-bottom: 0;
+ list-style-type: none;
+ font-size: 4vw;
+ }
+ .nav-items:hover {
+ font-size: 130%;
+ }
+ input[id="hamburger"] {
+ display: none;
+ }
+ @media only screen and (min-width:0) and (max-width:360px) {
+ label[for="hamburger"] {
+ display: -webkit-flex; display: flex;
+ -webkit-align-items: center; align-items: center; 
+ -webkit-justify-content: center; justify-content: center; 
+ font-size: 10vmin;
+ }
+ 
+ label[for="hamburger"] + nav {
+ overflow: hidden;
+ height: 0;
+ }
+ 
+ input[id="hamburger"]:checked ~ nav {
+ height: auto;
+ }
+ }
+ @media only screen and (min-width:361px) {
+ label[for="hamburger"] {
+ display: none;
+ }
+ }
+ @media (min-width: 673px) {
+ #nav {
+ font-size: 1.8rem;
+ }
+ }
+ \*/
+ 
+ .link-spanner{
+ position:absolute; 
+ width:100%;
+ height:100%;
+ top:0;
+ left: 0;
+ z-index: 1;
+ } 
+ 
+ h1 {
+ display: -webkit-flex; display: flex;
+ -webkit-justify-content: center; justify-content: center; 
+ -webkit-align-items: center; align-items: center;
+ }
+ 
+ .logo {
+ background: url('IMG\_1231 (1).jpg') no-repeat center center;
+ background-size: cover;
+ }
+ 
+ [class^="container"] {
+ display: -webkit-flex; display: flex;
+ }
+ 
+ .title-box {
+ display: -webkit-flex; display: flex;
+ -webkit-flex-direction: column; flex-direction: column;
+ -webkit-align-items: center; align-items: center;
+ -webkit-justify-content: center; justify-content: center;
+ }
+ 
+ .beans {
+ display: -webkit-flex; display: flex;
+ -webkit-flex-direction: row; flex-direction: row;
+ -webkit-justify-content: center; justify-content: center; 
+ -webkit-align-items: flex-end; align-items: flex-start;
+ }
+ 
+ .title {
+ margin: 0 0 1vh 0;
+ }
+ 
+ .address {
+ margin: 0 0 1.5vh 0;
+ }
+ 
+ .videoWrapper {
+ position: relative;
+ padding-bottom: 56.25%; /\* 16:9 \*/
+ padding-top: 25px;
+ height: 0;
+ }
+ .videoWrapper iframe {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ }
+ 
+ .photo1 { background: url('IMG\_4839 (2).jpg') no-repeat center center;
+ background-size: contain; /\* this is needed with alongside the background property \*/ }
+ .photo2 { background: url('IMG\_4840 (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo3 { background: url('IMG\_4838 (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo4 { background: url('unnamed (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo5 { background: url('IMG-4899 (1).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo6 { background: url('IMG\_4926.jpg') no-repeat center center;
+ background-size: contain; }
+ .photo7 { background: url('IMG\_2713.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo8 { background: url('IMG\_5233 (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo9 { background: url('IMG\_5232 (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo10 { background: url('IMG\_5234 (2).jpg ') no-repeat center center;
+ background-size: contain; }
+ .photo11 { background: url('IMG\_5236 (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo12 { background: url('IMG\_2701.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo13 { background: url('IMG\_2697 (1).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo14 { background: url('IMG\_2632 (4).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo15 { background: url('unnamed (3).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo16 { background: url('IMG\_2677.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo17 { background: url('IMG\_2719.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo18 { background: url('IMG\_2659 (1).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo19 { background: url('D91CDA31-7765-4CB9-82F4-198924AA3BAD (1).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo20 { background: url('FullSizeRender (1).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo21 { background: url('IMG\_2770 (3).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo22 { background: url('IMG\_2753.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo23 { background: url('IMG\_2807.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo24 { background: url('F3117EEF-A4CE-4B42-8FE3-2268B0CA2B16.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo25 { background: url('IMG\_2786.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo26 { background: url('IMG\_2826 (2).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo27 { background: url('IMG\_2818 (1).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo28 { background: url('IMG\_2842.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo29 { background: url('0ymkzeb4ho221.jpg') no-repeat center center;
+ background-size: contain; }
+ .photo30 { background: url('IMG\_2725 (3).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo31 { background: url('IMG\_2813 (2).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo32 { background: url('IMG\_2862.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo33 { background: url('FullSizeRender (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo34 { background: url('IMG\_2875 (2).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo35 { background: url('IMG\_2855 (1).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo36 { background: url('IMG\_2898.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo37 { background: url('IMG\_2882.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo38 { background: url('IMG\_2892.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo39 { background: url('IMG\_2886.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo40 { background: url('Screen Shot 2017-10-27 at 4.30.07 PM.png') no-repeat center center;
+ background-size: contain; }
+ .photo40 {
+ position:relative;
+ }
+ .photo41 { background: url('IMG\_2908.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo42 { background: url('IMG\_2950.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo43 { background: url('IMG\_2945.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo44 { background: url('IMG\_3034 (3).JPG') no-repeat center center;
+ background-size: contain; }
+ .photo45 { background: url('IMG\_2966.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo46 { background: url('IMG\_2989.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo47 { background: url('IMG\_2915.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo48 { background: url('IMG\_3131.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo49 { background: url('cover your cofee.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo50 { background: url('IMG\_3416.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo51 { background: url('IMG\_3441.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo52 { background: url('agra culture.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo53 { background: url('valley.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo54 { background: url('IMG\_3585.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo55 { background: url('applebees4.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo56 { background: url('fab ferns1.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo57 { background: url('carbones2.JPG') no-repeat center center;
+ background-size: contain; }
+ .photo58 { background: url('Chanhassen.jpg') no-repeat center center;
+ background-size: contain; }
+ .photo59 { background: url('caremelos1.JPG') no-repeat center center;
+ background-size: contain; }
+ 
+ .ratings {
+ display: -webkit-flex; display: flex;
+ -webkit-flex-direction: column; flex-direction: column;
+ }
+ 
+ .empty {
+ color: grey; 
+ filter: Alpha(opacity=20); opacity: 0.2;
+ }
+ 
+ .text {
+ display: -webkit-flex; display: flex;
+ -webkit-flex-direction: column; flex-direction: column;
+ }
+ 
+ .logo {
+ display: inline-block;
+ } /\* put this at the bottom just in case \*/
+ 
+ /\* portrait and landscape \*/
+ @media 
+ 
+ only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2),
+ only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2),
+ only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2),
+ only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3),
+ screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2),
+ screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+ screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+ screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+ 
+ only screen and (min-width:0) and (max-width:604px) {
+ h1 {
+ font-size: 9rem;
+ font-size: 10vw;
+ }
+ 
+ .beans {
+ height: 14rem;
+ height: 15vh;
+ }
+ 
+ .logo {
+ height: 9rem; height: 10vw;
+ width: 9rem; width: 10vw;
+ }
+ 
+ .container1 {
+ -webkit-flex-direction: column; flex-direction: column; 
+ }
+ 
+ .container2 {
+ -webkit-flex-direction: column; flex-direction: column; 
+ width: 100%;
+ }
+ 
+ .title {
+ font-size: 5.25rem;
+ font-size: 5.5vw;
+ }
+ 
+ .beans img {
+ height: 5.25rem; height:5.5vw;
+ }
+ 
+ .address {
+ font-size: 3.5rem;
+ font-size: 4vmin;
+ text-align: center;
+ }
+ 
+ .text {
+ font-size: 3.5rem;
+ font-size: 4vmax;
+ }
+ 
+ .ratings {
+ font-size: 2.5rem;
+ font-size: 3vmax;
+ }
+ 
+ .material-icons {
+ font-size: 3.25rem;
+ font-size: 3.5vmax;
+ }
+ 
+ .container3:nth-child(1) {
+ -webkit-order: 1; order: 1;
+ }
+ 
+ .container3:nth-child(2) {
+ height: 47.5vh;
+ -webkit-order: 3; order: 3;
+ }
+
+ .container3:nth-child(3) {
+ -webkit-order: 2; order: 2;
+ }
+ 
+ #lifestyle\_milleLacs .container4 {
+ margin: 1vh 1vh; /\* put here as a fallback for space-evenly \*/
+ }
+ 
+ #lifestyle\_milleLacs .container3:not(.text) {
+ -webkit-flex-direction: row; flex-direction: row;
+ -webkit-justify-content: space-evenly; justify-content: space-evenly;
+ }
+ 
+ #lifestyle\_milleLacs .container3:nth-child(1) {
+ -webkit-order: 2; order: 2;
+ height: 47.5vh;
+ }
+ 
+ #lifestyle\_milleLacs .container3:nth-child(2) {
+ -webkit-order: 3; order: 3;
+ }
+
+ #lifestyle\_milleLacs .container3:nth-child(3) {
+ -webkit-order: 1; order: 1;
+ }
+ 
+ #lifestyle\_milleLacs .container4 {
+ -webkit-flex-basis: 40%; flex-basis: 40%;
+ }
+ 
+ #lifestyle\_milleLacs .container4:nth-child(2) {
+ display: none;
+ }
+ 
+ .lifestyle-single-photo .container3:nth-child(1) {
+ -webkit-order: 2; order: 2;
+ height: 47.5vh;
+ }
+ 
+ .lifestyle-single-photo .container3:nth-child(2) {
+ -webkit-order: 1; order: 1;
+ height: auto;
+ }
+ 
+ .photo1 { background: url('IMG\_4839 (2).jpg') no-repeat center center;
+ background-size: cover; /\* this is needed with alongside the background property \*/ }
+ .photo2 { background: url('IMG\_4840 (2).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo3 { background: url('IMG\_4838 (2).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo4 { background: url('unnamed (2).jpg') no-repeat center center;
+ background-size: contain; }
+ .photo5 { background: url('IMG-4899 (1).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo6 { background: url('IMG\_4926.jpg') no-repeat center center;
+ background-size: cover; }
+ .photo7 { background: url('IMG\_2713.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo8 { background: url('IMG\_5233 (2).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo9 { background: url('IMG\_5232 (2).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo10 { background: url('IMG\_5234 (2).jpg ') no-repeat center center;
+ background-size: cover; }
+ .photo11 { background: url('IMG\_5236 (2).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo12 { background: url('IMG\_2701.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo13 { background: url('IMG\_2697 (1).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo14 { background: url('IMG\_2632 (4).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo15 { background: url('unnamed (3).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo16 { background: url('IMG\_2677.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo17 { background: url('IMG\_2719.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo18 { background: url('IMG\_2659 (1).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo19 { background: url('D91CDA31-7765-4CB9-82F4-198924AA3BAD (1).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo20 { background: url('FullSizeRender (1).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo21 { background: url('IMG\_2770 (3).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo22 { background: url('IMG\_2753.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo23 { background: url('IMG\_2807.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo24 { background: url('F3117EEF-A4CE-4B42-8FE3-2268B0CA2B16.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo25 { background: url('IMG\_2786.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo26 { background: url('IMG\_2826 (2).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo27 { background: url('IMG\_2818 (1).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo28 { background: url('IMG\_2842.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo29 { background: url('0ymkzeb4ho221.jpg') no-repeat center center;
+ background-size: cover; }
+ .photo30 { background: url('IMG\_2725 (3).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo31 { background: url('IMG\_2813 (2).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo32 { background: url('IMG\_2862.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo33 { background: url('FullSizeRender (2).jpg') no-repeat center center;
+ background-size: cover; }
+ .photo34 { background: url('IMG\_2875 (2).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo35 { background: url('IMG\_2855 (1).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo36 { background: url('IMG\_2898.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo37 { background: url('IMG\_2882.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo38 { background: url('IMG\_2892.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo39 { background: url('IMG\_2886.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo40 { background: url('Screen Shot 2017-10-27 at 4.30.07 PM.png') no-repeat center center;
+ background-size: cover; }
+ .photo41 { background: url('IMG\_2908.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo42 { background: url('IMG\_2950.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo43 { background: url('IMG\_2945.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo44 { background: url('IMG\_3034 (3).JPG') no-repeat center center;
+ background-size: cover; }
+ .photo45 { background: url('IMG\_2966.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo46 { background: url('IMG\_2989.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo47 { background: url('IMG\_2915.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo48 { background: url('IMG\_3131.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo49 { background: url('cover your cofee.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo50 { background: url('IMG\_3416.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo51 { background: url('IMG\_3441.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo52 { background: url('agra culture.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo53 { background: url('valley.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo54 { background: url('IMG\_3585.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo55 { background: url('applebees4.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo56 { background: url('fab ferns1.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo57 { background: url('carbones2.JPG') no-repeat center center;
+ background-size: cover; }
+ .photo58 { background: url('Chanhassen.jpg') no-repeat center center;
+ background-size: cover; }
+ .photo59 { background: url('caremelos1.JPG') no-repeat center center;
+ background-size: cover; }
+ }
+ 
+ /\* landscape \*/
+ @media
+ only screen and (min-width:0) and (max-width:604px),
+ 
+ only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
+ only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
+ only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape),
+ only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape),
+ screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape),
+ screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape),
+ screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape),
+ screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+ h1 {
+ height: 50vh;
+ }
+ 
+ .container1 {
+ width: 100vw;
+ }
+ 
+ main .container1 {
+ margin: 7vh 0 7vh 0;
+ }
+ 
+ .container3:nth-child(2) {
+ height: 47.5vh;
+ }
+ }
+ 
+ /\* portrait \*/
+ @media
+ only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
+ only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
+ only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait),
+ only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait),
+ screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait),
+ screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait),
+ screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait),
+ screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+ h1 {
+ height: 30vh;
+ }
+ 
+ .container1 {
+ width: 100vw;
+ }
+ 
+ main .container1 {
+ margin: 4vh 0 4vh 0;
+ padding:0 8vmin 0 4vmin;
+ }
+ 
+ .ratings {
+ font-size: 2rem;
+ font-size: 2.5vmax;
+ }
+ 
+ .container3:nth-child(2) {
+ height: 42.5vh;
+ }
+ 
+ #lifestyle\_milleLacs .container3:nth-child(1) {
+ height: 42.5vh;
+ }
+ }
+ 
+ /\* desktop \*/
+ 
+ @media only screen and (min-width:604px) {
+ .container1 {
+ width: 100vw;
+ }
+ 
+ h1 {
+ font-size: 90px;
+ font-size: 6rem;
+ font-size: 7.85vw;
+ height: 45vh;
+ }
+ 
+ .logo {
+ height:7.85vw;
+ width:7.85vw;
+ }
+ 
+ .container1 {
+ -webkit-flex-direction: column; flex-direction: column;
+ }
+ 
+ main .container1 {
+ margin: 10vh 0 10vh 0;
+ }
+ 
+ .title {
+ font-size: 2.5vw;
+ }
+ 
+ .beans {
+ height: 25vh;
+ }
+ 
+ .beans img {
+ height: 2.5vw;
+ }
+ 
+ .address {
+ font-size: 1.5rem;
+ font-size: 1.75vmax;
+ }
+ 
+ .container2 {
+ width: 100%;
+ margin: 0 0 3.5rem 0;
+ margin: 0 0 4vh 0;
+ }
+ 
+ .post {
+ -webkit-flex-direction: row; flex-direction: row; 
+ -webkit-flex-wrap: wrap; flex-wrap: wrap; 
+ -webkit-flex-grow: 1; flex-grow: 1; 
+ margin: 0 0; 
+ }
+ 
+ .text {
+ padding: 0 3.5vw;
+ font-size: 1.75rem;
+ font-size: 2vmax;
+ }
+ 
+ .container3 {
+ -webkit-flex-grow: 1; flex-grow: 1; 
+ }
+ 
+ .container3:nth-child(1) {
+ -webkit-flex-basis: 25%; flex-basis: 25%;
+ -webkit-align-items: center; align-items: center;
+ -webkit-justify-content: center; justify-content: center;
+ }
+ 
+ .lifestyle-single-photo .container3:nth-child(1) {
+ margin: 5rem;
+ }
+ 
+ .container3:nth-child(2) {
+ -webkit-flex-basis: 20%; flex-basis: 20%; 
+ }
+
+ .container3:nth-child(3) {
+ -webkit-flex-basis: 55%; flex-basis: 55%;
+ -webkit-justify-content: center; justify-content: center;
+ }
+ 
+ .ratings {
+ -webkit-align-items: flex-start; align-items: flex-start;
+ }
+ 
+ /\* ratings for desktop \*/
+ 
+ @media only screen and (min-width:823px) {
+ .ratings {
+ font-size: 1rem;
+ font-size: 1.25vmax;
+ }
+ .material-icons {
+ font-size: 1.15rem;
+ font-size: 1.5vmax;
+ }
+ }
+ 
+ 
+ @media only screen and (min-width:670px) and (max-width:823px) {
+ .ratings {
+ font-size: 0.85rem;
+ font-size: 1vmax;
+ }
+ .material-icons {
+ font-size: 1.15rem;
+ font-size: 1.35vmax;
+ }
+ }
+
+ @media only screen and (min-width:604px) and (max-width:670px) {
+ .ratings {
+ font-size: 0.6rem;
+ font-size: 0.75vmax;
+ }
+ .material-icons {
+ font-size: 1rem;
+ font-size: 1.15vmax;
+ }
+ }
+ 
+ #lifestyle\_milleLacs .container3 {
+ -webkit-flex-direction: column; flex-direction: column;
+ }
+ 
+ #lifestyle\_milleLacs .container3:nth-child(1) {
+ -webkit-flex-basis: 25%; flex-basis: 25%;
+ -webkit-align-items: center; align-items: center;
+ -webkit-justify-content: center; justify-content: center;
+ }
+ 
+ #lifestyle\_milleLacs .container3:nth-child(2) {
+ -webkit-flex-basis: 25%; flex-basis: 25%; 
+ -webkit-align-items: center; align-items: center;
+ -webkit-justify-content: center; justify-content: center;
+ }
+ 
+ #lifestyle\_milleLacs .container3:nth-child(3) {
+ -webkit-flex-basis: 50%; flex-basis: 50%;
+ -webkit-justify-content: center; justify-content: center;
+ }
+ 
+ #lifestyle\_milleLacs .container4 {
+ margin: 3vmin 5vmin 3vmin 5min;
+ height: 23%; height: calc(30% - 6vmin);
+ width: 89%; width: calc(100% - 10vmin);
+ }
+ 
+ footer {
+ margin: 0;
+ }
+ }
+ 
+ footer {
+ display: -webkit-flex; display: flex;
+ -webkit-flex-direction: row; flex-direction: row;
+ border-style: solid none none none;
+ padding: 0.75rem 0.75rem 0 0.75rem; padding: 1vh 1vh 0 1vh;
+ position: fixed;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ background-color: white;
+ opacity: .95;
+ }
+ 
+ main {
+ padding: 0 0 2vh 0;
+ }
+ 
+ 
+
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1\*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-103616212-1', 'auto');
+ ga('send', 'pageview');
+
+ 
+
+
+
+# 
+&nbspDecaf Doug
 
 
 
@@ -43,9 +835,8 @@
 
 
 
- <div style="text-align: center;">
-    <img src="images/caremelos1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/caremelos1.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 We went to [Carmelo's Ristorante](http://www.carmelos.com/Site/home.html) here is St. Paul and we went with fellow coffee bloggers [Kinda Different](https://kindadifferent.net/wp/). 
  So the restaurant has a European feel to it, with lots of photos of Italian scenery. 
@@ -93,9 +884,8 @@ So we'd give it a number 4.
 
 
 
- <div style="text-align: center;">
-    <img src="images/Chanhassen.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/Chanhassen.jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 We went to the [Chanhassen](https://www.chanhassendt.com/) dinner theater to see the show [Newsies](https://www.chanhassendt.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=newsies&BOparam::WScontent::loadArticle::context_id=), it was a really good show, and the coffee service was **super**!
 
@@ -146,9 +936,8 @@ So I got my decaf right away and it was hot.
 
 
 
- <div style="text-align: center;">
-    <img src="images/carbones2.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/carbones2.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 We went to [Carbone's](http://carbonesonrandolph.com/carbonesonrandolph/HOME.html). 
  Of course you have to have coffee with pizza too right. 
@@ -206,9 +995,8 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
 
 
 
- <div style="text-align: center;">
-    <img src="images/fab ferns1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/fab ferns1.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 We went to [Fabulous Fern's](http://www.fabulousferns.com/) on [Selby Avenue](https://goo.gl/maps/DYUfsL5wkws). 
  We had a big group group, like a dozen people. 
@@ -269,9 +1057,8 @@ As a sad update, Fabulous Fern's is now permanently closed.
 
 
 
- <div style="text-align: center;">
-    <img src="images/applebees4.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/applebees4.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 We went to [Applebee's](https://www.applebees.com/en), the one in [Eagan](https://goo.gl/maps/WTNjSpWVqrS2), there are a lot of Applebee's around lately. 
  So I ordered my decaf. They made me a fresh pot. 
@@ -328,9 +1115,8 @@ It was really hot.
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_3585.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_3585.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  The [Cherokee Tavern](http://cherokeetavern.com/). 
@@ -381,9 +1167,8 @@ It was really hot.
 
 
 
- <div style="text-align: center;">
-    <img src="images/valley.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/valley.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 We went to [Valley Natural Foods](https://www.valleynaturalfoods.com/) in Burnsville. 
  So they are the food co-op for the South metro. 
@@ -436,9 +1221,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/agra culture.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/agra culture.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  There's a new restaurant in Highland, [Agra Culture](http://agra-culture.com/), on [Cleveland and Highland Parkway](https://goo.gl/maps/JHrRbiQnmZM2). 
@@ -499,9 +1283,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_3131.JPG" alt="Photo showing a delicious cup of hot, decaf coffee and caramel macchiato creamers" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_3131.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee and caramel macchiato creamers"
  
 
  We went to the [Louisiana Cafe](http://newlouisianacafe.com/) on Selby Avenue. 
@@ -546,9 +1329,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2989.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2989.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We went to the [Highland Cafe and Bakery](http://www.highlandcafeandbakery.com/) and the coffee was really hot. 
@@ -597,9 +1379,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2950.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2950.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We were in of the [University of Minnesota](https://twin-cities.umn.edu/) area so we stopped at [Kafe, with a "K," 421](http://www.kafe421.com/).
@@ -665,9 +1446,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG_2908.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2908.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We stopped at [Augustine's Bar & Bakery](http://augustinesmn.com/) last night for dinner.
@@ -715,9 +1495,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2892.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2892.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We went to the cousins' lunch today and we went to [Lucky's](http://www.luckys13pub.com/) 13 in Burnsville.
@@ -770,9 +1549,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2898.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2898.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  Stopped at [Peace Coffee](https://www.peacecoffee.com/) today for *free* coffee. I got a coupon from the [Chinook Book](https://chinookbook.com/minneapolis-st-paul), a coupon book where you can get all kinds of things when you buy the book.
@@ -832,9 +1610,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2855 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2855 (1).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  A real steak house: they have 4 menu items and 3 of them are steak. The other one is shrimp. You get potato, salad, and bread with your steak dinner (unless you want the shrimp of course).
@@ -898,9 +1675,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2875 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2875 (2).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  So the Grandview Grill has [Morningstar Coffee](https://morningstarcoffee.com/) and it is $2.75 so I guess that would be a high 2.
@@ -950,9 +1726,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2862.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2862.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  The [Neighborhood Cafe](http://www.theneighborhoodcafemn.com/). 
@@ -1014,9 +1789,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2813 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2813 (2).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We went to [Salsa a la Salsa](https://www.salsaalasalsa.com/) which is in the Midtown Global Market. 
@@ -1075,9 +1849,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/0ymkzeb4ho221.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/0ymkzeb4ho221.jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  Baker Square coffee!
@@ -1157,9 +1930,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2842.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2842.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  So I went to [SuperAmerica](http://superamerica.com/StoreHome/4428) for coffee and got a free coffee, but they didn't have any decaf!
@@ -1217,9 +1989,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2818 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2818 (1).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  So [Holiday](http://www.holidaystationstores.com/) coffee, I can't believe they have a shop set-up just like if you went into the gas station, but it's at the [Mall of America](https://www.mallofamerica.com/)!
@@ -1269,9 +2040,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2786.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2786.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We went out to [I Nonni](http://www.inonnirestaurant.com/) in Mendota Heights along the banks of the Mississippi River.
@@ -1346,9 +2116,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2753.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2753.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We're in St. Paul at the [Heirloom restaurant](http://www.heirloomstpaul.com/).
@@ -1398,9 +2167,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2713.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2713.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  We stopped at [Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)
@@ -1460,9 +2228,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_4926.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_4926.jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  Hello, this is Decaf Doug ™. The flavor was about average.
@@ -1522,9 +2289,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG-4899 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG-4899 (1).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  Hello, this is Decaf Doug ™. I stopped at Snuffy's today and even though the coffee was average tasting but they were exceptional in refills.
@@ -1573,9 +2339,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/unnamed (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/unnamed (2).jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 
  The [IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)
@@ -1632,9 +2397,8 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_4840 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_4840 (2).jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 I liked the size of their mug. 
  It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
@@ -1685,9 +2449,8 @@ I liked the size of their mug.
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_4838 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_4838 (2).jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 The Lexington had the best coffee service ever.
  My cup was aways full.
@@ -1731,9 +2494,8 @@ The Lexington had the best coffee service ever.
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_4839 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_4839 (2).jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee"
  
 Hey coffee lovers. 
  I went to the Broiler today and I had an empty cup for a long time. 
@@ -1780,9 +2542,8 @@ Hey coffee lovers.
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_3441.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_3441.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee at the wedding" 
  
 
  We went to a wedding in [Salem, Wisconsin](https://goo.gl/maps/b1yzJDHnbTF2) at [Stein Farms](https://www.theknot.com/marketplace/stein-farms-salem-wi-998035). 
@@ -1849,9 +2610,8 @@ Hey coffee lovers.
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_3416.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the fair" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_3416.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee at the fair" 
  
 
  We went to the [St. Mark's festival](http://www.markerspride.com/index.php/home-festival) last week. 
@@ -1892,9 +2652,8 @@ Hey coffee lovers.
 
 
 
- <div style="text-align: center;">
-    <img src="images/cover your cofee.JPG" alt="Photo showing an official Decaf Doug styrofoam cup in a car's cup-holder" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/cover your cofee.JPG"
+~alt="Photo showing an official Decaf Doug styrofoam cup in a car's cup-holder"
  
 Now that the snow's off the roads, we are finding all these potholes and running into them!
 
@@ -1915,9 +2674,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2915.JPG" alt="Photo showing We Are Nuts regular ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2915.JPG"
+~alt="Photo showing We Are Nuts regular ground coffee"
  
 
  With the cold weather and the holidays coming, another tradition is [We Are Nuts](http://www.wearenutsmn.com/). 
@@ -1945,9 +2703,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2966.JPG" alt="Photo showing Caribou decaf whole bean coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2966.JPG"
+~alt="Photo showing Caribou decaf whole bean coffee"
  
 
  We got some good decaf at the house now, it's [whole bean, medium roast coffee from Caribou](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=64408efa1387938b9715aa5e79773cfc)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE).
@@ -1996,9 +2753,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_3034 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_3034 (3).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 
  We had the good fortune of being invited to a dinner party for a retirement at the [Town and Country](http://www.tcc-club.com/) country club ([*300 N Mississippi River Blvd, St Paul, MN 55104*](https://goo.gl/maps/f6ch11NmrCn)).
@@ -2045,9 +2801,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 [*various locations*](https://locations.cariboucoffee.com/)
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2945.JPG" alt="Photo showing a Caribou Coffee holiday coffee ad" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2945.JPG"
+~alt="Photo showing a Caribou Coffee holiday coffee ad"
  
 
  There's a chill in the air, it's getting cold outside, and the holidays are coming.
@@ -2128,9 +2883,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2886.JPG" alt="Photo showing Seattle's Best ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2886.JPG"
+~alt="Photo showing Seattle's Best ground coffee"
  
 
  Our best morning coffee so far has been [Seattle's Best](https://www.amazon.com/gp/product/B00CIYR4IC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CIYR4IC&linkCode=as2&tag=talker90-20&linkId=9a5d389b09dc08bc12fcce9a0086c106)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00CIYR4IC).
@@ -2179,9 +2933,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2882.JPG" alt="Photo showing Dunkin Donut's ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2882.JPG"
+~alt="Photo showing Dunkin Donut's ground coffee"
  
 
  So yeah, the [Dunkin' Donuts](https://www.amazon.com/gp/product/B009HSNDI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009HSNDI2&linkCode=as2&tag=talker90-20&linkId=adfcb82777d405ce38e50459f8297e20)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B009HSNDI2)
@@ -2254,9 +3007,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 
 
- <div style="text-align: center;">
-    <img src="images/FullSizeRender (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/FullSizeRender (2).jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 
  We were in Northfield for the deca--I mean De*feat* of Jesse James! 
@@ -2307,9 +3059,8 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2725 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_2725 (3).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 In Wisconsin we went to the [Not Justa Cafe](http://www.notjustacafeandbar.com/Somerset.html)(*850 N Knowles Ave, New Richmond, WI 54017*), but the decaf was so-so. 
  Luckily my sister got regular coffee, so I was able to drink her coffee by mixing up my half decaf. 
@@ -2335,9 +3086,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2826 (2).JPG" alt="Photo showing a 'Come grab a cup' placard" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2826 (2).JPG"
+~alt="Photo showing a 'Come grab a cup' placard"
  
 
  Happy National Coffee Day!
@@ -2385,9 +3135,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2807.JPG" alt="Photo showing a delicious cup of hot, decaf coffee with the fair in the background" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_2807.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee with the fair in the background" 
  
 
  We went to the [Nativity County Fair](https://school.nativity-mn.org/nativity-county-fair) where they have coffee and desserts.
@@ -2453,9 +3202,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2770 (3).JPG" alt="Photo showing the lovely decaf coffee server at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_2770 (3).JPG"
+~alt="Photo showing the lovely decaf coffee server at the wedding" 
  
 
  We went to a wedding this weekend outside of Northfield in an airplane hangar!
@@ -2511,9 +3259,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/F3117EEF-A4CE-4B42-8FE3-2268B0CA2B16.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/F3117EEF-A4CE-4B42-8FE3-2268B0CA2B16.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 
  We have one more lake, Forest Lake, where we stopped at [Vannelli's by the Lake](http://www.vannellisbythelake.com/menu/0/menus.aspx) (*55 Lake St S, Forest Lake, MN 55025*).
@@ -2562,9 +3309,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/FullSizeRender (1).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/FullSizeRender (1).jpg"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 
  And of course since we were up there at Mille Lacs Lake, we had to go to the [Grand Casino](https://grandcasinomn.com/dining/grand-buffet-mille-lacs/) (*777 Grand Avenue Onamia, MN 56359*).
@@ -2619,9 +3365,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/D91CDA31-7765-4CB9-82F4-198924AA3BAD (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/D91CDA31-7765-4CB9-82F4-198924AA3BAD (1).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 
  This is Decaf Doug up at the lake, Mille Lacs Lake, at [Izaty's](http://izatys.com/) (*40005 85th Ave, Onamia, MN* ) for fish and chips, eh? 
@@ -2669,9 +3414,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2659 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_2659 (1).JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 
  The best decaf we had at the lake was at a place called the [Wharf Resort](https://wharfmn.com/) (*5101 Whistle Rd, Isle, MN 56342*), it was very hot and delicious.
@@ -2704,9 +3448,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2719.JPG" alt="Photo showing Coco Moon Coffee Bar & Gift ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_2719.JPG"
+~alt="Photo showing Coco Moon Coffee Bar & Gift ground coffee" 
  
 
  So after we had our lunch and decaf in Brainerd, we walked next door to the [Coco Moon Coffee Bar & Gift](https://m.facebook.com/Coco-Moon-305158647898/) (*601 Laurel St, Brainerd, MN 56401*)
@@ -2761,9 +3504,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2677.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div> 
+ ~img src="images/IMG\_2677.JPG"
+~alt="Photo showing a delicious cup of hot, decaf coffee" 
  
 
  We did have some decaf in Brainerd another day. 
@@ -2897,9 +3639,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/unnamed (3).jpg" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/unnamed (3).jpg"
+~alt="Photo showing Tim Horton's decaf ground coffee"
  
 
  Okay, Decaf Doug ™ tip of the day: 
@@ -2944,9 +3685,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
- <div style="text-align: center;">
-    <img src="images/IMG\_2632 (4).JPG" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-</div>
+ ~img src="images/IMG\_2632 (4).JPG"
+~alt="Photo showing Tim Horton's decaf ground coffee"
  
 
  So [Tim Horton's](https://www.amazon.com/gp/product/B003YVTJKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003YVTJKO&linkCode=as2&tag=talker90-20&linkId=8d5af9d056e37dda53eac7cba00abd01)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B003YVTJKO)
