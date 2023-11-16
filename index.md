@@ -10,12 +10,10 @@ Twitter Card Type: summary_large_image
 -->
 
 <div style="text-align: center;">
-    <img src="images/dalle_banner.png" alt="Banner showing coffe and coffee cups in coffee color, it reads 'Decaf Doug .com'" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+    <a href="www.decafdoug.com"><img src="images/dalle_banner.png" alt="Banner showing coffe and coffee cups in coffee color, it reads 'Decaf Doug .com'" style="width: 75%; display: block; margin-left: auto; margin-right: auto;"></a>
     <p><a href="AboutUs.html" style="color: black;"><em>About</em></a></p>
 
 </div>
-
----
 
 <p align="center">
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
