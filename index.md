@@ -61,7 +61,7 @@ Scripts:
  💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/caremelos1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/caremelos1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 We went to [Carmelo's Ristorante](http://www.carmelos.com/Site/home.html) here is St. Paul and we went with fellow coffee bloggers [Kinda Different](https://kindadifferent.net/wp/). 
@@ -98,7 +98,7 @@ So we'd give it a number 4.
  <span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/Chanhassen.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/Chanhassen.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 We went to the [Chanhassen](https://www.chanhassendt.com/) dinner theater to see the show [Newsies](https://www.chanhassendt.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=newsies&BOparam::WScontent::loadArticle::context_id=), it was a really good show, and the coffee service was **super**!
@@ -142,7 +142,7 @@ So I got my decaf right away and it was hot.
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/carbones2.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/carbones2.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 We went to [Carbone's](http://carbonesonrandolph.com/carbonesonrandolph/HOME.html). 
@@ -189,7 +189,7 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
  💲💲💲** 
 
  <div style="text-align: center;">
-    <img src="images/fab ferns1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/fab ferns1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 We went to [Fabulous Fern's](http://www.fabulousferns.com/) on [Selby Avenue](https://goo.gl/maps/DYUfsL5wkws). 
@@ -241,7 +241,7 @@ As a sad update, Fabulous Fern's is now permanently closed.
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/applebees4.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/applebees4.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 We went to [Applebee's](https://www.applebees.com/en), the one in [Eagan](https://goo.gl/maps/WTNjSpWVqrS2), there are a lot of Applebee's around lately. 
@@ -283,7 +283,7 @@ It was really hot.
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_3585.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_3585.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  The [Cherokee Tavern](http://cherokeetavern.com/). 
@@ -322,7 +322,7 @@ It was really hot.
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/valley.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/valley.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 We went to [Valley Natural Foods](https://www.valleynaturalfoods.com/) in Burnsville. 
@@ -369,7 +369,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  💲** 
 
 <div style="text-align: center;">
-    <img src="images/agra culture.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/agra culture.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  There's a new restaurant in Highland, [Agra Culture](http://agra-culture.com/), on [Cleveland and Highland Parkway](https://goo.gl/maps/JHrRbiQnmZM2). 
@@ -410,7 +410,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG_3131.JPG" alt="Photo showing a delicious cup of hot, decaf coffee and caramel macchiato creamers" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_3131.JPG" alt="Photo showing a delicious cup of hot, decaf coffee and caramel macchiato creamers" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We went to the [Louisiana Cafe](http://newlouisianacafe.com/) on Selby Avenue. 
@@ -448,7 +448,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2989.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2989.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We went to the [Highland Cafe and Bakery](http://www.highlandcafeandbakery.com/) and the coffee was really hot. 
@@ -488,7 +488,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2950.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2950.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We were in of the [University of Minnesota](https://twin-cities.umn.edu/) area so we stopped at [Kafe, with a "K," 421](http://www.kafe421.com/).
@@ -528,7 +528,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  💲** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2908.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2908.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We stopped at [Augustine's Bar & Bakery](http://augustinesmn.com/) last night for dinner.
@@ -566,7 +566,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2892.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2892.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We went to the cousins' lunch today and we went to [Lucky's](http://www.luckys13pub.com/) 13 in Burnsville.
@@ -599,7 +599,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  ☕️** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2898.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2898.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  Stopped at [Peace Coffee](https://www.peacecoffee.com/) today for *free* coffee. I got a coupon from the [Chinook Book](https://chinookbook.com/minneapolis-st-paul), a coupon book where you can get all kinds of things when you buy the book.
@@ -640,7 +640,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  💲** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2855 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2855 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  A real steak house: they have 4 menu items and 3 of them are steak. The other one is shrimp. You get potato, salad, and bread with your steak dinner (unless you want the shrimp of course).
@@ -686,7 +686,7 @@ It said
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2875 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2875 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  So the Grandview Grill has [Morningstar Coffee](https://morningstarcoffee.com/) and it is $2.75 so I guess that would be a high 2.
@@ -722,7 +722,7 @@ It said
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2862.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2862.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  The [Neighborhood Cafe](http://www.theneighborhoodcafemn.com/). 
@@ -767,7 +767,7 @@ It said
  💲** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2813 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2813 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We went to [Salsa a la Salsa](https://www.salsaalasalsa.com/) which is in the Midtown Global Market. 
@@ -813,7 +813,7 @@ It said
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/0ymkzeb4ho221.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/0ymkzeb4ho221.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  Baker Square coffee!
@@ -870,7 +870,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG_2842.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2842.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  So I went to [SuperAmerica](http://superamerica.com/StoreHome/4428) for coffee and got a free coffee, but they didn't have any decaf!
@@ -918,7 +918,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG_2818 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2818 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  So [Holiday](http://www.holidaystationstores.com/) coffee, I can't believe they have a shop set-up just like if you went into the gas station, but it's at the [Mall of America](https://www.mallofamerica.com/)!
@@ -957,7 +957,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  💲** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2786.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2786.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
 
  We went out to [I Nonni](http://www.inonnirestaurant.com/) in Mendota Heights along the banks of the Mississippi River.
@@ -1002,7 +1002,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2753.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2753.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We're in St. Paul at the [Heirloom restaurant](http://www.heirloomstpaul.com/).
@@ -1043,7 +1043,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2713.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2713.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
 
  We stopped at [Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)
@@ -1087,7 +1087,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  💲💲💲** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_4926.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_4926.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  Hello, this is Decaf Doug ™. The flavor was about average.
@@ -1128,7 +1128,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG-4899 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG-4899 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  Hello, this is Decaf Doug ™. I stopped at Snuffy's today and even though the coffee was average tasting but they were exceptional in refills.
@@ -1166,7 +1166,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/unnamed (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/unnamed (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  The [IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)
@@ -1206,7 +1206,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_4840 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_4840 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 I liked the size of their mug. 
@@ -1241,7 +1241,7 @@ I liked the size of their mug.
  💲**
 
 <div style="text-align: center;">
-    <img src="images/IMG_4838 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_4838 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 The Lexington had the best coffee service ever.
@@ -1279,7 +1279,7 @@ The Lexington had the best coffee service ever.
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_4839 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_4839 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 Hey coffee lovers. 
@@ -1316,7 +1316,7 @@ Hey coffee lovers.
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_3441.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_3441.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  We went to a wedding in [Salem, Wisconsin](https://goo.gl/maps/b1yzJDHnbTF2) at [Stein Farms](https://www.theknot.com/marketplace/stein-farms-salem-wi-998035). 
@@ -1361,7 +1361,7 @@ Hey coffee lovers.
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG_3416.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the fair" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_3416.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the fair" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  We went to the [St. Mark's festival](http://www.markerspride.com/index.php/home-festival) last week. 
@@ -1388,7 +1388,7 @@ Hey coffee lovers.
 *Cover your coffee*
 
  <div style="text-align: center;">
-    <img src="images/cover your cofee.JPG" alt="Photo showing an official Decaf Doug styrofoam cup in a car's cup-holder" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/cover your cofee.JPG" alt="Photo showing an official Decaf Doug styrofoam cup in a car's cup-holder" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
 Now that the snow's off the roads, we are finding all these potholes and running into them!
@@ -1402,7 +1402,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 *For coffee nuts like me!*
 
  <div style="text-align: center;">
-    <img src="images/IMG_2915.JPG" alt="Photo showing We Are Nuts regular ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2915.JPG" alt="Photo showing We Are Nuts regular ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  With the cold weather and the holidays coming, another tradition is [We Are Nuts](http://www.wearenutsmn.com/). 
@@ -1422,7 +1422,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 *A great decaf to enjoy at home*
 
  <div style="text-align: center;">
-    <img src="images/IMG_2966.JPG" alt="Photo showing Caribou decaf whole bean coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2966.JPG" alt="Photo showing Caribou decaf whole bean coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  We got some good decaf at the house now, it's [whole bean, medium roast coffee from Caribou](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=64408efa1387938b9715aa5e79773cfc)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE).
@@ -1452,7 +1452,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  ☕️** 
 
  <div style="text-align: center;">
-    <img src="images/IMG_3034 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_3034 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
 
  We had the good fortune of being invited to a dinner party for a retirement at the [Town and Country](http://www.tcc-club.com/) country club ([*300 N Mississippi River Blvd, St Paul, MN 55104*](https://goo.gl/maps/f6ch11NmrCn)).
@@ -1473,7 +1473,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 [*various locations*](https://locations.cariboucoffee.com/)
 
  <div style="text-align: center;">
-    <img src="images/IMG_2945.JPG" alt="Photo showing a Caribou Coffee holiday coffee ad" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2945.JPG" alt="Photo showing a Caribou Coffee holiday coffee ad" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
 
  There's a chill in the air, it's getting cold outside, and the holidays are coming.
@@ -1511,7 +1511,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 *[Seattle's Best Ground Coffee](https://www.amazon.com/gp/product/B00CIYR4IC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CIYR4IC&linkCode=as2&tag=talker90-20&linkId=f6d6417725e2e06f1b1d846679abb838)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00CIYR4IC) (Seattle should have the best! That's where they essentially started the coffee roasting revolution)*
 
  <div style="text-align: center;">
-    <img src="images/IMG_2886.JPG" alt="Photo showing Seattle's Best ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2886.JPG" alt="Photo showing Seattle's Best ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  Our best morning coffee so far has been [Seattle's Best](https://www.amazon.com/gp/product/B00CIYR4IC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CIYR4IC&linkCode=as2&tag=talker90-20&linkId=9a5d389b09dc08bc12fcce9a0086c106)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00CIYR4IC).
@@ -1538,7 +1538,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 *Dunk your mornings in [Dunkin' Donuts Ground Coffee](https://www.amazon.com/gp/product/B009HSNDI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009HSNDI2&linkCode=as2&tag=talker90-20&linkId=53b950077a778d8b26274e2fc540f107)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B009HSNDI2)*
 
  <div style="text-align: center;">
-    <img src="images/IMG_2882.JPG" alt="Photo showing Dunkin Donut's ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2882.JPG" alt="Photo showing Dunkin Donut's ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  So yeah, the [Dunkin' Donuts](https://www.amazon.com/gp/product/B009HSNDI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009HSNDI2&linkCode=as2&tag=talker90-20&linkId=adfcb82777d405ce38e50459f8297e20)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B009HSNDI2)
@@ -1587,7 +1587,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/FullSizeRender (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/FullSizeRender (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  We were in Northfield for the deca--I mean De*feat* of Jesse James! 
@@ -1625,7 +1625,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2725 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2725 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
 In Wisconsin we went to the [Not Justa Cafe](http://www.notjustacafeandbar.com/Somerset.html)(*850 N Knowles Ave, New Richmond, WI 54017*), but the decaf was so-so. 
@@ -1644,7 +1644,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 *...except every day is Coffee Day for me...*
 
 <div style="text-align: center;">
-    <img src="images/IMG_2826 (2).JPG" alt="Photo showing a 'Come grab a cup' placard" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2826 (2).JPG" alt="Photo showing a 'Come grab a cup' placard" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  Happy National Coffee Day!
@@ -1683,7 +1683,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2807.JPG" alt="Photo showing a delicious cup of hot, decaf coffee with the fair in the background" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2807.JPG" alt="Photo showing a delicious cup of hot, decaf coffee with the fair in the background" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  We went to the [Nativity County Fair](https://school.nativity-mn.org/nativity-county-fair) where they have coffee and desserts.
@@ -1725,7 +1725,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  ☕️** 
 
 <div style="text-align: center;">
-    <img src="images/IMG_2770 (3).JPG" alt="Photo showing the lovely decaf coffee server at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2770 (3).JPG" alt="Photo showing the lovely decaf coffee server at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  We went to a wedding this weekend outside of Northfield in an airplane hangar!
@@ -1768,7 +1768,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/F3117EEF-A4CE-4B42-8FE3-2268B0CA2B16.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/F3117EEF-A4CE-4B42-8FE3-2268B0CA2B16.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  We have one more lake, Forest Lake, where we stopped at [Vannelli's by the Lake](http://www.vannellisbythelake.com/menu/0/menus.aspx) (*55 Lake St S, Forest Lake, MN 55025*).
@@ -1807,7 +1807,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/FullSizeRender (1).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/FullSizeRender (1).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  And of course since we were up there at Mille Lacs Lake, we had to go to the [Grand Casino](https://grandcasinomn.com/dining/grand-buffet-mille-lacs/) (*777 Grand Avenue Onamia, MN 56359*).
@@ -1849,7 +1849,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/D91CDA31-7765-4CB9-82F4-198924AA3BAD (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/D91CDA31-7765-4CB9-82F4-198924AA3BAD (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
 
  This is Decaf Doug up at the lake, Mille Lacs Lake, at [Izaty's](http://izatys.com/) (*40005 85th Ave, Onamia, MN* ) for fish and chips, eh? 
@@ -1887,7 +1887,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG_2659 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2659 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
 
  The best decaf we had at the lake was at a place called the [Wharf Resort](https://wharfmn.com/) (*5101 Whistle Rd, Isle, MN 56342*), it was very hot and delicious.
@@ -1909,7 +1909,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 *[Coco Moon Coffee Bar & Gift](https://m.facebook.com/Coco-Moon-305158647898/)*
 
 <div style="text-align: center;">
-    <img src="images/IMG_2719.JPG" alt="Photo showing Coco Moon Coffee Bar & Gift ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2719.JPG" alt="Photo showing Coco Moon Coffee Bar & Gift ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  So after we had our lunch and decaf in Brainerd, we walked next door to the [Coco Moon Coffee Bar & Gift](https://m.facebook.com/Coco-Moon-305158647898/) (*601 Laurel St, Brainerd, MN 56401*)
@@ -1946,7 +1946,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG_2677.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2677.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div> 
  
  We did have some decaf in Brainerd another day. 
@@ -2013,7 +2013,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 *The mysterious "half-caff"*
 
  <div style="text-align: center;">
-    <img src="images/unnamed (3).jpg" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/unnamed (3).jpg" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  Okay, Decaf Doug ™ tip of the day: 
@@ -2030,7 +2030,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  Canadian coffee, Eh*
 
 <div style="text-align: center;">
-    <img src="images/IMG_2632 (4).JPG" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1em;">
+    <img src="images/IMG_2632 (4).JPG" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
 </div>
  
  So [Tim Horton's](https://www.amazon.com/gp/product/B003YVTJKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003YVTJKO&linkCode=as2&tag=talker90-20&linkId=8d5af9d056e37dda53eac7cba00abd01)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B003YVTJKO)
