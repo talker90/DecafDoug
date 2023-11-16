@@ -10,14 +10,10 @@ Twitter Card Type: summary_large_image
 -->
 
 <div style="text-align: center;">
-    <h1 style="font-family: 'cursive';">
-        <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50"> 
-        Decaf Doug 
-        <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50">
-    </h1>
-</div>
+    <img src="images/dalle_banner.png" alt="Banner showing coffe and coffee cups in coffee color, it reads 'Decaf Doug .com'" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+    <p><a href="AboutUs.html" style="color: black;"><em>About</em></a></p>
 
-[About](AboutUs.html)
+</div>
 
 ---
 
