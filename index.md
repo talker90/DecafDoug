@@ -1,18 +1,49 @@
-# Decaf Doug
+<!-- 
+Title: Decaf Doug
+Description: A webpage about decaf coffee, because coffee lovers have to drink decaf sometimes
+Image: http://i.imgur.com/jejxCJZ.jpg
+URL: http://www.decafdoug.com
+Twitter Title: Decaf Doug.com
+Twitter Description: A webpage about decaf coffee, because coffee lovers have to drink decaf sometimes
+Twitter Image: http://i.imgur.com/jejxCJZ.jpg
+Twitter Card Type: summary_large_image
+-->
+
+<!-- 
+Styles: 
+- http://fonts.googleapis.com/css?family=Oswald|Montserrat
+- https://fonts.googleapis.com/icon?family=Material+Icons
+
+Scripts:
+- //pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+-->
+
+<!-- commenting out hamburger and nav for now
+- [Home](index.html)
+-->
+
+<div style="text-align: center;">
+    <h1 style="font-family: 'cursive';">
+        <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50"> 
+        Decaf Doug 
+        <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50">
+    </h1>
+</div>
 
 
+<!-- commenting out hamburger and nav for now
+- [Home](index.html)
+-->
 
+---
 
+<p align="center">
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30">
+</p>
 
-![](images/if_barista-icons_coffee-bean_889379.svg)
-  
- ![](images/if_barista-icons_coffee-bean_889379.svg)
-  
- ![](images/if_barista-icons_coffee-bean_889379.svg)
-
-
-
-
+---
 
 **[Carmelo's](http://www.carmelos.com/Site/home.html)**
 
