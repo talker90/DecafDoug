@@ -4,11 +4,11 @@
 
 
 
-![](if_barista-icons_coffee-bean_889379.svg)
+![](images/if_barista-icons_coffee-bean_889379.svg)
   
- ![](if_barista-icons_coffee-bean_889379.svg)
+ ![](images/if_barista-icons_coffee-bean_889379.svg)
   
- ![](if_barista-icons_coffee-bean_889379.svg)
+ ![](images/if_barista-icons_coffee-bean_889379.svg)
 
 
 
@@ -16,34 +16,27 @@
 
 **[Carmelo's](http://www.carmelos.com/Site/home.html)**
 
-
 [*238 Snelling Ave S, St Paul, MN 55105*](https://goo.gl/maps/V9nXjNRneRG2)
-
-
-
 
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
  💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/caremelos1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
@@ -60,45 +53,32 @@ So we'd give it a number 4.
 
 
 
-
-
-
-
 **[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
-
 
 [*501 W 78th St, Chanhassen, MN 55317*](https://goo.gl/maps/U81suzw484N2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️☕️** 
 
-
 **Refill Frequency 
  ☕️
  ☕️☕️** 
 
-
 **Price 
  <span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
 
  <div style="text-align: center;">
     <img src="images/Chanhassen.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
 We went to the [Chanhassen](https://www.chanhassendt.com/) dinner theater to see the show [Newsies](https://www.chanhassendt.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=newsies&BOparam::WScontent::loadArticle::context_id=), it was a really good show, and the coffee service was **super**!
-
 
 So I got my decaf right away and it was hot. 
  The flavor was okay, a number 3. 
@@ -112,41 +92,33 @@ So I got my decaf right away and it was hot.
  
 
 
-
-
-
-
-
 **[Carbone's Pizza](http://carbonesonrandolph.com/)**
-
 
 [*1698 Randolph Ave, St Paul, MN 55105*](https://goo.gl/maps/HYstmmJPsiz)
 
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/carbones2.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
@@ -162,7 +134,6 @@ We went to [Carbone's](http://carbonesonrandolph.com/carbonesonrandolph/HOME.htm
  I don't really care for that too much. 
  But it worked out okay.
 
-
 They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/carbonesonrandolph/HOME.html). It's the one in St. Paul on Randolph. 
  It's been there since the 50's. 
  And the kids always liked that pizza too. 
@@ -173,38 +144,26 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
 
 
 
-
-
-
-
 **[Fabulous Fern's](http://www.fabulousferns.com/)**
-
 
 [*PERMANENTLY CLOSED*](https://goo.gl/maps/DYUfsL5wkws)
 
-
-
-
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
  ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
-
 **Price 
  💲💲💲** 
-
-
-
 
  <div style="text-align: center;">
     <img src="images/fab ferns1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
@@ -218,7 +177,6 @@ We went to [Fabulous Fern's](http://www.fabulousferns.com/) on [Selby Avenue](ht
  They have a big dining area, great french fries, and really good desserts too. 
  But I'm here to talk about the coffee.
 
-
 So the decaf coffee was really hot. 
  It was a number 5. 
  It had a pretty good flavor. 
@@ -227,7 +185,6 @@ So the decaf coffee was really hot.
  The price was $2.95, so we'll give them a 2.95.
  So I guess we'll give them 3 dollar signs on that one.
 
-
 As a sad update, Fabulous Fern's is now permanently closed. 
  I can't believe they are closed because it was always busy. 
  I hope my #3 refill rating wasn't part of their downfall. 
@@ -235,48 +192,39 @@ As a sad update, Fabulous Fern's is now permanently closed.
  
 
 
-
-
-
-
-
 **[Applebee's Neighborhood Grill + Bar](https://www.applebees.com/en)**
-
 
 [*1335 Town Centre Dr, Eagan, MN 55123, USA*](https://goo.gl/maps/WTNjSpWVqrS2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/applebees4.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
 We went to [Applebee's](https://www.applebees.com/en), the one in [Eagan](https://goo.gl/maps/WTNjSpWVqrS2), there are a lot of Applebee's around lately. 
  So I ordered my decaf. They made me a fresh pot. 
  They had a nice ceramic mug and a nice presentation, with the creamers and spoon on a little plate.
-
 
 It was really hot. 
  And the flavor, well, it was average. Like a #3. 
@@ -287,52 +235,35 @@ It was really hot.
 
 
 
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
-
-
-
 **[Cherokee Tavern](http://cherokeetavern.com/)**
-
 
 [*886 Smith Ave S, West St Paul, MN 55118*](https://goo.gl/maps/Uv5yQn2MdX72)
 
-
-
-
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_3585.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_3585.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  The [Cherokee Tavern](http://cherokeetavern.com/). 
  I went there on the week of my birthday because on Thursday on the week of your birthday you get a *free* steak dinner at a $20 value (!) 
  I ordered my decaf coffee and it was pretty good. 
@@ -342,9 +273,6 @@ It was really hot.
  But for the refills I still have to give him a 3 for the frequency. 
  The price was $2.75, so that would be a $$ for the price.
  
-
-
-
  Also for your birthday you get a little piece of cake for dessert. 
  It's kind of neat, they write "Happy Birthday" in chocolate sauce on your plate. 
  That's when I had my fresh pot of coffee, at the end with my cake. 
@@ -352,36 +280,26 @@ It was really hot.
  
 
 
-
-
-
-
-
 **[Valley Natural Foods](https://www.valleynaturalfoods.com/)**
-
 
 [*13750 Co Rd 11, Burnsville, MN 55337*](https://goo.gl/maps/TH6Wrmx3NqS2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/valley.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
@@ -391,7 +309,6 @@ We went to [Valley Natural Foods](https://www.valleynaturalfoods.com/) in Burnsv
  And I must admit, it was pretty good.
  I had an Americano and the large was only $2.50, so I thought that was a pretty good deal. 
  It was very hot, a number 5, and yeah, pretty good, so a number 4.
-
 
 It was a nice spot in the front of the store with tables, chairs, and a lot of natural light. 
  They have a lot of windows and the sun was out.
@@ -403,51 +320,40 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
-
-
-
-
 **[Agra Culture Kitchen & Press](http://agra-culture.com/)**
-
 
 [*721 Cleveland Ave S, St Paul, MN 55116*](https://goo.gl/maps/JHrRbiQnmZM2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> 
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲💲** 
+ 💲
+ 💲
+ 💲** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/agra culture.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  There's a new restaurant in Highland, [Agra Culture](http://agra-culture.com/), on [Cleveland and Highland Parkway](https://goo.gl/maps/JHrRbiQnmZM2). 
  Great. 
  Place. 
  All of their booths have plug-ins for your electronics, it's pretty neat.
- 
-
-
 
  So with my food I ordered decaf and they made me an Americano. 
  It was really hot, a number 5, but the flavor, well, it was like a 3 and 1/2. 
@@ -457,53 +363,34 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
-
-
-
 **[Louisiana Cafe](http://newlouisianacafe.com/)**
-
 
 [*613 Selby Ave, St Paul, MN 55102*](https://goo.gl/maps/1vQkrKnLFwT2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG\_3131.JPG" alt="Photo showing a delicious cup of hot, decaf coffee and caramel macchiato creamers" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_3131.JPG" alt="Photo showing a delicious cup of hot, decaf coffee and caramel macchiato creamers" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We went to the [Louisiana Cafe](http://newlouisianacafe.com/) on Selby Avenue. 
  They have the same menu as the [Grandview Grill](http://www.grandview-grill.com/menu.html), except their specials are different. 
  They have a little more cajun feel to their specials. 
@@ -513,44 +400,35 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 
 
-
-
-
-
 **[Highland Cafe & Bakery](http://www.highlandcafeandbakery.com/)**
-
 
 [*2012 Ford Pkwy, St Paul, MN 55116*](https://goo.gl/maps/xPFmL17VDp72)
 
-
-
-
 **Flavor 
  ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2989.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2989.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We went to the [Highland Cafe and Bakery](http://www.highlandcafeandbakery.com/) and the coffee was really hot. 
  They had this great thermo-karaf, so I'd have to give their temperature a number 5. 
  Because I got a whole karaf of coffee, I have to give the refills a number 5 as well. 
@@ -563,45 +441,34 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
 **[Kafe 421](http://www.kafe421.com/)**
-
 
 [*421 14th Ave SE, Minneapolis, MN 55414*](https://goo.gl/maps/Uba9MznoMZC2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2950.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2950.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We were in of the [University of Minnesota](https://twin-cities.umn.edu/) area so we stopped at [Kafe, with a "K," 421](http://www.kafe421.com/).
  It's in [Dinkytown](http://dinkytownusa.org/) actually.
  It's a very nice restaurant and we wanted to stop there to celebrate an academic achievement, so that was pretty neat.
@@ -614,62 +481,34 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
-
- amzn\_assoc\_ad\_type = "banner";
- amzn\_assoc\_marketplace = "amazon";
- amzn\_assoc\_region = "US";
- amzn\_assoc\_placement = "assoc\_banner\_placement\_default";
- amzn\_assoc\_campaigns = "amzn\_cr\_device";
- amzn\_assoc\_banner\_type = "category";
- amzn\_assoc\_isresponsive = "true";
- amzn\_assoc\_banner\_id = "0NAT80JWK4GC9DBYEG02";
- amzn\_assoc\_tracking\_id = "talker90-20";
- amzn\_assoc\_linkid = "887660f19ab9db67940916b89212cc13";
- 
-
-
-
-
-
 **[Augustine's Bar & Bakery](http://augustinesmn.com/)**
-
 
 [*1668 Selby Ave, St Paul, MN 55104*](https://goo.gl/maps/e2XJEND9dCQ2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲💲** 
+ 💲
+ 💲
+ 💲** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/IMG_2908.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We stopped at [Augustine's Bar & Bakery](http://augustinesmn.com/) last night for dinner.
  It was kind of a late dinner but there were still a few tables there.
  It's over on Selby avenue and it used to be laundry mat but they've transformed it into a great restaurant.
@@ -685,41 +524,29 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
 **[Lucky's 13 Pub](http://www.luckys13pub.com/)**
-
 
 [*2033 Burnsville Center, Burnsville, MN 55306*](https://goo.gl/maps/MReEQDo17yQ2)
 
-
-
-
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2892.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2892.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We went to the cousins' lunch today and we went to [Lucky's](http://www.luckys13pub.com/) 13 in Burnsville.
  And the decaf was good.
  I'd say, I was debating between a 3 and 4, but I guess we'll go with a 4 on that one.
@@ -735,46 +562,24 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
-
-
-
 **[Peace Coffee](https://www.peacecoffee.com/)**
-
 
 [*3262 Minnehaha Ave, Minneapolis, MN 55406*](https://goo.gl/maps/jrLhDdy5Aqx)
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
+ ☕️
+ ☕️** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2898.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2898.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  Stopped at [Peace Coffee](https://www.peacecoffee.com/) today for *free* coffee. I got a coupon from the [Chinook Book](https://chinookbook.com/minneapolis-st-paul), a coupon book where you can get all kinds of things when you buy the book.
  And the coffee was *fantastic.*
  It was really hot.
@@ -788,173 +593,116 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **[Lindey's Prime Steak House](http://www.theplaceforsteak.com/)**
-
 
 [*3600 Snelling Ave N, Arden Hills, MN 55112*](https://www.google.com/maps/place/Lindey's+Prime+Steak+House/@45.0505438,-93.1653263,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32914af80af79:0x5c13deaa975f34d8!8m2!3d45.0505438!4d-93.1631376)
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲💲** 
+ 💲
+ 💲
+ 💲** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2855 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2855 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  A real steak house: they have 4 menu items and 3 of them are steak. The other one is shrimp. You get potato, salad, and bread with your steak dinner (unless you want the shrimp of course).
  
-
-
-
  I got the decaf coffee and it was really hot, so a number 5 on that one.
  And they kept it full. They brought me a pot and then they brought me *another* pot.
  The flavor was okay, so that'd be a 3.
  And for the price I'd give it a 2.95 ;) It was $2.95 for the coffee.
  
-
-
-
- It said 
+It said 
  [Folgers](https://www.amazon.com/gp/product/B010ULFNW8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010ULFNW8&linkCode=as2&tag=talker90-20&linkId=c7e0b3ce264e5bb9d551b6fd567c2f50)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B010ULFNW8)
-
-
 
  They do have a [birthday club](http://theplaceforsteak.com/birthday-club.html) there too, so I would sign up for that.
  Then you can get a steak dinner for free if you get one that's a certain price, or you get a certain amount off on your bill.
  So that's a pretty good way to celebrate your birthday:
  a steak dinner and a pot of decaf coffee.
- 
-
-
-
-
 
 
 
 **Grandview Grill**
 
-
 *1818 Grand Ave, St Paul, MN 55105*
-
-
-
-
-
 
 **Flavor 
  ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2875 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2875 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  So the Grandview Grill has [Morningstar Coffee](https://morningstarcoffee.com/) and it is $2.75 so I guess that would be a high 2.
  The regular coffee was good, but the decaf was only so-so, a little weak.
  But it was nice and hot, like a number 4.
  And the refill service was *excellent*, so I'd have to give that a number 5.
  They didn't give us a pot of coffee, but the waitress was already right there whenever you needed more coffee.
  
-
-
-
-
-
-
-
-
-
-
-**[Neighborhood Cafe](http://www.theneighborhoodcafemn.com/)**
-
+ 
+ 
+ **[Neighborhood Cafe](http://www.theneighborhoodcafemn.com/)**
 
 *1570 Selby Ave, St Paul, MN 55104*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2862.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2862.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  The [Neighborhood Cafe](http://www.theneighborhoodcafemn.com/). 
  The flavor was a 3, no, we'll go for 4. 
  The coffee was really hot, so I would say it was a 4 for the temperature. 
@@ -967,67 +715,45 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  And we had a couple of "farmer's breakfasts," which are a really good deal. 
  So it was a great experience at the [Neighborhood Cafe](http://www.theneighborhoodcafemn.com/)
 
-
-
-
  I have a [Neighborhood Cafe](http://www.theneighborhoodcafemn.com/) update: 
  I found out they use [Dunn Brother's Coffee](https://www.amazon.com/gp/product/B00R1V54NY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1V54NY&linkCode=as2&tag=talker90-20&linkId=52f08c8f992af54cba19d2228d53291e)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00R1V54NY) which is roasted like 3 blocks away from the restaurant, so that's why their coffee is so good!
  
 
 
-
-
-
-
-
-
-
-
 **[Salsa a la Salsa](https://www.salsaalasalsa.com/)**
-
 
 *1420 Nicollet Ave, Minneapolis, MN 55403*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲💲** 
+ 💲
+ 💲
+ 💲** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2813 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2813 (2).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We went to [Salsa a la Salsa](https://www.salsaalasalsa.com/) which is in the Midtown Global Market. 
  The coffee was *super*! 
  They had a nice cup too :) I like their mugs. 
  They were clear, glass mugs that are kind of tall. 
  So the coffee even looks good in it.
  
-
-
-
  They made a fresh pot of decaf for me. 
  It was nice, hot, and fresh. 
  So I'd have to give it number 5 for temperature. 
@@ -1039,47 +765,35 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
 **[Baker Square](http://www.bakerssquarerestaurants.com)**
-
 
 *2239 Ford Pkwy, St Paul, MN 55116*
 
-
-
-
-
-
 **Flavor 
  ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/0ymkzeb4ho221.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  Baker Square coffee!
  We went to Baker Square today. 
  I must say we go to Baker Square quite a bit.
@@ -1094,74 +808,49 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  The last couple of times I stopped there I noticed that the cup is actually hot before you even pour your coffee. 
  What a great idea!
  
-
-
-
  So if they went back to how they brewed in the 90's, I think they'd be all set.
  It seems like they used to grind their beans fresh then. 
  They had a different coffee service in how they had it set up.
  Now, they brew the coffee in the back, they don't have it out by the customers so I can't tell how they do it.
  But it definitely doesn't have the flavor it used to have.
  
-
-
-
- Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk. 
+Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk. 
  So this is Decaf Doug ™ from Baker Square.
  We usually go to Highland, but I guess they have a few around.
  Okay! Bye.
  
 
 
-
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
-
-
-
 **[SuperAmerica](http://superamerica.com/StoreHome/4428)**
-
 
 *232 Fairview Ave S, St Paul, MN 55105*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG\_2842.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2842.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  So I went to [SuperAmerica](http://superamerica.com/StoreHome/4428) for coffee and got a free coffee, but they didn't have any decaf!
  So I got the regular Colombian Supremo.
  It was super hot, so I'd have to give it a number 5 for that.
@@ -1175,53 +864,41 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  So I can't really drink all of my regular coffee.
  So I'll have to pace myself and maybe save some for tomorrow morning.
  
-
-
  Happy Coffee Day!
  
 
 
-
-
-
-
-
  **[Holiday Stationstores](http://www.mallofamerica.com/shopping/directory/holiday-station-store)**
-
 
 *123 West Market, Bloomington, MN 55425*
 
-
-
-
-
-
 **Flavor 
  ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> 
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG\_2818 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2818 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  So [Holiday](http://www.holidaystationstores.com/) coffee, I can't believe they have a shop set-up just like if you went into the gas station, but it's at the [Mall of America](https://www.mallofamerica.com/)!
  So you can get your [Holiday](http://www.holidaystationstores.com/) coffee right there.
  The flavor of the decaf was only about a 2, but it was hot and it was fresh.
@@ -1233,46 +910,33 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
  **[I Nonni](http://www.inonnirestaurant.com/)**
-
 
 *981 Sibley Memorial Hwy, St Paul, MN 55118*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲💲** 
+ 💲
+ 💲
+ 💲** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2786.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2786.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
- 
 
  We went out to [I Nonni](http://www.inonnirestaurant.com/) in Mendota Heights along the banks of the Mississippi River.
  We asked for a window seat, they had the curtains closed but you could still kind of see out the window.
@@ -1280,9 +944,6 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  It was hot so I think that would be a 5 on temperature too.
  *And* she kept my cup full so that would be a 5 again (!), but the price was high.
  
-
-
-
  It was a bigger cup, maybe a 12 oz cup, but it was a nice shaped coffee cup. 
  The waitress would fill it around 3/4s full which was good because then you could put your cream in there with a little spoon to stir with.
  And I think it stayed hotter until you got down to the bottom of the cup because it wasn't so full
@@ -1290,67 +951,38 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  [Groupon](https://www.groupon.com/), 
  so we got a good deal on the food.
  But, of course, the decaf was the most important thing and *that* was excellent.
- 
-
-
-
-
-
-
-
-
- amzn\_assoc\_ad\_type = "banner";
- amzn\_assoc\_marketplace = "amazon";
- amzn\_assoc\_region = "US";
- amzn\_assoc\_placement = "assoc\_banner\_placement\_default";
- amzn\_assoc\_campaigns = "topratedproducts";
- amzn\_assoc\_banner\_type = "category";
- amzn\_assoc\_isresponsive = "true";
- amzn\_assoc\_banner\_id = "0P6JFTGJY977DWDN0RR2";
- amzn\_assoc\_tracking\_id = "talker90-20";
- amzn\_assoc\_linkid = "4bfc442b57060e651e3e195553c9163f";
- 
-
-
 
 
 
 **[Heirloom St. Paul](http://www.heirloomstpaul.com/)**
 
-
 *2186 Marshall Ave, St Paul, MN 55104*
-
-
-
-
-
 
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2753.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2753.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We're in St. Paul at the [Heirloom restaurant](http://www.heirloomstpaul.com/).
  The coffee flavor was really good.
  I'd have to give it a 4.
@@ -1362,46 +994,35 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
 **[Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
-
 
 *9008 Cahill Ave, Inver Grove Heights, MN 55076*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> 
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2713.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2713.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
- 
 
  We stopped at [Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)
  for decaf today and got a flavored coffee.
@@ -1413,9 +1034,6 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  But then again, you don't get any refills.
  Although I could have drank both coffees instead of giving one away ;) hmmmm...
  
-
-
-
  So let's see, taste was really good, it was a delicious coffee, and it was hot 
  But there were no refils.
  $2.50 is kind of a high price if you don't get any refills.
@@ -1424,47 +1042,32 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
 **[The Uptowner](http://uptownercafeongrand.com/)**
-
 
 *1100 Grand Ave, St Paul, MN 55105*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
  💲💲💲** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_4926.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_4926.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  Hello, this is Decaf Doug ™. The flavor was about average.
  I guess we could give the temperature a 5, it was really hot coffee.
  The refill frequency was good. 
@@ -1475,58 +1078,37 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  They had a higher priced coffee but they had a coupon for my food, so it was like getting free coffee.
  Also, as a side note, they have free parking in the back before 3 o'clock which is always a good thing on Grand Avenue.
  This is Decaf Doug ™, signing out.
- 
-
-
-
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
 
 
 
 **[Snuffy's](http://www.snuffysmaltshops.com/)**
 
-
 *244 Cleveland Ave S, St Paul, MN 55105*
-
-
-
-
-
 
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/IMG-4899 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  Hello, this is Decaf Doug ™. I stopped at Snuffy's today and even though the coffee was average tasting but they were exceptional in refills.
  In fact, they even gave me a to-go cup and made *two* fresh pots of coffee!
  My cup was always filled so I never ran out of coffee. Even when I left I had coffee.
@@ -1537,47 +1119,34 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 
 
-
-
-
-
-
 **[IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)**
-
 
 *2231 Killebrew Dr, Bloomington, MN 55425*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/unnamed (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  The [IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)
  coffee was hot and fresh and they even brought me a second pot when I asked for more coffee.
  They were quick about it so I never had an empty cup.
@@ -1587,53 +1156,35 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  The last time I was at an [IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)
  they even gave me a to-go cup for my coffee, so they are super about getting you all the coffee that you could possibly drink.
  And that's important for Decaf Doug ™, to be able to have a sip of coffee all of the time.
- 
-
-
-
-
-
-
-
-
-
-
 
 
 
 **[Red Cow](http://redcowmn.com/st-paul-selby-avenue/)**
 
-
 *393 Selby Ave, St Paul, MN 55102*
-
-
-
-
-
 
 **Flavor 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_4840 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_4840 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
 I liked the size of their mug. 
@@ -1642,51 +1193,33 @@ I liked the size of their mug.
 
 
 
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
-
-
-
 **[The Lexington](http://thelexmn.com/)**
-
 
 *1096 Grand Ave, St Paul, MN 55105*
 
-
-
-
-
-
 **Flavor 
  ☕️
- ☕️☕️** 
+ ☕️
+ ☕️** 
 
-
-**Temperature ☕️ 
- ☕️☕️ ☕️** 
-
+**Temperature 
+☕️ 
+ ☕️
+ ☕️ 
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲💲**
+ 💲
+ 💲
+ 💲**
 
-
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_4838 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_4838 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
 The Lexington had the best coffee service ever.
@@ -1697,42 +1230,34 @@ The Lexington had the best coffee service ever.
 
 
 
-
-
-
-
 **[The Broiler](http://www.stclairbroiler.com/)**
-
 
 *1580 St. Clair Avenue St. Paul, MN*
 
-
-
-
-
-
 **Flavor ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_4839 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_4839 (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
 Hey coffee lovers. 
@@ -1746,51 +1271,36 @@ Hey coffee lovers.
 
 
 
-
-
-# 
- &nbspLifestyle
-
+# Lifestyle
 
 
 
 **Decaf Doug's Wisconsin Wedding**
 
-
 *A little too hot for a tuxedo, but never too hot for coffee*
 
-
-
-
-
-
 **Flavor ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_3441.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_3441.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  We went to a wedding in [Salem, Wisconsin](https://goo.gl/maps/b1yzJDHnbTF2) at [Stein Farms](https://www.theknot.com/marketplace/stein-farms-salem-wi-998035). 
  It's a big wedding center, it's a beautiful setting. 
  It was catered by the [Stowell's Catering Service](http://www.stowellscatering.com/) out of [Burlington, Wisconsin](https://goo.gl/maps/HTCNs73sd2D2), not to be confused with the [Burlington Coat Factory](https://www.burlington.com/) as the groom did when he first met the bride. 
- 
-
-
 
  After the wedding the first thing I looked for in the dining room was the coffee. 
  It was at the cake table with their wedding cake and cookies. 
@@ -1801,74 +1311,47 @@ Hey coffee lovers.
  And the temperature outside was really hot too, it was over 90 degrees and the wedding was outside. 
  We had all kinds of record highs for Memorial Weekend this year. 
  
-
-
-
  The coffee was in a percolator pot but it didn't get bitter over the course of the day, my last cup of coffee was almost as good as my first. 
  It was enough coffee, I just had to go over and keep filling my cup. 
  And I was close to the coffee so that was pretty handy.
  
-
-
-
  All in all it was a great wedding. 
  Best wishes and congratulations to the lovely bride and the groovy groom.
  
 
 
-
-
-
-
-
-
-
-
 **[Grand Olde St. Mark's Festival](http://www.markerspride.com/index.php/home-festival)**
-
 
 *[Third weekend of May each year](https://goo.gl/maps/m7Hq8sX3LG32)*
 
-
-
-
-
-
 **Flavor ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG\_3416.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the fair" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_3416.JPG" alt="Photo showing a delicious cup of hot, decaf coffee at the fair" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  We went to the [St. Mark's festival](http://www.markerspride.com/index.php/home-festival) last week. 
  It was a really neat deal. 
  They have rides for the kids, food, and music. 
  They also had decaf coffee!
  
-
-
-
  So I thought the first thing I would do is get a cup of decaf coffee and it was a dollar. 
  But they didn't have refills. 
  However, the interesting thing is that they were sponsored by [Coffee Bené](https://www.coffeebene.com/) which is down on [Cleveland](https://goo.gl/maps/eC9YNVR2sWM2) and is part of [Davanni's](https://www.davannis.com/) pizza and hoagies. 
  
-
-
-
  It was okay coffee, I'd give it a 3. 
  The price was low, but you only got one cup, there were no free refills. 
  But the temperature was a 5, it was really hot coffee, I was kind of surprised. 
@@ -1879,18 +1362,9 @@ Hey coffee lovers.
  
 
 
-
-
-
-
-
 **Decaf Doug "Sip of the Day" ™**
 
-
 *Cover your coffee*
-
-
-
 
  <div style="text-align: center;">
     <img src="images/cover your cofee.JPG" alt="Photo showing an official Decaf Doug styrofoam cup in a car's cup-holder" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
@@ -1898,28 +1372,18 @@ Hey coffee lovers.
  
 Now that the snow's off the roads, we are finding all these potholes and running into them!
 
-
 It's bad enough you could damage your car, but for sure you don't want to spill your cup of coffee.
-
-
-
-
 
 
 
 **[We Are Nuts](http://www.wearenutsmn.com/)**
 
-
 *For coffee nuts like me!*
 
-
-
-
  <div style="text-align: center;">
-    <img src="images/IMG\_2915.JPG" alt="Photo showing We Are Nuts regular ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2915.JPG" alt="Photo showing We Are Nuts regular ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  With the cold weather and the holidays coming, another tradition is [We Are Nuts](http://www.wearenutsmn.com/). 
  They are only open October to January and they freshly roast nuts each day. 
  It is a really good place for your holiday baking. 
@@ -1932,24 +1396,14 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 
 
-
-
-
-
-
 **[Caribou Coffee Medium Roast Decaf](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=3d2ba29f79f1f8d0d483166594d7bb80)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
-
 
 *A great decaf to enjoy at home*
 
-
-
-
  <div style="text-align: center;">
-    <img src="images/IMG\_2966.JPG" alt="Photo showing Caribou decaf whole bean coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2966.JPG" alt="Photo showing Caribou decaf whole bean coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  We got some good decaf at the house now, it's [whole bean, medium roast coffee from Caribou](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=64408efa1387938b9715aa5e79773cfc)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE).
  So at [Sam's Club](https://www.samsclub.com/sams/) you get a 40oz bag, so that's 2 1/2 lbs, for $17.98.
  And it makes a great cup of coffee.
@@ -1957,56 +1411,32 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Decaf Doug™ at the [country club](http://www.tcc-club.com/)**
-
 
 *[Town & Country Club](http://www.tcc-club.com/)*
 
-
-
-
-
-
-**Flavor ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+**Flavor 
+☕️
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
-
-
+ ☕️
+ ☕️** 
 
  <div style="text-align: center;">
-    <img src="images/IMG\_3034 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_3034 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
- 
 
  We had the good fortune of being invited to a dinner party for a retirement at the [Town and Country](http://www.tcc-club.com/) country club ([*300 N Mississippi River Blvd, St Paul, MN 55104*](https://goo.gl/maps/f6ch11NmrCn)).
  This country club is the oldest in Minnesota and the first country club in Minnesota. 
  It was inspired by the clubs in St. Paul formed because of the annual Winter Carnival, which is coming up soon -- so [buy your Winter Carnival buttons now](mailto:nadi0016@umn.edu?subject=Winter%20Carnival%20Button%20interest)!
- 
-
-
 
  We had outstanding service and fine food along with pretty good decaf.
  It was hot, they had a really good thermos that kept it hot the whole time.
@@ -2017,38 +1447,13 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 
 
-
-
-
-
-
-
- amzn\_assoc\_ad\_type = "banner";
- amzn\_assoc\_marketplace = "amazon";
- amzn\_assoc\_region = "US";
- amzn\_assoc\_placement = "assoc\_banner\_placement\_default";
- amzn\_assoc\_campaigns = "amzn\_cr\_device";
- amzn\_assoc\_banner\_type = "category";
- amzn\_assoc\_isresponsive = "true";
- amzn\_assoc\_banner\_id = "0NAT80JWK4GC9DBYEG02";
- amzn\_assoc\_tracking\_id = "talker90-20";
- amzn\_assoc\_linkid = "887660f19ab9db67940916b89212cc13";
- 
-
-
-
-
-
 **[Caribou Coffee](https://www.cariboucoffee.com/) holiday treats**
-
 
 [*various locations*](https://locations.cariboucoffee.com/)
 
-
  <div style="text-align: center;">
-    <img src="images/IMG\_2945.JPG" alt="Photo showing a Caribou Coffee holiday coffee ad" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2945.JPG" alt="Photo showing a Caribou Coffee holiday coffee ad" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
- 
 
  There's a chill in the air, it's getting cold outside, and the holidays are coming.
  So we thought we'd stop at [Caribou](https://www.cariboucoffee.com/) for a ['Ho Ho Mint Mocha'](https://www.cariboucoffee.com/menu-nutrition/beverage-food-detail?id=522489&type=drink).
@@ -2063,34 +1468,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 
 
-
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
-
-
-
 **[St. Clair Broiler](http://www.stclairbroiler.com/)**
 
-
 *A heartfelt farewell to one of our absolute favorites*
-
-
-
-
-
-
-
-
-
-
-
 
 *** Bye, bye Broiler *** These are the last days of the St. Clair Broiler. 
  61 years I guess they were around. 
@@ -2101,38 +1481,18 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  Most of everything was good about the Broiler. 
  We're going to miss the place.
  
-
-
-
  Okay, bye bye Broiler :'(
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 **Decaf Doug ™: JUST BREW IT.**
-
 
 *[Seattle's Best Ground Coffee](https://www.amazon.com/gp/product/B00CIYR4IC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CIYR4IC&linkCode=as2&tag=talker90-20&linkId=f6d6417725e2e06f1b1d846679abb838)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00CIYR4IC) (Seattle should have the best! That's where they essentially started the coffee roasting revolution)*
 
-
-
-
  <div style="text-align: center;">
-    <img src="images/IMG\_2886.JPG" alt="Photo showing Seattle's Best ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2886.JPG" alt="Photo showing Seattle's Best ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  Our best morning coffee so far has been [Seattle's Best](https://www.amazon.com/gp/product/B00CIYR4IC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CIYR4IC&linkCode=as2&tag=talker90-20&linkId=9a5d389b09dc08bc12fcce9a0086c106)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00CIYR4IC).
  It comes as a ground coffee.
  We've been getting it over at [Sam's Club](https://www.samsclub.com/sams/homepage.jsp) so they usually have the ["number 4"](https://www.amazon.com/gp/product/B00CIYR4IC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CIYR4IC&linkCode=as2&tag=talker90-20&linkId=9a5d389b09dc08bc12fcce9a0086c106)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00CIYR4IC)
@@ -2141,49 +1501,25 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  well that also says "number 4"...
  Well, it says it's "dark roast, smooth roasted ground coffee."
  
-
-
-
  I saw the number 4 on Amazon and they have a special deal where you can get [two 2lb bags](https://www.amazon.com/gp/product/B00VKLDQTU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VKLDQTU&linkCode=as2&tag=talker90-20&linkId=c96ff38e5f9ee0993c70c3c3be914b48)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00VKLDQTU)
  and it's like $37.96.
  And if you have Amazon Prime you get free next day delivery.
  So it's a better price than buying 1 bag at a time, it saves you like $5 bucks on the two bags.
  
-
-
-
  So it'a ground coffee with a great flavor.
  You can even use a little less coffee and still get a great flavor.
  So it may get you a little farther if you measure it out every time.
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Decaf Doug ™: JUST BREW IT.**
-
 
 *Dunk your mornings in [Dunkin' Donuts Ground Coffee](https://www.amazon.com/gp/product/B009HSNDI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009HSNDI2&linkCode=as2&tag=talker90-20&linkId=53b950077a778d8b26274e2fc540f107)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B009HSNDI2)*
 
-
-
-
  <div style="text-align: center;">
-    <img src="images/IMG\_2882.JPG" alt="Photo showing Dunkin Donut's ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2882.JPG" alt="Photo showing Dunkin Donut's ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  So yeah, the [Dunkin' Donuts](https://www.amazon.com/gp/product/B009HSNDI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009HSNDI2&linkCode=as2&tag=talker90-20&linkId=adfcb82777d405ce38e50459f8297e20)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B009HSNDI2)
  coffee was pretty good.
  And I was actually surprised because we got the *ground* coffee but it had as much flavor as when we get beans and grind them. 
@@ -2192,15 +1528,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  And that's on [Amazon](https://www.amazon.com/gp/product/B009HSNDI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009HSNDI2&linkCode=as2&tag=talker90-20&linkId=6225fc532c6e095def0a025aa87c00c5)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B009HSNDI2)
  which is convenient.
  
-
-
-
  And then I noticed their bakery series flavored coffees, they have a [cinnamon coffee](https://www.amazon.com/gp/product/B00W4DDRXI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W4DDRXI&linkCode=as2&tag=talker90-20&linkId=53439c89228b9632d4360c8228770975)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00W4DDRXI)
  that's $6.63 for the 11oz package.
  So they have quite a few different flavors there in their bakery series.
- 
-
-
 
  We had their [original](https://www.amazon.com/gp/product/B009HSNDI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009HSNDI2&linkCode=as2&tag=talker90-20&linkId=adfcb82777d405ce38e50459f8297e20)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B009HSNDI2)
  coffee and that was $7.19 for 12 ounces, so that's like $9.50 per pound. 
@@ -2211,54 +1541,34 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Decaf Doug™ and the [Defeat of Jesse James Days](http://www.djjd.org/)**
-
 
 *The Decaf of Jesse James*
 
-
-
-
-
-
 **Flavor ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/FullSizeRender (2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  We were in Northfield for the deca--I mean De*feat* of Jesse James! 
  The parade was Sunday morning so we went to the VFW(*516 Division St S, Northfield, MN 55057*) for their all you can eat pancake breakfast. 
  They had coffee included, so i had regular and decaf. 
@@ -2269,46 +1579,32 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 
 
-
-
-
-
-
-
-
-
 **Decaf Doug™ visits Wisconsin**
-
 
 *[Not Justa Bar & Cafe](http://www.notjustacafeandbar.com/Somerset.html) review*
 
-
-
-
-
-
 **Flavor ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2725 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2725 (3).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
 In Wisconsin we went to the [Not Justa Cafe](http://www.notjustacafeandbar.com/Somerset.html)(*850 N Knowles Ave, New Richmond, WI 54017*), but the decaf was so-so. 
@@ -2318,28 +1614,18 @@ In Wisconsin we went to the [Not Justa Cafe](http://www.notjustacafeandbar.com/S
  *But* the refills were good because each one of us got our own pot of coffee. 
  The price was like a number 2.
 
-
 So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular coffee and it was a nice day to visit with family over in Wisconsin.
-
-
-
-
 
 
 
 **Happy Coffee Day from Decaf Doug ™!**
 
-
 *...except every day is Coffee Day for me...*
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2826 (2).JPG" alt="Photo showing a 'Come grab a cup' placard" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2826 (2).JPG" alt="Photo showing a 'Come grab a cup' placard" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  Happy National Coffee Day!
  The 29th of September is National Coffee day. 
  I got an email from [Super America](http://superamerica.com/) for a free coffee, any size.
@@ -2350,54 +1636,40 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 
 
-
-
-
-
-
 **Decaf Doug ™ Goes to the Fair**
-
 
 *[Nativity County Fair](https://school.nativity-mn.org/nativity-county-fair) review*
 
-
-
-
-
-
-**Flavor ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+**Flavor 
+☕️
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2807.JPG" alt="Photo showing a delicious cup of hot, decaf coffee with the fair in the background" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2807.JPG" alt="Photo showing a delicious cup of hot, decaf coffee with the fair in the background" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  We went to the [Nativity County Fair](https://school.nativity-mn.org/nativity-county-fair) where they have coffee and desserts.
  The people of the parish bring in baked goods, like a bake sale.
  So that was really neat.
  But the coffee this year was the best I've ever had at the fair.
  And I've went to the fair quite a few times as the fair's been around for 25 years.
- 
-
-
 
  It was a 
  [Starbucks decaf](https://www.amazon.com/gp/product/B003JMC6Q2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003JMC6Q2&linkCode=as2&tag=talker90-20&linkId=7bb5c6d1a225b56eb3c44a46b83da915)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B003JMC6Q2)
@@ -2407,57 +1679,34 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  We did get a refill, but i only got one, so we'll have to go for a 2 for refills.
  And the price was low, only $1.
  
-
-
-
  There was beautiful weather and it was great to get out and support the [Nativity School](https://school.nativity-mn.org/)
-
-
-
-
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
 
 
 
 **Decaf Doug ™ Goes to a Wedding**
 
-
 *Grounds for Celebration*
 
-
-
-
-
-
-**Flavor ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+**Flavor 
+☕️
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
+ ☕️
+ ☕️** 
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2770 (3).JPG" alt="Photo showing the lovely decaf coffee server at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2770 (3).JPG" alt="Photo showing the lovely decaf coffee server at the wedding" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  We went to a wedding this weekend outside of Northfield in an airplane hangar!
  I wasn't really sure about reviewing their decaf, but the hostess asked me to.
  However, I'll unfortunately have to say, sorry ["Mrs. Olsen"](https://youtu.be/ffUEM4hNibk) :/ , that the decaf coffee flavor was only a 2.
@@ -2469,53 +1718,38 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  It's always great to celebrate with friends and family for the terrific occasion of a wedding, even if the decaf coffee flavor only gets a 2.
  The coffee price was non-applicable because it was included with the invitation.
  
-
-
-
  Congratulations Aimee and Matt! May you have a long, wonderful life together with plenty of decaf ☕️
  
 
 
-
-
-
-
-
 **Decaf Doug ™ Up North**
-
 
 *[Vannelli's by the Lake](http://www.vannellisbythelake.com/menu/0/menus.aspx) review*
 
-
-
-
-
-
 **Flavor ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
     <img src="images/F3117EEF-A4CE-4B42-8FE3-2268B0CA2B16.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  We have one more lake, Forest Lake, where we stopped at [Vannelli's by the Lake](http://www.vannellisbythelake.com/menu/0/menus.aspx) (*55 Lake St S, Forest Lake, MN 55025*).
  We were out on the patio.
  We were on the street side though, it seemed like the patio might wrap around to the lake.
@@ -2527,46 +1761,34 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 
 
-
-
-
-
-
 **Decaf Doug ™ Up North**
-
 
 *[Grand Buffet Mille Lacs](https://grandcasinomn.com/dining/) review*
 
-
-
-
-
-
 **Flavor ☕️
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
     <img src="images/FullSizeRender (1).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  And of course since we were up there at Mille Lacs Lake, we had to go to the [Grand Casino](https://grandcasinomn.com/dining/grand-buffet-mille-lacs/) (*777 Grand Avenue Onamia, MN 56359*).
  They have their buffet and Monday through Wednesday is their prime rib night. 
  So that was really good. 
@@ -2578,51 +1800,36 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  So it was hot and fresh, but I guess I'd have to give it a 2 for flavor.
  And the frequency of refills was excellent. 
  Plus, we were right across the road from Mille Lacs Lake.
- 
-
-
-
-
-
-
-
 
 
 
 **Decaf Doug ™ Up North**
 
-
 *[Izatys Resort](http://izatys.com/) review*
 
-
-
-
-
-
 **Flavor ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
     <img src="images/D91CDA31-7765-4CB9-82F4-198924AA3BAD (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
- 
 
  This is Decaf Doug up at the lake, Mille Lacs Lake, at [Izaty's](http://izatys.com/) (*40005 85th Ave, Onamia, MN* ) for fish and chips, eh? 
  So the decaf coffee was really cheap, it was $1.87, which I thought was really good, that's one of the lower prices I've seen.
@@ -2634,45 +1841,33 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 
 
-
-
-
-
-
 **Decaf Doug ™ Up North**
-
 
 *[The Wharf Resort & Toucan's Restaurant and Bar](https://wharfmn.com/) review*
 
-
-
-
-
-
-**Flavor ☕️
- ☕️☕️** 
-
+**Flavor 
+☕️
+ ☕️
+ ☕️** 
 
 **Temperature 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG\_2659 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2659 (1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
- 
 
  The best decaf we had at the lake was at a place called the [Wharf Resort](https://wharfmn.com/) (*5101 Whistle Rd, Isle, MN 56342*), it was very hot and delicious.
  She made a fresh pot for me too.
@@ -2682,33 +1877,20 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  It was the best decaf on the lake.
  Another interesting thing, I looked them up on Facebook and Governor Dayton was there in July because they have a big resort there with lots of boats, ice houses, and things like that. 
  
-
-
-
  So the coffee was hot, it was fresh, and she kept my cup filled too. 
  They had a nice mug too, I liked those mugs.
  And they even had their name on them.
  
 
 
-
-
-
-
-
 **Decaf Doug ™ Up North: JUST BREW IT.**
-
 
 *[Coco Moon Coffee Bar & Gift](https://m.facebook.com/Coco-Moon-305158647898/)*
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2719.JPG" alt="Photo showing Coco Moon Coffee Bar & Gift ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2719.JPG" alt="Photo showing Coco Moon Coffee Bar & Gift ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  So after we had our lunch and decaf in Brainerd, we walked next door to the [Coco Moon Coffee Bar & Gift](https://m.facebook.com/Coco-Moon-305158647898/) (*601 Laurel St, Brainerd, MN 56401*)
  and we picked up a pound of some Sumatra dark roast coffee.
  Oh boy, that was really good.
@@ -2718,54 +1900,34 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 
 
-
-
-
-
-
-
-
-
- (adsbygoogle = window.adsbygoogle || []).push({});
- 
-
-
-
 **Decaf Doug ™ Up North**
-
 
 *[Northwind Grille](http://www.northwindgrille.com/) review*
 
-
-
-
-
-
 **Flavor ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
- ☕️<span style="color: black; opacity: 0.1;">☕️</span>** 
-
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
-
+ ☕️
+ ☕️** 
 
 **Price 
- 💲💲<span style="color: black; opacity: 0.1;">💲</span>** 
-
-
-
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
-    <img src="images/IMG\_2677.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+    <img src="images/IMG_2677.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div> 
  
-
  We did have some decaf in Brainerd another day. 
  We stopped for lunch at the [Northwind Grille](http://www.northwindgrille.com/) (*603 Laurel St, Brainerd, MN 56401*).
  It was about an average flavor, I'd give it a 3.
@@ -2773,9 +1935,6 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  And it was $1.80 in price, so that would be like a number 2 for price.
  But refills were great!
  
-
-
-
  They kept filling up my cup.
  I was right by the coffee maker so that was good.
  I couldn't see what kind of coffee they were making, but they used pre-measured packets.
@@ -2786,83 +1945,30 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 
 
-
-
-
-
-
 **Decaf Doug ™ Up North**
 
-
 *How to caffeinate your mornings, even on vacation*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  This is Decaf Doug ™ out at the lake, up here at Lake Mille Lacs.
  In the morning I gotta have regular coffee, so we went to a few places for breakfast and had coffee.
  The first place we went was in Isle, the [Country Corner Cafe](https://www.facebook.com/pages/Country-Corner-Cafe-Isle-MN/164060930324927) (*485 W Main St, Isle, MN 56342*).
+
  It was only a dollar for coffee and it was the
  [Folgers Decaf](https://www.amazon.com/gp/product/B010ULFNW8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010ULFNW8&linkCode=as2&tag=talker90-20&linkId=c7e0b3ce264e5bb9d551b6fd567c2f50)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B010ULFNW8) 
  I believe. 
  So it wasn't too bad.
- 
-
-
 
  But the next day we went to [Eddy's Launch Bar and Grill](http://eddysresort.com/eat/) (*41334 Shakopee Lake Road, Onamia, MN 56359*) which was right on the lake, so that was kind of nice.
  We got to eat outside.
  The coffee was a little better.
  They had flavored creamers too so I tried the hazelenut creamer in my coffee.
  
-
-
-
  But the best place we found was in Onamia so we went there twice.
  They had real cream that they served in a pitcher.
  It was a farm-to-table kind of restaurant called [Farm Market Café](http://farmmarketcafe.com/) (*Trailside Center 108 W, Onamia, MN 56359*).
  So the food was really good.
  Eddy's was $2.00 for coffee, they were all bottomless cups, and the farm-to-table restaurant was $1.75.
  
-
-
-
  We stopped at [Bobbies Kitchen](https://www.google.com/maps/uv?hl=en&pb=!1s0x52b6bc1277b66177%3A0x190f9b8e355bfbaf!2m17!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e6!2m2!1m1!1e4!2m2!1m1!1e5!3m1!7e115!4shttps%3A%2F%2Fpicasaweb.google.com%2Flh%2Fsredir%3Funame%3D108583936335115061639%26id%3D6342122126140301746%26target%3DPHOTO&imagekey=!1e3!2s-cm-prxni0v8%2FWAO-eMK84bI%2FAAAAAAAA6bc%2FMEDwqoXAH48UWyE2IWO74-U7iF7ADyQlwCLIB&sa=X&ved=0ahUKEwiL0v2I5t7VAhUH_4MKHWnJBSEQoioIcDAK&activetab=main) (*1202 S 6th St, Brainerd, MN 56401*) in Brainerd.
  They didn't have decaf at all, which was disappointing, but they had a pretty good regular coffee.
  And it was served by Bobbie's sister.
@@ -2872,9 +1978,6 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  But the biggest thing is that Bobbie's sister served us.
  I think that's all I have to say about those places with regular coffee in the morning!
  
-
-
-
  So then on our drive back from the lake, which was Gull Lake, we stopped at this place called [Adirondack Coffee](https://lovemymug.com/) (*25469 Main St, Nisswa, MN 56468*).
  It was a great place.
  The main reason we stopped there was to use the bathroom so we could drink more coffee.
@@ -2884,71 +1987,31 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 
 
-
-
-
-
-
 **Decaf Doug "Sip of the Day" ™**
 
-
 *The mysterious "half-caff"*
-
-
-
 
  <div style="text-align: center;">
     <img src="images/unnamed (3).jpg" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  Okay, Decaf Doug ™ tip of the day: 
  I'm driving this afternoon so I'm making a *half* decaf.
  You don't want all decaf when you're driving!
  
-
-
-
  So that's my tip of the day.
  
 
 
-
-
-
-
-
-
- amzn\_assoc\_ad\_type = "banner";
- amzn\_assoc\_marketplace = "amazon";
- amzn\_assoc\_region = "US";
- amzn\_assoc\_placement = "assoc\_banner\_placement\_default";
- amzn\_assoc\_campaigns = "topratedproducts";
- amzn\_assoc\_banner\_type = "category";
- amzn\_assoc\_isresponsive = "true";
- amzn\_assoc\_banner\_id = "0P6JFTGJY977DWDN0RR2";
- amzn\_assoc\_tracking\_id = "talker90-20";
- amzn\_assoc\_linkid = "4bfc442b57060e651e3e195553c9163f";
- 
-
-
-
-
-
 **Decaf Doug ™: JUST BREW IT.**
-
 
 *[Tim Horton's](https://www.amazon.com/gp/product/B003YVTJKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003YVTJKO&linkCode=as2&tag=talker90-20&linkId=8d5af9d056e37dda53eac7cba00abd01)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B003YVTJKO)
  Canadian coffee, Eh*
 
-
-
-
- <div style="text-align: center;">
-    <img src="images/IMG\_2632 (4).JPG" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+    <img src="images/IMG_2632 (4).JPG" alt="Photo showing Tim Horton's decaf ground coffee" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 </div>
  
-
  So [Tim Horton's](https://www.amazon.com/gp/product/B003YVTJKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003YVTJKO&linkCode=as2&tag=talker90-20&linkId=8d5af9d056e37dda53eac7cba00abd01)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B003YVTJKO)
  coffee is new to the Twin Cities.
  I think they're from Canada, Eh?
@@ -2959,20 +2022,6 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  I had a "half-caff."
  So what I do sometimes is I'll put the decaf together with regular when I brew my coffee to get a half-caff.
  And tonight I'll try an all decaf pot of the new coffee to the Twin Cities.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2980,10 +2029,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
-
 [about](http://decafdoug.com/AboutUs.html)
-
-
 
 
 
@@ -2991,14 +2037,4 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 
 
-
-
 [lifestyle](#lifestyle)
-
-
-
-
-
-document.createElement('main');
-
-
