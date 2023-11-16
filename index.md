@@ -14,6 +14,26 @@ Twitter Card Type: summary_large_image
 <!-- The image is now set as a background -->
 </div>
 
+---
+
+<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: top center; background-repeat: no-repeat; background-size: cover;">
+    <!-- Content here -->
+</div>
+
+---
+
+<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: top center; background-repeat: no-repeat; background-size: auto 100%;">
+    <!-- Content here -->
+</div>
+
+---
+
+<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: top center; background-repeat: no-repeat; background-size: 100% auto;">
+    <!-- Content here -->
+</div>
+
+
+
 
 <div style="text-align: center;">
     <p><a href="AboutUs.html" style="color: black; text-decoration: none;"><em>About</em></a></p>
