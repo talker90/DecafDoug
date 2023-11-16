@@ -9,23 +9,23 @@ Twitter Image: http://i.imgur.com/jejxCJZ.jpg
 Twitter Card Type: summary_large_image
 -->
 
-<div style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
-<!-- The image is now set as a background -->
-</div>
-
----
-
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
     <!-- Content here -->
 </div>
 
 <script>
     function adjustBackground() {
+        var backgroundDiv = document.getElementById('backgroundDiv');
         var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
         if (width <= 600) { // Mobile devices
-            document.getElementById('backgroundDiv').style.backgroundAttachment = 'scroll';
+            backgroundDiv.style.backgroundImage = "url('images/fab ferns1.JPG')";
+            backgroundDiv.style.backgroundAttachment = 'scroll';
+            backgroundDiv.style.backgroundSize = 'contain'; // Use contain for mobile
         } else {
-            document.getElementById('backgroundDiv').style.backgroundAttachment = 'fixed';
+            backgroundDiv.style.backgroundImage = "url('images/dalle_banner.svg')";
+            backgroundDiv.style.backgroundAttachment = 'fixed';
+            backgroundDiv.style.backgroundSize = 'cover'; // Use cover for desktop
         }
     }
 
@@ -35,12 +35,27 @@ Twitter Card Type: summary_large_image
 
 ---
 
-<div style="text-align: center; overflow: hidden; height: 85vh;">
-    <img src="images/dalle_banner.svg" alt="Your Image Description" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+<div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
+    <!-- Content here -->
 </div>
 
+<script>
+    function adjustBackground() {
+        var backgroundDiv = document.getElementById('backgroundDiv');
+        var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 
----
+        if (width <= 600) { // Mobile devices
+            backgroundDiv.style.backgroundImage = "url('images/fab ferns1.JPG')";
+            backgroundDiv.style.backgroundAttachment = 'scroll'
+        } else {
+            backgroundDiv.style.backgroundImage = "url('images/dalle_banner.svg')";
+            backgroundDiv.style.backgroundAttachment = 'fixed'
+        }
+    }
+
+    window.addEventListener('resize', adjustBackground);
+    adjustBackground();
+</script>
 
 <div style="text-align: center;">
     <p><a href="AboutUs.html" style="color: black; text-decoration: none;"><em>About</em></a></p>
