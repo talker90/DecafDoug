@@ -2029,19 +2029,3 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  I had a "half-caff."
  So what I do sometimes is I'll put the decaf together with regular when I brew my coffee to get a half-caff.
  And tonight I'll try an all decaf pot of the new coffee to the Twin Cities.
-
----
-
-[home](http://decafdoug.com)
-
----
-
-[about](http://decafdoug.com/AboutUs.html)
-
----
-
-[reviews](#reviews)
-
----
-
-[lifestyle](#lifestyle)
