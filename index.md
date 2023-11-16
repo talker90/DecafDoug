@@ -10,7 +10,7 @@ Twitter Card Type: summary_large_image
 -->
 
 
-<div style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
+<div style="text-align: center; background-image: url('images/fab ferns1.JPG'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
 <!-- The image is now set as a background -->
 </div>
 
@@ -170,7 +170,9 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
 
 **Refill Frequency 
  ☕️
- ☕️ <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
+ ☕️ 
+ <span style="color: black; opacity: 0.1;">☕️</span>
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
  💲💲💲** 
