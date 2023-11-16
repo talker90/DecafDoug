@@ -29,9 +29,6 @@ Twitter Card Type: summary_large_image
 
 ---
 
-<!-- This sets the font for the whole pag -->
-<div style="font-family: Oswald, Montserrat, Arial, sans-serif; sans-serif;">
-
 
 ## **[Carmelo's](http://www.carmelos.com/Site/home.html)**
 
@@ -2038,8 +2035,6 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  I had a "half-caff."
  So what I do sometimes is I'll put the decaf together with regular when I brew my coffee to get a half-caff.
  And tonight I'll try an all decaf pot of the new coffee to the Twin Cities.
-
- </div>
 
 ---
 
