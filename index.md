@@ -35,27 +35,20 @@ Twitter Card Type: summary_large_image
 
 ---
 
-<div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
+<div id="backgroundDiv" style="text-align: center; height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover; background-image: url('images/dalle_banner.svg');">
     <!-- Content here -->
 </div>
 
-<script>
-    function adjustBackground() {
-        var backgroundDiv = document.getElementById('backgroundDiv');
-        var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-
-        if (width <= 600) { // Mobile devices
-            backgroundDiv.style.backgroundImage = "url('images/fab ferns1.JPG')";
-            backgroundDiv.style.backgroundAttachment = 'scroll'
-        } else {
-            backgroundDiv.style.backgroundImage = "url('images/dalle_banner.svg')";
-            backgroundDiv.style.backgroundAttachment = 'fixed'
+<style>
+    @media screen and (max-width: 600px) {
+        #backgroundDiv {
+            background-image: url('images/fab ferns1.JPG');
+            background-attachment: scroll;
+            background-size: contain;
         }
     }
+</style>
 
-    window.addEventListener('resize', adjustBackground);
-    adjustBackground();
-</script>
 
 <div style="text-align: center;">
     <p><a href="AboutUs.html" style="color: black; text-decoration: none;"><em>About</em></a></p>
