@@ -9,15 +9,6 @@ Twitter Image: http://i.imgur.com/jejxCJZ.jpg
 Twitter Card Type: summary_large_image
 -->
 
-<!-- 
-Styles: 
-- http://fonts.googleapis.com/css?family=Oswald|Montserrat
-- https://fonts.googleapis.com/icon?family=Material+Icons
-
-Scripts:
-- //pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
--->
-
 <div style="text-align: center;">
     <h1 style="font-family: 'cursive';">
         <img src="images/decaf_doug_logo.png" alt="logo" width="50" height="50"> 
@@ -37,6 +28,10 @@ Scripts:
 </p>
 
 ---
+
+<!-- This sets the font for the whole pag -->
+<div style="font-family: Oswald, Montserrat, Arial, sans-serif; sans-serif;">
+
 
 ## **[Carmelo's](http://www.carmelos.com/Site/home.html)**
 
@@ -73,31 +68,6 @@ So we'd give it a number 4.
  It was hot, so a number 4 for that one too. 
  For refills we'd give it a number 4 and for price it was only $1.95. 
  The link to Carmelo's, is [carmelos.com](http://www.carmelos.com/Site/home.html) but link for another great coffee blog is [kindadifferent.net](https://kindadifferent.net/wp/).
-
----
-
-<div style="font-family: Arial, sans-serif;">This is Arial font.</div>
-<div style="font-family: 'Times New Roman', serif;">This is Times New Roman font.</div>
-<div style="font-family: 'Courier New', monospace;">This is Courier New font.</div>
-<div style="font-family: Georgia, serif;">This is Georgia font.</div>
-<div style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;">This is Palatino Linotype font.</div>
-<div style="font-family: Tahoma, sans-serif;">This is Tahoma font.</div>
-<div style="font-family: 'Trebuchet MS', sans-serif;">This is Trebuchet MS font.</div>
-<div style="font-family: Verdana, sans-serif;">This is Verdana font.</div>
-<div style="font-family: 'Lucida Console', Monaco, monospace;">This is Lucida Console font.</div>
-<div style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">This is Lucida Sans Unicode font.</div>
-<div style="font-family: 'Comic Sans MS', cursive, sans-serif;">This is Comic Sans MS font.</div>
-<div style="font-family: Impact, Charcoal, sans-serif;">This is Impact font.</div>
-<div style="font-family: 'Arial Black', Gadget, sans-serif;">This is Arial Black font.</div>
-
-
----
-
-# One
-## Two
-### Three
-#### Four
-##### Five
 
 ---
 
@@ -2068,6 +2038,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  I had a "half-caff."
  So what I do sometimes is I'll put the decaf together with regular when I brew my coffee to get a half-caff.
  And tonight I'll try an all decaf pot of the new coffee to the Twin Cities.
+
+ </div>
 
 ---
 
