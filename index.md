@@ -76,6 +76,23 @@ So we'd give it a number 4.
 
 ---
 
+<div style="font-family: Arial, sans-serif;">This is Arial font.</div>
+<div style="font-family: 'Times New Roman', serif;">This is Times New Roman font.</div>
+<div style="font-family: 'Courier New', monospace;">This is Courier New font.</div>
+<div style="font-family: Georgia, serif;">This is Georgia font.</div>
+<div style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;">This is Palatino Linotype font.</div>
+<div style="font-family: Tahoma, sans-serif;">This is Tahoma font.</div>
+<div style="font-family: 'Trebuchet MS', sans-serif;">This is Trebuchet MS font.</div>
+<div style="font-family: Verdana, sans-serif;">This is Verdana font.</div>
+<div style="font-family: 'Lucida Console', Monaco, monospace;">This is Lucida Console font.</div>
+<div style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;">This is Lucida Sans Unicode font.</div>
+<div style="font-family: 'Comic Sans MS', cursive, sans-serif;">This is Comic Sans MS font.</div>
+<div style="font-family: Impact, Charcoal, sans-serif;">This is Impact font.</div>
+<div style="font-family: 'Arial Black', Gadget, sans-serif;">This is Arial Black font.</div>
+
+
+---
+
 **[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
 
 [*501 W 78th St, Chanhassen, MN 55317*](https://goo.gl/maps/U81suzw484N2)
