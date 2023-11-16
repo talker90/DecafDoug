@@ -10,7 +10,6 @@ Twitter Card Type: summary_large_image
 -->
 
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
-    <!-- Content here -->
 </div>
 
 <script>
@@ -64,7 +63,9 @@ Twitter Card Type: summary_large_image
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲<span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
 <div style="text-align: center;">
     <img src="images/caremelos1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 40vw; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
@@ -94,14 +95,18 @@ So we'd give it a number 4.
 
 **Temperature 
  ☕️
- ☕️☕️** 
+ ☕️
+ ☕️** 
 
 **Refill Frequency 
  ☕️
- ☕️☕️** 
+ ☕️
+ ☕️** 
 
 **Price 
- <span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span> <span style="color: black; opacity: 0.1;">💲</span>** 
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span> 
+ <span style="color: black; opacity: 0.1;">💲</span>** 
 
  <div style="text-align: center;">
     <img src="images/Chanhassen.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 40vw; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
@@ -194,7 +199,9 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
- 💲💲💲** 
+ 💲
+ 💲
+ 💲** 
 
  <div style="text-align: center;">
     <img src="images/fab ferns1.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 40vw; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
