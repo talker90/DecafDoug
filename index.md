@@ -9,7 +9,7 @@ Twitter Image: http://i.imgur.com/jejxCJZ.jpg
 Twitter Card Type: summary_large_image
 -->
 
-<div style="text-align: center; background-image: url('images/dalle_banner.png'); height: 85vh; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
+<div style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover;">
 <!-- The image is now set as a background -->
 </div>
 
