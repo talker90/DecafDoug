@@ -38,7 +38,7 @@ Scripts:
 
 ---
 
-**[Carmelo's](http://www.carmelos.com/Site/home.html)**
+## **[Carmelo's](http://www.carmelos.com/Site/home.html)**
 
 [*238 Snelling Ave S, St Paul, MN 55105*](https://goo.gl/maps/V9nXjNRneRG2)
 
@@ -101,7 +101,7 @@ So we'd give it a number 4.
 
 ---
 
-**[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
+## **[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
 
 [*501 W 78th St, Chanhassen, MN 55317*](https://goo.gl/maps/U81suzw484N2)
 
@@ -140,7 +140,7 @@ So I got my decaf right away and it was hot.
  
 ---
 
-**[Carbone's Pizza](http://carbonesonrandolph.com/)**
+## **[Carbone's Pizza](http://carbonesonrandolph.com/)**
 
 [*1698 Randolph Ave, St Paul, MN 55105*](https://goo.gl/maps/HYstmmJPsiz)
 
@@ -192,7 +192,7 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
 
 ---
 
-**[Fabulous Fern's](http://www.fabulousferns.com/)**
+## **[Fabulous Fern's](http://www.fabulousferns.com/)**
 
 [*PERMANENTLY CLOSED*](https://goo.gl/maps/DYUfsL5wkws)
 
@@ -240,7 +240,7 @@ As a sad update, Fabulous Fern's is now permanently closed.
  
 ---
 
-**[Applebee's Neighborhood Grill + Bar](https://www.applebees.com/en)**
+## **[Applebee's Neighborhood Grill + Bar](https://www.applebees.com/en)**
 
 [*1335 Town Centre Dr, Eagan, MN 55123, USA*](https://goo.gl/maps/WTNjSpWVqrS2)
 
@@ -282,7 +282,7 @@ It was really hot.
 
 ---
 
-**[Cherokee Tavern](http://cherokeetavern.com/)**
+## **[Cherokee Tavern](http://cherokeetavern.com/)**
 
 [*886 Smith Ave S, West St Paul, MN 55118*](https://goo.gl/maps/Uv5yQn2MdX72)
 
@@ -327,7 +327,7 @@ It was really hot.
  
 ---
 
-**[Valley Natural Foods](https://www.valleynaturalfoods.com/)**
+## **[Valley Natural Foods](https://www.valleynaturalfoods.com/)**
 
 [*13750 Co Rd 11, Burnsville, MN 55337*](https://goo.gl/maps/TH6Wrmx3NqS2)
 
@@ -367,7 +367,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 ---
 
-**[Agra Culture Kitchen & Press](http://agra-culture.com/)**
+## **[Agra Culture Kitchen & Press](http://agra-culture.com/)**
 
 [*721 Cleveland Ave S, St Paul, MN 55116*](https://goo.gl/maps/JHrRbiQnmZM2)
 
@@ -410,7 +410,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
-**[Louisiana Cafe](http://newlouisianacafe.com/)**
+## **[Louisiana Cafe](http://newlouisianacafe.com/)**
 
 [*613 Selby Ave, St Paul, MN 55102*](https://goo.gl/maps/1vQkrKnLFwT2)
 
@@ -447,7 +447,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 ---
 
-**[Highland Cafe & Bakery](http://www.highlandcafeandbakery.com/)**
+## **[Highland Cafe & Bakery](http://www.highlandcafeandbakery.com/)**
 
 [*2012 Ford Pkwy, St Paul, MN 55116*](https://goo.gl/maps/xPFmL17VDp72)
 
@@ -488,7 +488,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
-**[Kafe 421](http://www.kafe421.com/)**
+## **[Kafe 421](http://www.kafe421.com/)**
 
 [*421 14th Ave SE, Minneapolis, MN 55414*](https://goo.gl/maps/Uba9MznoMZC2)
 
@@ -528,7 +528,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
-**[Augustine's Bar & Bakery](http://augustinesmn.com/)**
+## **[Augustine's Bar & Bakery](http://augustinesmn.com/)**
 
 [*1668 Selby Ave, St Paul, MN 55104*](https://goo.gl/maps/e2XJEND9dCQ2)
 
@@ -571,7 +571,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
-**[Lucky's 13 Pub](http://www.luckys13pub.com/)**
+## **[Lucky's 13 Pub](http://www.luckys13pub.com/)**
 
 [*2033 Burnsville Center, Burnsville, MN 55306*](https://goo.gl/maps/MReEQDo17yQ2)
 
@@ -609,7 +609,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
-**[Peace Coffee](https://www.peacecoffee.com/)**
+## **[Peace Coffee](https://www.peacecoffee.com/)**
 
 [*3262 Minnehaha Ave, Minneapolis, MN 55406*](https://goo.gl/maps/jrLhDdy5Aqx)
 
@@ -640,7 +640,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
-**[Lindey's Prime Steak House](http://www.theplaceforsteak.com/)**
+## **[Lindey's Prime Steak House](http://www.theplaceforsteak.com/)**
 
 [*3600 Snelling Ave N, Arden Hills, MN 55112*](https://www.google.com/maps/place/Lindey's+Prime+Steak+House/@45.0505438,-93.1653263,17z/data=!3m1!4b1!4m5!3m4!1s0x52b32914af80af79:0x5c13deaa975f34d8!8m2!3d45.0505438!4d-93.1631376)
 
@@ -722,7 +722,7 @@ It said
  
  ---
  
- **[Neighborhood Cafe](http://www.theneighborhoodcafemn.com/)**
+ ## **[Neighborhood Cafe](http://www.theneighborhoodcafemn.com/)**
 
 *1570 Selby Ave, St Paul, MN 55104*
 
@@ -767,7 +767,7 @@ It said
  
 ---
 
-**[Salsa a la Salsa](https://www.salsaalasalsa.com/)**
+## **[Salsa a la Salsa](https://www.salsaalasalsa.com/)**
 
 *1420 Nicollet Ave, Minneapolis, MN 55403*
 
@@ -812,7 +812,7 @@ It said
  
 ---
 
-**[Baker Square](http://www.bakerssquarerestaurants.com)**
+## **[Baker Square](http://www.bakerssquarerestaurants.com)**
 
 *2239 Ford Pkwy, St Paul, MN 55116*
 
@@ -868,7 +868,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
-**[SuperAmerica](http://superamerica.com/StoreHome/4428)**
+## **[SuperAmerica](http://superamerica.com/StoreHome/4428)**
 
 *232 Fairview Ave S, St Paul, MN 55105*
 
@@ -915,7 +915,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
- **[Holiday Stationstores](http://www.mallofamerica.com/shopping/directory/holiday-station-store)**
+ ## **[Holiday Stationstores](http://www.mallofamerica.com/shopping/directory/holiday-station-store)**
 
 *123 West Market, Bloomington, MN 55425*
 
@@ -957,7 +957,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
- **[I Nonni](http://www.inonnirestaurant.com/)**
+ ## **[I Nonni](http://www.inonnirestaurant.com/)**
 
 *981 Sibley Memorial Hwy, St Paul, MN 55118*
 
@@ -1001,7 +1001,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 
-**[Heirloom St. Paul](http://www.heirloomstpaul.com/)**
+## **[Heirloom St. Paul](http://www.heirloomstpaul.com/)**
 
 *2186 Marshall Ave, St Paul, MN 55104*
 
@@ -1041,7 +1041,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
-**[Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
+## **[Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
 
 *9008 Cahill Ave, Inver Grove Heights, MN 55076*
 
@@ -1089,7 +1089,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
-**[The Uptowner](http://uptownercafeongrand.com/)**
+## **[The Uptowner](http://uptownercafeongrand.com/)**
 
 *1100 Grand Ave, St Paul, MN 55105*
 
@@ -1128,7 +1128,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 
-**[Snuffy's](http://www.snuffysmaltshops.com/)**
+## **[Snuffy's](http://www.snuffysmaltshops.com/)**
 
 *244 Cleveland Ave S, St Paul, MN 55105*
 
@@ -1166,7 +1166,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
-**[IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)**
+## **[IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)**
 
 *2231 Killebrew Dr, Bloomington, MN 55425*
 
@@ -1206,7 +1206,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 
-**[Red Cow](http://redcowmn.com/st-paul-selby-avenue/)**
+## **[Red Cow](http://redcowmn.com/st-paul-selby-avenue/)**
 
 *393 Selby Ave, St Paul, MN 55102*
 
@@ -1240,7 +1240,7 @@ I liked the size of their mug.
 
 ---
 
-**[The Lexington](http://thelexmn.com/)**
+## **[The Lexington](http://thelexmn.com/)**
 
 *1096 Grand Ave, St Paul, MN 55105*
 
@@ -1277,7 +1277,7 @@ The Lexington had the best coffee service ever.
 
 ---
 
-**[The Broiler](http://www.stclairbroiler.com/)**
+## **[The Broiler](http://www.stclairbroiler.com/)**
 
 *1580 St. Clair Avenue St. Paul, MN*
 
@@ -1366,7 +1366,7 @@ Hey coffee lovers.
  
 ---
 
-**[Grand Olde St. Mark's Festival](http://www.markerspride.com/index.php/home-festival)**
+## **[Grand Olde St. Mark's Festival](http://www.markerspride.com/index.php/home-festival)**
 
 *[Third weekend of May each year](https://goo.gl/maps/m7Hq8sX3LG32)*
 
@@ -1422,7 +1422,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 ---
 
-**[We Are Nuts](http://www.wearenutsmn.com/)**
+## **[We Are Nuts](http://www.wearenutsmn.com/)**
 
 *For coffee nuts like me!*
 
@@ -1442,7 +1442,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 
-**[Caribou Coffee Medium Roast Decaf](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=3d2ba29f79f1f8d0d483166594d7bb80)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
+## **[Caribou Coffee Medium Roast Decaf](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=3d2ba29f79f1f8d0d483166594d7bb80)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
 
 *A great decaf to enjoy at home*
 
@@ -1493,7 +1493,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 
-**[Caribou Coffee](https://www.cariboucoffee.com/) holiday treats**
+## **[Caribou Coffee](https://www.cariboucoffee.com/) holiday treats**
 
 [*various locations*](https://locations.cariboucoffee.com/)
 
@@ -1514,7 +1514,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 
-**[St. Clair Broiler](http://www.stclairbroiler.com/)**
+## **[St. Clair Broiler](http://www.stclairbroiler.com/)**
 
 *A heartfelt farewell to one of our absolute favorites*
 
