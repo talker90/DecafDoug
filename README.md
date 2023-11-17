@@ -1,4 +1,4 @@
-# Decaf Doug
+# Decaf Doug (TM)
 
 ## Overview
 Decaf Doug is a website dedicated to exploring and reviewing decaf coffee options. Our mission is to provide coffee enthusiasts with insightful reviews, ratings, and recommendations for the best decaf coffee experiences.

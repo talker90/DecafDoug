@@ -1985,6 +1985,30 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 *How to caffeinate your mornings, even on vacation*
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 1em; text-align: center;">
+    <!-- Row 1 -->
+    <div>
+        <img src="images/IMG_5233%20(2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 100%; height: auto; margin-bottom: 1.5em;">
+    </div>
+    <div>
+        <img src="images/IMG_5232%20(2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 100%; height: auto; margin-bottom: 1.5em;">
+    </div>
+    <!-- Row 2 -->
+    <div>
+        <img src="images/IMG_5236%20(2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 100%; height: auto; margin-bottom: 1.5em;">
+    </div>
+    <div>
+        <img src="images/IMG_5234%20(2).jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 100%; height: auto; margin-bottom: 1.5em;">
+    </div>
+    <!-- Row 3 -->
+    <div>
+        <img src="images/IMG_2701.JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 100%; height: auto; margin-bottom: 1.5em;">
+    </div>
+    <div>
+        <img src="images/IMG_2697%20(1).JPG" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 100%; height: auto; margin-bottom: 1.5em;">
+    </div>
+</div>
+
  This is Decaf Doug ™ out at the lake, up here at Lake Mille Lacs.
  In the morning I gotta have regular coffee, so we went to a few places for breakfast and had coffee.
  The first place we went was in Isle, the [Country Corner Cafe](https://www.facebook.com/pages/Country-Corner-Cafe-Isle-MN/164060930324927) (*485 W Main St, Isle, MN 56342*).
