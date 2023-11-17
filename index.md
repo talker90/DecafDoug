@@ -50,14 +50,20 @@ Twitter Card Type: summary_large_image
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -89,6 +95,7 @@ So we'd give it a number 4.
 
 **Flavor 
  ☕️
+ ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -96,9 +103,13 @@ So we'd give it a number 4.
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -132,6 +143,7 @@ So I got my decaf right away and it was hot.
 
 **Flavor 
  ☕️
+ ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -139,9 +151,12 @@ So I got my decaf right away and it was hot.
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
  ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> 
@@ -185,14 +200,19 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
  ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span>
@@ -236,6 +256,7 @@ As a sad update, Fabulous Fern's is now permanently closed.
 
 **Flavor 
  ☕️
+ ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -243,9 +264,13 @@ As a sad update, Fabulous Fern's is now permanently closed.
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -279,14 +304,19 @@ It was really hot.
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
  ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> 
@@ -324,9 +354,13 @@ It was really hot.
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -363,10 +397,14 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 **Flavor 
  ☕️
+ ☕️
  ☕️ 
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -406,15 +444,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 **Flavor 
  ☕️
+ ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -443,6 +486,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 **Flavor 
  ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -450,9 +494,13 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -485,14 +533,18 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 **Flavor 
  ☕️
  ☕️ 
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
  ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -525,14 +577,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -568,14 +626,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -606,9 +670,13 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -636,15 +704,21 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 **Flavor 
  ☕️
+ ☕️
  ☕️ 
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -681,6 +755,7 @@ It said
 
 **Flavor 
  ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -688,9 +763,13 @@ It said
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -719,14 +798,20 @@ It said
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -764,14 +849,20 @@ It said
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -808,6 +899,7 @@ It said
 
 **Flavor 
  ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -815,9 +907,13 @@ It said
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -865,15 +961,19 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️ 
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
@@ -911,11 +1011,14 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 **Flavor 
  ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -954,14 +1057,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -998,9 +1107,13 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1008,6 +1121,8 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Refill Frequency 
  ☕️
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
@@ -1038,9 +1153,13 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1086,9 +1205,13 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1096,10 +1219,14 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Refill Frequency 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Price 
- 💲💲💲** 
+ 💲
+ 💲
+ 💲** 
 
 <div style="text-align: center;">
     <img src="images/IMG_4926.jpg" alt="Photo showing a delicious cup of hot, decaf coffee" style="width: 40vw; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
@@ -1125,14 +1252,19 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️ 
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1163,14 +1295,19 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️ 
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1203,14 +1340,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1237,15 +1380,20 @@ I liked the size of their mug.
 **Flavor 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Temperature 
-☕️ 
+ ☕️
+ ☕️
  ☕️
  ☕️ 
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1271,18 +1419,22 @@ The Lexington had the best coffee service ever.
 
 *1580 St. Clair Avenue St. Paul, MN*
 
-**Flavor ☕️
+**Flavor 
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
  ☕️
  ☕️ 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
@@ -1315,17 +1467,23 @@ Hey coffee lovers.
 
 *A little too hot for a tuxedo, but never too hot for coffee*
 
-**Flavor ☕️
+**Flavor 
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1360,12 +1518,16 @@ Hey coffee lovers.
 
 *[Third weekend of May each year](https://goo.gl/maps/m7Hq8sX3LG32)*
 
-**Flavor ☕️
+**Flavor
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1452,16 +1614,22 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 *[Town & Country Club](http://www.tcc-club.com/)*
 
 **Flavor 
-☕️
+ ☕️
+ ☕️
+ ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1581,7 +1749,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 *The Decaf of Jesse James*
 
-**Flavor ☕️
+**Flavor
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1589,9 +1759,13 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1619,7 +1793,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 *[Not Justa Bar & Cafe](http://www.notjustacafeandbar.com/Somerset.html) review*
 
-**Flavor ☕️
+**Flavor
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1627,9 +1803,13 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 **Temperature 
  ☕️
  ☕️ 
- <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span> 
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1677,16 +1857,21 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 *[Nativity County Fair](https://school.nativity-mn.org/nativity-county-fair) review*
 
 **Flavor 
-☕️
+ ☕️
+ ☕️
+ ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
@@ -1724,7 +1909,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 *Grounds for Celebration*
 
 **Flavor 
-☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1732,9 +1918,13 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1762,17 +1952,22 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 *[Vannelli's by the Lake](http://www.vannellisbythelake.com/menu/0/menus.aspx) review*
 
-**Flavor ☕️
+**Flavor 
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️ 
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1801,7 +1996,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 *[Grand Buffet Mille Lacs](https://grandcasinomn.com/dining/) review*
 
-**Flavor ☕️
+**Flavor
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1809,9 +2006,13 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1843,12 +2044,16 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 *[Izatys Resort](http://izatys.com/) review*
 
-**Flavor ☕️
+**Flavor 
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
+ ☕️
+ ☕️
  ☕️
  ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
@@ -1856,6 +2061,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 **Refill Frequency 
  ☕️
  ☕️ 
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Price 
@@ -1882,16 +2088,22 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 *[The Wharf Resort & Toucan's Restaurant and Bar](https://wharfmn.com/) review*
 
 **Flavor 
-☕️
+ ☕️
+ ☕️
+ ☕️
  ☕️
  ☕️** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  ☕️** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
@@ -1940,17 +2152,23 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 *[Northwind Grille](http://www.northwindgrille.com/) review*
 
-**Flavor ☕️
+**Flavor
  ☕️ 
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span> 
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Temperature 
  ☕️
  ☕️
+ ☕️
+ ☕️
  <span style="color: black; opacity: 0.1;">☕️</span>** 
 
 **Refill Frequency 
+ ☕️
+ ☕️
  ☕️
  ☕️
  ☕️** 
