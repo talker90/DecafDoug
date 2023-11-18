@@ -39,6 +39,8 @@ Twitter Card Type: summary_large_image
     adjustBackground();
 </script>
 
+---
+
 <div style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
     <a href="about_us.html" style="color: black; text-decoration: none;"><em>About Us</em></a>
     <a href="https://www.decafdoug.com/#reviews" style="color: black; text-decoration: none;"><em>Reviews</em></a>
@@ -99,6 +101,20 @@ So we'd give it a number 4.
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
 
 [*501 W 78th St, Chanhassen, MN 55317*](https://goo.gl/maps/U81suzw484N2)
@@ -145,6 +161,20 @@ So I got my decaf right away and it was hot.
  So if you are a coffee drinker like I am, the Chanhassen is a great place to go for a show. 
  And they did a great job with the production of [Newsies](https://www.chanhassendt.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=newsies&BOparam::WScontent::loadArticle::context_id=).
  
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 ## **[Carbone's Pizza](http://carbonesonrandolph.com/)**
@@ -200,6 +230,20 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
  So we really like the pizza there. 
  And the decaf? 
  Well it was okay.
+
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -260,6 +304,20 @@ As a sad update, Fabulous Fern's is now permanently closed.
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Applebee's Neighborhood Grill + Bar](https://www.applebees.com/en)**
 
 [*1335 Town Centre Dr, Eagan, MN 55123, USA*](https://goo.gl/maps/WTNjSpWVqrS2)
@@ -304,6 +362,20 @@ It was really hot.
  So they didn't bring a pot and fill your mug, they'd just bring another mug of coffee out. 
  The price was $2.39, so we'll give that a 2. 
  It's always nice to have a fresh pot of hot, fresh decaf with your dinner.
+
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -357,6 +429,20 @@ It was really hot.
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Valley Natural Foods](https://www.valleynaturalfoods.com/)**
 
 [*13750 Co Rd 11, Burnsville, MN 55337*](https://goo.gl/maps/TH6Wrmx3NqS2)
@@ -398,6 +484,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  It is a place that promotes eating healthy and community. 
  They have a lot of things going on there about organic foods, eating healthy, classes, and things like that. 
  And there are no refills, so we can't give them a score for refills, but it was very good coffee.
+
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -448,6 +548,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Louisiana Cafe](http://newlouisianacafe.com/)**
 
 [*613 Selby Ave, St Paul, MN 55102*](https://goo.gl/maps/1vQkrKnLFwT2)
@@ -487,6 +601,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  They serve [Morningstar coffee](https://morningstarcoffee.com/), they have a nice sized mug which I like, and it was $2.75 so we'll have to give it a 2 for the price. 
  The temperature was hot, like a number 5, but the flavor was only average, like a 3. 
  But they did have a really good flavored creamer, [caramel macchiato](https://www.amazon.com/gp/product/B008R3MSNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008R3MSNE&linkCode=as2&tag=talker90-20&linkId=bc3808eb4a8bb0171f8fa89a7431a7f6)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B008R3MSNE)
+
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -536,6 +664,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Kafe 421](http://www.kafe421.com/)**
 
 [*421 14th Ave SE, Minneapolis, MN 55414*](https://goo.gl/maps/Uba9MznoMZC2)
@@ -578,6 +720,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  And 2 for the price because it was $2.50.
  So it was a nice place to go for a celebration but the coffee wasn't the best, but the refill service was fantastic.
  
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 ## **[Augustine's Bar & Bakery](http://augustinesmn.com/)**
@@ -629,6 +785,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Lucky's 13 Pub](http://www.luckys13pub.com/)**
 
 [*2033 Burnsville Center, Burnsville, MN 55306*](https://goo.gl/maps/MReEQDo17yQ2)
@@ -673,6 +843,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Peace Coffee](https://www.peacecoffee.com/)**
 
 [*3262 Minnehaha Ave, Minneapolis, MN 55406*](https://goo.gl/maps/jrLhDdy5Aqx)
@@ -706,6 +890,20 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  You'll have to check on the price when you go, I got mine for free.
  One suggestion for improvement, they didn't have the decaf server labelled so the barista had to help.
  
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 ## **[Lindey's Prime Steak House](http://www.theplaceforsteak.com/)**
@@ -759,6 +957,20 @@ It said
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 **Grandview Grill**
 
 *1818 Grand Ave, St Paul, MN 55105*
@@ -800,6 +1012,20 @@ It said
  They didn't give us a pot of coffee, but the waitress was already right there whenever you needed more coffee.
  
  ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
  
  ## **[Neighborhood Cafe](http://www.theneighborhoodcafemn.com/)**
 
@@ -852,6 +1078,20 @@ It said
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Salsa a la Salsa](https://www.salsaalasalsa.com/)**
 
 *1420 Nicollet Ave, Minneapolis, MN 55403*
@@ -901,6 +1141,20 @@ It said
  So that was a plus. 
  So it was good coffee, we had a nice lunch, and free parking so that was super.
  
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 ## **[Baker Square](http://www.bakerssquarerestaurants.com)**
@@ -964,6 +1218,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[SuperAmerica](http://superamerica.com/StoreHome/4428)**
 
 *232 Fairview Ave S, St Paul, MN 55105*
@@ -1015,6 +1283,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
  ## **[Holiday Stationstores](http://www.mallofamerica.com/shopping/directory/holiday-station-store)**
 
 *123 West Market, Bloomington, MN 55425*
@@ -1058,6 +1340,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  There were no refills, but I had a coupon for free 20 ounce cup, so that was a pretty good deal.
  It's a pretty good price I would think in general, I don't usually get Holiday coffee
  
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
  ## **[I Nonni](http://www.inonnirestaurant.com/)**
@@ -1110,6 +1406,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Heirloom St. Paul](http://www.heirloomstpaul.com/)**
 
 *2186 Marshall Ave, St Paul, MN 55104*
@@ -1154,6 +1464,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  He realized what he had done and I did get my decaf.
  So for refills I'd have to say it was about a 3 and for temperature I'd say about a 4.
  
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 ## **[Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
@@ -1208,6 +1532,19 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
 ## **[The Uptowner](http://uptownercafeongrand.com/)**
 
 *1100 Grand Ave, St Paul, MN 55105*
@@ -1255,6 +1592,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Snuffy's](http://www.snuffysmaltshops.com/)**
 
 *244 Cleveland Ave S, St Paul, MN 55105*
@@ -1296,6 +1647,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  I'd recommend it.
  And then if you go for food they usually have a coupon, but that may be another story.
  
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 ## **[IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)**
@@ -1343,6 +1708,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 ## **[Red Cow](http://redcowmn.com/st-paul-selby-avenue/)**
 
 *393 Selby Ave, St Paul, MN 55102*
@@ -1380,6 +1759,20 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 I liked the size of their mug. 
  It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
  They made a fresh pot for me and the flavor was pretty good.
+
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1422,6 +1815,20 @@ The Lexington had the best coffee service ever.
  They had a little coffee server with about 2 cups of coffee in it and the coffee was always fresh too.
  And it was good tasting coffee, with fresh cream in a little pitcher.
  Very nice.
+
+---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
