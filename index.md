@@ -16,7 +16,7 @@ Twitter Card Type: summary_large_image
 
 </head>
 
-<div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
+<div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover'; margin-bottom: 1.5em;">
 </div>
 
 <script>
