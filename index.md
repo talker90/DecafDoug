@@ -16,7 +16,7 @@ Twitter Card Type: summary_large_image
 
 </head>
 
-<div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover'; margin-bottom: 1.5em;">
+<div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover';">
 </div>
 
 <script>
@@ -39,7 +39,7 @@ Twitter Card Type: summary_large_image
     adjustBackground();
 </script>
 
-<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
     <a href="about_us.html" style="color: black; text-decoration: none;"><em>About Us</em></a>
     <a href="https://www.decafdoug.com/#reviews" style="color: black; text-decoration: none;"><em>Reviews</em></a>
     <a href="https://www.decafdoug.com/#lifestyle" style="color: black; text-decoration: none;"><em>Lifestyle</em></a>
