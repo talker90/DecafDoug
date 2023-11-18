@@ -39,9 +39,15 @@ Twitter Card Type: summary_large_image
     adjustBackground();
 </script>
 
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+    <a href="about_us.html" style="color: black; text-decoration: none;"><em>About Us</em></a>
+    <a href="https://www.decafdoug.com/#reviews" style="color: black; text-decoration: none;"><em>Reviews</em></a>
+    <a href="https://www.decafdoug.com/#lifestyle" style="color: black; text-decoration: none;"><em>Lifestyle</em></a>
+    <a href="contact_us.html" style="color: black; text-decoration: none;"><em>Contact Us</em></a>
+    <a href="privacy_policy.html" style="color: black; text-decoration: none;"><em>Privacy Policy</em></a>
+</div>
 
 <div style="text-align: center;">
-    <p><a href="AboutUs.html" style="color: black; text-decoration: none;"><em>About</em></a></p>
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30">
@@ -49,6 +55,9 @@ Twitter Card Type: summary_large_image
 
 ---
 
+# Reviews
+
+---
 
 ## **[Carmelo's](http://www.carmelos.com/Site/home.html)**
 
@@ -1464,13 +1473,14 @@ Hey coffee lovers.
  But their coffee is pretty good, it was hot, and freshly brewed.
 
 ---
+
 ---
 
 # Lifestyle
 
 ---
 
-**Decaf Doug's Wisconsin Wedding**
+## **Decaf Doug's Wisconsin Wedding**
 
 *A little too hot for a tuxedo, but never too hot for coffee*
 
@@ -1567,7 +1577,7 @@ Hey coffee lovers.
  
 ---
 
-**Decaf Doug "Sip of the Day" ™**
+## **Decaf Doug "Sip of the Day" ™**
 
 *Cover your coffee*
 
