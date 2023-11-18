@@ -9,6 +9,13 @@ Twitter Image: http://i.imgur.com/jejxCJZ.jpg
 Twitter Card Type: summary_large_image
 -->
 
+<head>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+
+</head>
+
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover;">
 </div>
 
