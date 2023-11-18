@@ -1881,8 +1881,6 @@ Hey coffee lovers.
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30">
 </div>
 
----
-
 # Lifestyle
 
 ---
@@ -2726,6 +2724,13 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  And tonight I'll try an all decaf pot of the new coffee to the Twin Cities.
 
  ---
+
+ <div align="center">
+
+[Back to Top](http://www.decafdoug.com)
+
+</div>
+
 
  <div style="text-align: center;">
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
