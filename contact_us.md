@@ -26,7 +26,7 @@
 We'd love to hear from you! Whether you have feedback, questions, or suggestions, please feel free to reach out.
 
 <div style="text-align: center;">
-    <iframe src="https://forms.gle/h1AptC5xSjMT9MBS8" style="width: 80vw; height: 60vh; max-width: 700px; border: 0; margin: auto;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://forms.gle/h1AptC5xSjMT9MBS8" style="width: 80vw; height: 100vh; max-width: 700px; border: 0; margin: auto;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
 

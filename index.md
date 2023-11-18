@@ -47,12 +47,6 @@ Twitter Card Type: summary_large_image
     <a href="privacy_policy.html" style="color: black; text-decoration: none;"><em>Privacy Policy</em></a>
 </div>
 
-<div style="text-align: center;">
-    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
-    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
-    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30">
-</div>
-
 ---
 
 # Reviews
@@ -1474,6 +1468,12 @@ Hey coffee lovers.
 
 ---
 
+<div style="text-align: center;">
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30">
+</div>
+
 ---
 
 # Lifestyle
@@ -2317,3 +2317,13 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  I had a "half-caff."
  So what I do sometimes is I'll put the decaf together with regular when I brew my coffee to get a half-caff.
  And tonight I'll try an all decaf pot of the new coffee to the Twin Cities.
+
+ ---
+
+ <div style="text-align: center;">
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
+    <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30">
+</div>
+
+
