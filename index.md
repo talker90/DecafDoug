@@ -16,12 +16,18 @@ Twitter Card Type: summary_large_image
 
 </head>
 
-<!-- Hamburger Menu Icon -->
-<div onclick="toggleMenu()" style="cursor: pointer; position: fixed; top: 20px; left: 20px; z-index: 100;">
+<!-- Hamburger Menu Icon for Mobile -->
+<div onclick="toggleMenu()" style="cursor: pointer; position: fixed; top: 20px; left: 20px; z-index: 100; display: none;">
+    <!-- Hamburger Icon Bars -->
     <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
     <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
     <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
 </div>
+
+<!-- Navigation Menu -->
+<nav id="nav-menu" style="display: none; position: fixed; top: 60px; left: 20px; z-index: 99; flex-direction: column; align-items: center; text-align: center;">
+    <!-- Navigation Links -->
+</nav>
 
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover';">
 </div>
@@ -48,8 +54,8 @@ Twitter Card Type: summary_large_image
 
 ---
 
-<!-- Navigation Menu -->
-<div id="nav-menu" style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
+<!-- Horizontal Menu for Desktop -->
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
     <a href="about_us.html" style="color: black; text-decoration: none;"><em>About Us</em></a>
     <a href="https://www.decafdoug.com/#reviews" style="color: black; text-decoration: none;"><em>Reviews</em></a>
     <a href="https://www.decafdoug.com/#lifestyle" style="color: black; text-decoration: none;"><em>Lifestyle</em></a>
@@ -60,15 +66,33 @@ Twitter Card Type: summary_large_image
 <script>
 function toggleMenu() {
     var menu = document.getElementById('nav-menu');
-    menu.style.display = menu.style.display === 'none' ? 'flex' : 'none';
+    menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
 }
 
-window.addEventListener('resize', function() {
+function adjustMenuDisplay() {
     var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-    if (width > 600) { // Adjust this value as necessary
-        document.getElementById('nav-menu').style.display = 'none';
+    var hamburger = document.querySelector('div[onclick]');
+    var navMenu = document.getElementById('nav-menu');
+    var desktopMenu = document.querySelector('main > div'); // Adjust this selector based on your actual desktop menu
+
+    if (width <= 600) {
+        // Mobile view
+        hamburger.style.display = 'block';
+        desktopMenu.style.display = 'none';
+        navMenu.style.flexDirection = 'column';
+    } else {
+        // Desktop view
+        hamburger.style.display = 'none';
+        desktopMenu.style.display = 'flex';
+        navMenu.style.display = 'none';
     }
-});
+}
+
+// Initial call
+adjustMenuDisplay();
+
+// Event listener for window resize
+window.addEventListener('resize', adjustMenuDisplay);
 </script>
 
 ---
