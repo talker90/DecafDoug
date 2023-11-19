@@ -32,7 +32,7 @@ Twitter Card Type: summary_large_image
     <a href="https://www.decafdoug.com/#lifestyle" style="color: black; text-decoration: none;"><em>Lifestyle</em></a>
     <a href="contact_us.html" style="color: black; text-decoration: none;"><em>Contact Us</em></a>
     <a href="privacy_policy.html" style="color: black; text-decoration: none;"><em>Privacy Policy</em></a>
-<nav>
+</nav>
 
 <!-- Banner with parallax effect on desktop -->
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover';">
