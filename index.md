@@ -26,7 +26,11 @@ Twitter Card Type: summary_large_image
 
 <!-- Navigation Menu -->
 <nav id="nav-menu" style="display: none; position: fixed; top: 60px; left: 20px; z-index: 99; flex-direction: column; align-items: center; text-align: center;">
-    <!-- Navigation Links -->
+    <a href="about_us.html" style="color: black; text-decoration: none;"><em>About Us</em></a>
+    <a href="https://www.decafdoug.com/#reviews" style="color: black; text-decoration: none;"><em>Reviews</em></a>
+    <a href="https://www.decafdoug.com/#lifestyle" style="color: black; text-decoration: none;"><em>Lifestyle</em></a>
+    <a href="contact_us.html" style="color: black; text-decoration: none;"><em>Contact Us</em></a>
+    <a href="privacy_policy.html" style="color: black; text-decoration: none;"><em>Privacy Policy</em></a>
 </nav>
 
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover';">
