@@ -23,6 +23,8 @@
     adjustBackground();
 </script>
 
-<div style="text-align: center; margin-bottom: 2em; margin-top: 2em;">
-    <iframe src="https://forms.gle/h1AptC5xSjMT9MBS8" style="width: 90%; height: 315px; border: 0; margin: auto;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div style="height: 100vh">
+    <div style="text-align: center; margin-bottom: 2em; margin-top: 2em;">
+        <iframe src="https://forms.gle/h1AptC5xSjMT9MBS8" style="width: 90%; border: 0; margin: auto;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </div>
 </div>
