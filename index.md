@@ -25,7 +25,7 @@ Twitter Card Type: summary_large_image
 </div>
 
 <!-- Navigation Menu -->
-<nav id="nav-menu" style="display: none; position: fixed; top: 60px; left: 20px; z-index: 99; flex-direction: column; align-items: flex-start; text-align: left; background: white; padding: 10px; border-radius: 5px;">
+<nav id="nav-menu" style="display: none; position: fixed; top: 60px; left: 20px; z-index: 99; background: white; padding: 10px; border-radius: 5px; width: 200px;">
     <a href="about_us.html" style="color: black; text-decoration: none;"><em>About Us</em></a>
     <a href="https://www.decafdoug.com/#reviews" style="color: black; text-decoration: none;"><em>Reviews</em></a>
     <a href="https://www.decafdoug.com/#lifestyle" style="color: black; text-decoration: none;"><em>Lifestyle</em></a>
@@ -36,7 +36,25 @@ Twitter Card Type: summary_large_image
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover';">
 </div>
 
----
+<script>
+    function adjustBackground() {
+        var backgroundDiv = document.getElementById('backgroundDiv');
+        var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+        if (width <= 600) { // Mobile devices
+            backgroundDiv.style.backgroundImage = "url('images/banner_portrait.svg')";
+            backgroundDiv.style.backgroundAttachment = 'scroll';
+            backgroundDiv.style.backgroundSize = 'contain'; // Use contain for mobile
+        } else {
+            backgroundDiv.style.backgroundImage = "url('images/dalle_banner.svg')";
+            backgroundDiv.style.backgroundAttachment = 'fixed';
+            backgroundDiv.style.backgroundSize = 'cover'; // Use cover for desktop
+        }
+    }
+
+    window.addEventListener('resize', adjustBackground);
+    adjustBackground();
+</script>
 
 <!-- Horizontal Menu for Desktop -->
 <div id="desktop-nav" style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
