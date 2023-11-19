@@ -1,3 +1,3 @@
 # To remove the name of the repo being automatically generated as an h1 at the top of the page, which is the default for the Github pages default Jekyll theme Primer
-#name: true
-#title: false
+name: true
+title: false
