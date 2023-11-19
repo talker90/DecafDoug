@@ -16,6 +16,13 @@ Twitter Card Type: summary_large_image
 
 </head>
 
+<!-- Hamburger Menu Icon -->
+<div onclick="document.getElementById('nav-menu').style.display = document.getElementById('nav-menu').style.display === 'none' ? 'flex' : 'none'" style="cursor: pointer; display: none; position: fixed; top: 20px; left: 20px; z-index: 100;">
+    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
+    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
+    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
+</div>
+
 <div id="backgroundDiv" style="text-align: center; background-image: url('images/dalle_banner.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover';">
 </div>
 
@@ -40,13 +47,6 @@ Twitter Card Type: summary_large_image
 </script>
 
 ---
-
-<!-- Hamburger Menu Icon -->
-<div onclick="document.getElementById('nav-menu').style.display = document.getElementById('nav-menu').style.display === 'none' ? 'flex' : 'none'" style="cursor: pointer; display: none;">
-    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
-    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
-    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
-</div>
 
 <!-- Navigation Menu -->
 <div id="nav-menu" style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
