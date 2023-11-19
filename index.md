@@ -15,6 +15,10 @@ Twitter Card Type: summary_large_image
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
      crossorigin="anonymous"></script>
 
+<!-- Preload banner images -->
+<link rel="preload" href="images/dalle_banner.svg" as="image">
+<link rel="preload" href="images/banner_portrait.svg" as="image">
+
 </head>
 
 <!-- Hamburger Menu Icon for Mobile -->
