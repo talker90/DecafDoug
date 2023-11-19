@@ -17,7 +17,7 @@ Twitter Card Type: summary_large_image
 </head>
 
 <!-- Hamburger Menu Icon -->
-<div onclick="document.getElementById('nav-menu').style.display = document.getElementById('nav-menu').style.display === 'none' ? 'flex' : 'none'" style="cursor: pointer; display: none; position: fixed; top: 20px; left: 20px; z-index: 100;">
+<div onclick="toggleMenu()" style="cursor: pointer; position: fixed; top: 20px; left: 20px; z-index: 100;">
     <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
     <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
     <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
@@ -58,24 +58,17 @@ Twitter Card Type: summary_large_image
 </div>
 
 <script>
-    function adjustMenu() {
-        var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-        var hamburger = document.querySelector('div[onclick]');
-        var navMenu = document.getElementById('nav-menu');
+function toggleMenu() {
+    var menu = document.getElementById('nav-menu');
+    menu.style.display = menu.style.display === 'none' ? 'flex' : 'none';
+}
 
-        if (width <= 600) {
-            hamburger.style.display = 'block';
-            navMenu.style.display = 'none';
-            navMenu.style.flexDirection = 'column';
-        } else {
-            hamburger.style.display = 'none';
-            navMenu.style.display = 'flex';
-            navMenu.style.flexDirection = 'row';
-        }
+window.addEventListener('resize', function() {
+    var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    if (width > 600) { // Adjust this value as necessary
+        document.getElementById('nav-menu').style.display = 'none';
     }
-
-    window.addEventListener('resize', adjustMenu);
-    adjustMenu();
+});
 </script>
 
 ---
