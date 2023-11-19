@@ -1,4 +1,4 @@
-<div id="backgroundDiv" style="text-align: center; background-image: url('images/contact.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover';">
+<div id="backgroundDiv" style="text-align: center; background-image: url('images/contact.svg'); height: 85vh; background-attachment: fixed; background-position: center center; background-repeat: no-repeat; background-size: cover'; margin-bottom: 2em;">
 </div>
 
 <script>
@@ -7,11 +7,11 @@
         var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 
         if (width <= 600) { // Mobile devices
-            backgroundDiv.style.backgroundImage = "url('images/contact.svg')";
+            backgroundDiv.style.backgroundImage = "url('images/contact_cropped.svg')";
             backgroundDiv.style.backgroundAttachment = 'scroll';
             backgroundDiv.style.backgroundSize = 'contain'; // Use contain for mobile
         } else {
-            backgroundDiv.style.backgroundImage = "url('images/contact_cropped.svg')";
+            backgroundDiv.style.backgroundImage = "url('images/contact.svg')";
             backgroundDiv.style.backgroundAttachment = 'fixed';
             backgroundDiv.style.backgroundSize = 'cover'; // Use cover for desktop
         }
