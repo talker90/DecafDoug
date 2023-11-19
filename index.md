@@ -41,7 +41,15 @@ Twitter Card Type: summary_large_image
 
 ---
 
-<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
+<!-- Hamburger Menu Icon -->
+<div onclick="document.getElementById('nav-menu').style.display = document.getElementById('nav-menu').style.display === 'none' ? 'flex' : 'none'" style="cursor: pointer; display: none;">
+    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
+    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
+    <div style="width: 30px; height: 3px; background-color: black; margin: 6px 0;"></div>
+</div>
+
+<!-- Navigation Menu -->
+<div id="nav-menu" style="display: flex; justify-content: space-around; align-items: center; text-align: center; margin-top: 1.5em;">
     <a href="about_us.html" style="color: black; text-decoration: none;"><em>About Us</em></a>
     <a href="https://www.decafdoug.com/#reviews" style="color: black; text-decoration: none;"><em>Reviews</em></a>
     <a href="https://www.decafdoug.com/#lifestyle" style="color: black; text-decoration: none;"><em>Lifestyle</em></a>
@@ -49,11 +57,31 @@ Twitter Card Type: summary_large_image
     <a href="privacy_policy.html" style="color: black; text-decoration: none;"><em>Privacy Policy</em></a>
 </div>
 
+<script>
+    function adjustMenu() {
+        var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+        var hamburger = document.querySelector('div[onclick]');
+        var navMenu = document.getElementById('nav-menu');
+
+        if (width <= 600) {
+            hamburger.style.display = 'block';
+            navMenu.style.display = 'none';
+            navMenu.style.flexDirection = 'column';
+        } else {
+            hamburger.style.display = 'none';
+            navMenu.style.display = 'flex';
+            navMenu.style.flexDirection = 'row';
+        }
+    }
+
+    window.addEventListener('resize', adjustMenu);
+    adjustMenu();
+</script>
+
 ---
 
 # Reviews
 
----
 
 ## **[Carmelo's](http://www.carmelos.com/Site/home.html)**
 
@@ -1883,7 +1911,6 @@ Hey coffee lovers.
 
 # Lifestyle
 
----
 
 ## **Decaf Doug's Wisconsin Wedding**
 
@@ -2725,17 +2752,14 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
  ---
 
- <div align="center">
-
-[Back to Top](http://www.decafdoug.com)
-
-</div>
-
-
  <div style="text-align: center;">
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30">
+</div>
+
+<div style="text-align: center;">
+    <a href="www.decafdoug.com" style="color: black; text-decoration: none;"><em>Back to Top</em></a>
 </div>
 
 
