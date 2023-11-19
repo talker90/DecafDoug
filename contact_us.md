@@ -23,11 +23,9 @@
     adjustBackground();
 </script>
 
-We'd love to hear from you! Whether you have feedback, questions, or suggestions, please feel free to reach out.
-
 <div style="text-align: center; margin-bottom: 2em; margin-top: 2em;">
     <iframe src="https://forms.gle/h1AptC5xSjMT9MBS8" sstyle="width: 90vw; height: 1000px; max-height: 100vh; border: 0; margin: auto;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
-Thank you for taking the time to reach out to us. Your input is greatly appreciated!
+
 
