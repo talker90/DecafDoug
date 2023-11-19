@@ -24,7 +24,7 @@
 </script>
 
 <div style="text-align: center; margin-bottom: 2em; margin-top: 2em;">
-    <iframe src="https://forms.gle/h1AptC5xSjMT9MBS8" sstyle="width: 560px; max-width: 90vw; height: 315px; max-height: 100vh; border: 0; margin: auto;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://forms.gle/h1AptC5xSjMT9MBS8" style="width: 90vw; max-width: 90vw; height: 80vh; max-height: 100vh; border: 0; margin: auto;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 
 
