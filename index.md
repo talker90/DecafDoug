@@ -15,6 +15,10 @@ Twitter Card Type: summary_large_image
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
      crossorigin="anonymous"></script>
 
+<!-- Preload banner images -->
+<link rel="preload" href="images/dalle_banner.svg" as="image">
+<link rel="preload" href="images/banner_portrait.svg" as="image">
+
 </head>
 
 <!-- Hamburger Menu Icon for Mobile -->
@@ -43,15 +47,23 @@ Twitter Card Type: summary_large_image
     function adjustBackground() {
         var backgroundDiv = document.getElementById('backgroundDiv');
         var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+        var height = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
 
         if (width <= 600) { // Mobile devices
             backgroundDiv.style.backgroundImage = "url('images/banner_portrait.svg')";
             backgroundDiv.style.backgroundAttachment = 'scroll';
-            backgroundDiv.style.backgroundSize = 'contain'; // Use contain for mobile
+            if(width > height) {
+                // Landscape orientation
+                backgroundDiv.style.backgroundSize = 'cover';
+            } else {
+                // Portrait orientation
+                backgroundDiv.style.backgroundSize = 'contain';
+            }
         } else {
+            // Desktop
             backgroundDiv.style.backgroundImage = "url('images/dalle_banner.svg')";
             backgroundDiv.style.backgroundAttachment = 'fixed';
-            backgroundDiv.style.backgroundSize = 'cover'; // Use cover for desktop
+            backgroundDiv.style.backgroundSize = 'cover';
         }
     }
 
