@@ -112,6 +112,23 @@ adjustMenuDisplay();
 window.addEventListener('resize', adjustMenuDisplay);
 </script>
 
+<!-- 
+Manual ad if I want it:
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ 
+-->
+
 ---
 
 # Reviews
@@ -163,18 +180,6 @@ So we'd give it a number 4.
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ---
 
 ## **[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
@@ -224,18 +229,6 @@ So I got my decaf right away and it was hot.
  And they did a great job with the production of [Newsies](https://www.chanhassendt.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=newsies&BOparam::WScontent::loadArticle::context_id=).
  
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ---
 
@@ -294,18 +287,6 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
  Well it was okay.
 
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ---
 
@@ -366,18 +347,6 @@ As a sad update, Fabulous Fern's is now permanently closed.
  
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ---
 
 ## **[Applebee's Neighborhood Grill + Bar](https://www.applebees.com/en)**
@@ -426,18 +395,6 @@ It was really hot.
  It's always nice to have a fresh pot of hot, fresh decaf with your dinner.
 
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ---
 
@@ -491,18 +448,6 @@ It was really hot.
  
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ---
 
 ## **[Valley Natural Foods](https://www.valleynaturalfoods.com/)**
@@ -548,18 +493,6 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  And there are no refills, so we can't give them a score for refills, but it was very good coffee.
 
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ---
 
@@ -608,21 +541,9 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  And for refills, they didn't have any refills but they had their regular coffee out, a light roast and a dark roast in an airpot (SP?), so I had refills of *regular* coffee. 
  So on refills for the decaf we'd have to just give them a number 1.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Louisiana Cafe](http://newlouisianacafe.com/)**
 
@@ -664,21 +585,9 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  The temperature was hot, like a number 5, but the flavor was only average, like a 3. 
  But they did have a really good flavored creamer, [caramel macchiato](https://www.amazon.com/gp/product/B008R3MSNE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008R3MSNE&linkCode=as2&tag=talker90-20&linkId=bc3808eb4a8bb0171f8fa89a7431a7f6)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B008R3MSNE)
 
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Highland Cafe & Bakery](http://www.highlandcafeandbakery.com/)**
 
@@ -724,21 +633,9 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  They bake it right there and they have all kinds of pies, cakes, caramel rolls, and cinnamon rolls. 
  So, it's a good place to go but make sure when you order the decaf, somebody else orders the regular coffee so that you get a really good cup of coffee.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Kafe 421](http://www.kafe421.com/)**
 
@@ -782,21 +679,9 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  And 2 for the price because it was $2.50.
  So it was a nice place to go for a celebration but the coffee wasn't the best, but the refill service was fantastic.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Augustine's Bar & Bakery](http://augustinesmn.com/)**
 
@@ -845,21 +730,9 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  So I'd have to give them a 5 for refils because they are going above and beyond the call of duty to make sure that I had a refil on my coffee.
  As for price, it is a number 3 because it's $3 coffee.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Lucky's 13 Pub](http://www.luckys13pub.com/)**
 
@@ -903,21 +776,9 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  They had some really neat breakfast specials.
  And of course, it's always good to get together and talk about the good old days over a cup of coffee and breakfast or lunch.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Peace Coffee](https://www.peacecoffee.com/)**
 
@@ -952,21 +813,9 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  You'll have to check on the price when you go, I got mine for free.
  One suggestion for improvement, they didn't have the decaf server labelled so the barista had to help.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Lindey's Prime Steak House](http://www.theplaceforsteak.com/)**
 
@@ -1017,21 +866,9 @@ It said
  So that's a pretty good way to celebrate your birthday:
  a steak dinner and a pot of decaf coffee.
 
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 **Grandview Grill**
 
@@ -1073,19 +910,7 @@ It said
  And the refill service was *excellent*, so I'd have to give that a number 5.
  They didn't give us a pot of coffee, but the waitress was already right there whenever you needed more coffee.
  
- ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+---
 
 ---
  
@@ -1138,21 +963,9 @@ It said
  I have a [Neighborhood Cafe](http://www.theneighborhoodcafemn.com/) update: 
  I found out they use [Dunn Brother's Coffee](https://www.amazon.com/gp/product/B00R1V54NY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1V54NY&linkCode=as2&tag=talker90-20&linkId=52f08c8f992af54cba19d2228d53291e)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00R1V54NY) which is roasted like 3 blocks away from the restaurant, so that's why their coffee is so good!
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Salsa a la Salsa](https://www.salsaalasalsa.com/)**
 
@@ -1204,18 +1017,6 @@ It said
  So it was good coffee, we had a nice lunch, and free parking so that was super.
  
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ---
 
@@ -1278,21 +1079,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  We usually go to Highland, but I guess they have a few around.
  Okay! Bye.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[SuperAmerica](http://superamerica.com/StoreHome/4428)**
 
@@ -1343,21 +1132,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
  Happy Coffee Day!
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
  ## **[Holiday Stationstores](http://www.mallofamerica.com/shopping/directory/holiday-station-store)**
 
@@ -1402,21 +1179,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  There were no refills, but I had a coupon for free 20 ounce cup, so that was a pretty good deal.
  It's a pretty good price I would think in general, I don't usually get Holiday coffee
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
  ## **[I Nonni](http://www.inonnirestaurant.com/)**
 
@@ -1466,21 +1231,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  so we got a good deal on the food.
  But, of course, the decaf was the most important thing and *that* was excellent.
 
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Heirloom St. Paul](http://www.heirloomstpaul.com/)**
 
@@ -1526,21 +1279,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  He realized what he had done and I did get my decaf.
  So for refills I'd have to say it was about a 3 and for temperature I'd say about a 4.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
 
@@ -1592,21 +1333,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  So it kind of depends on what you want
  This is Decaf Doug ™ signing off.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 ## **[The Uptowner](http://uptownercafeongrand.com/)**
 
 *1100 Grand Ave, St Paul, MN 55105*
@@ -1652,21 +1381,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  Also, as a side note, they have free parking in the back before 3 o'clock which is always a good thing on Grand Avenue.
  This is Decaf Doug ™, signing out.
 
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Snuffy's](http://www.snuffysmaltshops.com/)**
 
@@ -1709,21 +1426,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  I'd recommend it.
  And then if you go for food they usually have a coupon, but that may be another story.
  
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)**
 
@@ -1768,21 +1473,9 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  they even gave me a to-go cup for my coffee, so they are super about getting you all the coffee that you could possibly drink.
  And that's important for Decaf Doug ™, to be able to have a sip of coffee all of the time.
 
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[Red Cow](http://redcowmn.com/st-paul-selby-avenue/)**
 
@@ -1822,21 +1515,9 @@ I liked the size of their mug.
  It was a great size, probably a 16 ounce mug, and the coffee was fresh. 
  They made a fresh pot for me and the flavor was pretty good.
 
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[The Lexington](http://thelexmn.com/)**
 
@@ -1878,21 +1559,9 @@ The Lexington had the best coffee service ever.
  And it was good tasting coffee, with fresh cream in a little pitcher.
  Very nice.
 
----
+ ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-9283020036917902"
-     data-ad-slot="5767091755"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
----
+ ---
 
 ## **[The Broiler](http://www.stclairbroiler.com/)**
 
@@ -1935,7 +1604,9 @@ Hey coffee lovers.
  And they had a lot of servers so I don't know what the deal was. 
  But their coffee is pretty good, it was hot, and freshly brewed.
 
----
+ ---
+
+ ---
 
 <div style="text-align: center;">
     <img src="images/if_barista-icons_coffee-bean_889379.svg" width="30"> 
@@ -1995,7 +1666,9 @@ Hey coffee lovers.
  All in all it was a great wedding. 
  Best wishes and congratulations to the lovely bride and the groovy groom.
  
----
+ ---
+
+ ---
 
 ## **[Grand Olde St. Mark's Festival](http://www.markerspride.com/index.php/home-festival)**
 
@@ -2041,7 +1714,9 @@ Hey coffee lovers.
  They have a lot of different foods there. 
  It was a fun time at the [St. Mark's festival](http://www.markerspride.com/index.php/home-festival).
  
----
+ ---
+
+ ---
 
 ## **Decaf Doug "Sip of the Day" ™**
 
@@ -2055,7 +1730,9 @@ Now that the snow's off the roads, we are finding all these potholes and running
 
 It's bad enough you could damage your car, but for sure you don't want to spill your cup of coffee.
 
----
+ ---
+
+ ---
 
 ## **[We Are Nuts](http://www.wearenutsmn.com/)**
 
@@ -2075,7 +1752,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  We got the regular coffee to try it and decided it would be better to make it half-and-half with decaf. Because it really doesn't have the flavor. 
  So I think they'll have to keep practicing with their coffee roasting. 
  
----
+ ---
+
+ ---
 
 ## **[Caribou Coffee Medium Roast Decaf](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=3d2ba29f79f1f8d0d483166594d7bb80)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
 
@@ -2090,7 +1769,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  And it makes a great cup of coffee.
  It has a lot of flavor, so i'm using it for half-caff too with a regular coffee that isn't so flavorful.
  
----
+ ---
+
+ ---
 
 **Decaf Doug™ at the [country club](http://www.tcc-club.com/)**
 
@@ -2132,7 +1813,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  And the coffee came with dinner so we don't have to put a price on it.
  Also, the room was decorated for the holidays, which reminds me to send my seasons greetings to everyone!
  
----
+ ---
+
+ ---
 
 ## **[Caribou Coffee](https://www.cariboucoffee.com/) holiday treats**
 
@@ -2153,7 +1836,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  It's a dessert coffee.
  The medium size is $3.69 and there's no refills so it wouldn't be my everyday choice but it would be good for holiday dessert.
  
----
+ ---
+
+ ---
 
 ## **[St. Clair Broiler](http://www.stclairbroiler.com/)**
 
@@ -2170,7 +1855,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
  Okay, bye bye Broiler :'(
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™: JUST BREW IT.**
 
@@ -2197,7 +1884,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  You can even use a little less coffee and still get a great flavor.
  So it may get you a little farther if you measure it out every time.
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™: JUST BREW IT.**
 
@@ -2226,7 +1915,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  coffee for your morning coffee, especially if you don't have a grinder so you can't grind beans.
  It has a great flavor for a ground coffee.
  
----
+ ---
+
+ ---
 
 **Decaf Doug™ and the [Defeat of Jesse James Days](http://www.djjd.org/)**
 
@@ -2270,7 +1961,9 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  So I guess we could give them a 3 or 4 or the refills. 
  The price was low because the coffee came with breakfast, which wasn't that much. Especially with an all you can eat deal! Okay, bye!
  
----
+ ---
+
+ ---
 
 **Decaf Doug™ visits Wisconsin**
 
@@ -2315,7 +2008,9 @@ In Wisconsin we went to the [Not Justa Cafe](http://www.notjustacafeandbar.com/S
 
 So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular coffee and it was a nice day to visit with family over in Wisconsin.
 
----
+ ---
+
+ ---
 
 **Happy Coffee Day from Decaf Doug ™!**
 
@@ -2333,7 +2028,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  So be sure to [check around in your area](https://business.gasbuddy.com/blog-national-coffee-day-deals/) where you can get a free coffee for Friday the 29th of September, National Coffee Day.
  This is a go-ahead for free coffee from Decaf Doug ™.
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Goes to the Fair**
 
@@ -2385,7 +2082,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
  There was beautiful weather and it was great to get out and support the [Nativity School](https://school.nativity-mn.org/)
 
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Goes to a Wedding**
 
@@ -2429,7 +2128,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
  Congratulations Aimee and Matt! May you have a long, wonderful life together with plenty of decaf ☕️
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Up North**
 
@@ -2473,7 +2174,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  But the amount was good, because they made me an extra pot.
  So I had plenty of coffee
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Up North**
 
@@ -2521,7 +2224,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  And the frequency of refills was excellent. 
  Plus, we were right across the road from Mille Lacs Lake.
 
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Up North**
 
@@ -2564,7 +2269,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  The price was on the low end so it was a bargain.
  And we got a view of the pool from the restaurant.
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Up North**
 
@@ -2612,7 +2319,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  They had a nice mug too, I liked those mugs.
  And they even had their name on them.
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Up North: JUST BREW IT.**
 
@@ -2629,8 +2338,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  The price, you know, was a coffee shop price, over $10 per pound.
  But it was really good coffee.
  
----
+ ---
 
+ ---
 **Decaf Doug ™ Up North**
 
 *[Northwind Grille](http://www.northwindgrille.com/) review*
@@ -2680,7 +2390,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  I didn't have coffee there, but we did buy some beans there though.
  So maybe I'll review the beans in the next post ;)
  
----
+ ---
+
+ ---
 
 **Decaf Doug ™ Up North**
 
@@ -2746,7 +2458,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  It was a higher price because it was the espresso that they made.
  We got regular coffee for the drive but I noticed some interesting decaf packs.
  
----
+ ---
+
+ ---
 
 **Decaf Doug "Sip of the Day" ™**
 
@@ -2762,8 +2476,9 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
  So that's my tip of the day.
  
----
+ ---
 
+ ---
 **Decaf Doug ™: JUST BREW IT.**
 
 *[Tim Horton's](https://www.amazon.com/gp/product/B003YVTJKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003YVTJKO&linkCode=as2&tag=talker90-20&linkId=8d5af9d056e37dda53eac7cba00abd01)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B003YVTJKO)
@@ -2783,6 +2498,8 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  I had a "half-caff."
  So what I do sometimes is I'll put the decaf together with regular when I brew my coffee to get a half-caff.
  And tonight I'll try an all decaf pot of the new coffee to the Twin Cities.
+
+ ---
 
  ---
 
