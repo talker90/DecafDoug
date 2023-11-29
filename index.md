@@ -163,9 +163,7 @@ So we'd give it a number 4.
 
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
@@ -216,9 +214,7 @@ So I got my decaf right away and it was hot.
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Carbone's Pizza](http://carbonesonrandolph.com/)**
@@ -277,9 +273,17 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[Fabulous Fern's](http://www.fabulousferns.com/)**
@@ -339,9 +343,7 @@ As a sad update, Fabulous Fern's is now permanently closed.
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Applebee's Neighborhood Grill + Bar](https://www.applebees.com/en)**
@@ -391,9 +393,7 @@ It was really hot.
 
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Cherokee Tavern](http://cherokeetavern.com/)**
@@ -446,9 +446,17 @@ It was really hot.
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[Valley Natural Foods](https://www.valleynaturalfoods.com/)**
@@ -495,9 +503,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Agra Culture Kitchen & Press](http://agra-culture.com/)**
@@ -547,9 +553,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Louisiana Cafe](http://newlouisianacafe.com/)**
@@ -594,9 +598,17 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[Highland Cafe & Bakery](http://www.highlandcafeandbakery.com/)**
@@ -645,9 +657,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Kafe 421](http://www.kafe421.com/)**
@@ -694,9 +704,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Augustine's Bar & Bakery](http://augustinesmn.com/)**
@@ -748,9 +756,17 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[Lucky's 13 Pub](http://www.luckys13pub.com/)**
@@ -797,9 +813,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Peace Coffee](https://www.peacecoffee.com/)**
@@ -837,9 +851,7 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Lindey's Prime Steak House](http://www.theplaceforsteak.com/)**
@@ -893,9 +905,17 @@ It said
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 **Grandview Grill**
@@ -940,9 +960,7 @@ It said
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
  
  ## **[Neighborhood Cafe](http://www.theneighborhoodcafemn.com/)**
@@ -996,9 +1014,7 @@ It said
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Salsa a la Salsa](https://www.salsaalasalsa.com/)**
@@ -1052,9 +1068,17 @@ It said
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[Baker Square](http://www.bakerssquarerestaurants.com)**
@@ -1118,9 +1142,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[SuperAmerica](http://superamerica.com/StoreHome/4428)**
@@ -1174,9 +1196,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
  ## **[Holiday Stationstores](http://www.mallofamerica.com/shopping/directory/holiday-station-store)**
@@ -1224,9 +1244,17 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
  ## **[I Nonni](http://www.inonnirestaurant.com/)**
@@ -1279,9 +1307,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Heirloom St. Paul](http://www.heirloomstpaul.com/)**
@@ -1330,9 +1356,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Caribou Coffee](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=1327e7585386e7e5ce2c3811aee8abf2)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
@@ -1387,9 +1411,17 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 ## **[The Uptowner](http://uptownercafeongrand.com/)**
 
@@ -1438,9 +1470,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Snuffy's](http://www.snuffysmaltshops.com/)**
@@ -1486,9 +1516,7 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[IHOP](https://www.amazon.com/gp/product/B00MV9OWLQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MV9OWLQ&linkCode=as2&tag=talker90-20&linkId=edb42216cdacb6685618151b290102d7)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B00MV9OWLQ)**
@@ -1536,9 +1564,17 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[Red Cow](http://redcowmn.com/st-paul-selby-avenue/)**
@@ -1581,9 +1617,7 @@ I liked the size of their mug.
 
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[The Lexington](http://thelexmn.com/)**
@@ -1628,9 +1662,7 @@ The Lexington had the best coffee service ever.
 
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[The Broiler](http://www.stclairbroiler.com/)**
@@ -1676,9 +1708,17 @@ Hey coffee lovers.
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 <div style="text-align: center;">
@@ -1741,9 +1781,7 @@ Hey coffee lovers.
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Grand Olde St. Mark's Festival](http://www.markerspride.com/index.php/home-festival)**
@@ -1792,9 +1830,7 @@ Hey coffee lovers.
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **Decaf Doug "Sip of the Day" ™**
@@ -1811,9 +1847,17 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[We Are Nuts](http://www.wearenutsmn.com/)**
@@ -1836,9 +1880,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[Caribou Coffee Medium Roast Decaf](https://www.amazon.com/gp/product/B01DZIIHTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DZIIHTE&linkCode=as2&tag=talker90-20&linkId=3d2ba29f79f1f8d0d483166594d7bb80)![](//ir-na.amazon-adsystem.com/e/ir?t=talker90-20&l=am2&o=1&a=B01DZIIHTE)**
@@ -1856,9 +1898,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug™ at the [country club](http://www.tcc-club.com/)**
@@ -1903,9 +1943,17 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ## **[Caribou Coffee](https://www.cariboucoffee.com/) holiday treats**
@@ -1929,9 +1977,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 ## **[St. Clair Broiler](http://www.stclairbroiler.com/)**
@@ -1951,9 +1997,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug ™: JUST BREW IT.**
@@ -1983,9 +2027,17 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 **Decaf Doug ™: JUST BREW IT.**
@@ -2017,9 +2069,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug™ and the [Defeat of Jesse James Days](http://www.djjd.org/)**
@@ -2066,9 +2116,7 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug™ visits Wisconsin**
@@ -2116,9 +2164,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 **Happy Coffee Day from Decaf Doug ™!**
@@ -2139,9 +2195,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug ™ Goes to the Fair**
@@ -2196,9 +2250,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug ™ Goes to a Wedding**
@@ -2245,9 +2297,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 **Decaf Doug ™ Up North**
@@ -2294,9 +2354,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug ™ Up North**
@@ -2347,9 +2405,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug ™ Up North**
@@ -2395,9 +2451,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 **Decaf Doug ™ Up North**
@@ -2448,9 +2512,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug ™ Up North: JUST BREW IT.**
@@ -2470,9 +2532,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 **Decaf Doug ™ Up North**
 
@@ -2525,9 +2585,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 **Decaf Doug ™ Up North**
@@ -2596,9 +2664,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 3 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 
 **Decaf Doug "Sip of the Day" ™**
@@ -2617,9 +2683,7 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 2 -->
-<section class="dynamic-ads">
  
-</section>
 ---
 **Decaf Doug ™: JUST BREW IT.**
 
@@ -2643,9 +2707,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 ---
 <!-- Section 1 -->
-<section class="dynamic-ads">
- 
-</section>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 <footer></footer>
