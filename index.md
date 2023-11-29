@@ -162,9 +162,8 @@ So we'd give it a number 4.
  The link to Carmelo's, is [carmelos.com](http://www.carmelos.com/Site/home.html) but link for another great coffee blog is [kindadifferent.net](https://kindadifferent.net/wp/).
 
 ---
-<!-- Reviews 3 -->
-
-
+<section class="dynamic-ads">
+</section>
 ---
 
 ## **[Chanhassen Dinner Theatres](https://www.chanhassendt.com/)**
