@@ -273,6 +273,17 @@ They have really good pizza there at [Carbone's](http://carbonesonrandolph.com/c
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -436,6 +447,17 @@ It was really hot.
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -578,6 +600,17 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -726,6 +759,17 @@ It was a nice spot in the front of the store with tables, chairs, and a lot of n
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -865,6 +909,17 @@ It said
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1018,6 +1073,17 @@ It said
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1184,6 +1250,17 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1341,6 +1418,17 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 ## **[The Uptowner](http://uptownercafeongrand.com/)**
@@ -1484,6 +1572,17 @@ Update: I found a new favorite pie to go with my coffee, chocolate hazelnut silk
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1618,6 +1717,17 @@ Hey coffee lovers.
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1747,6 +1857,17 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1833,6 +1954,17 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -1907,6 +2039,17 @@ It's bad enough you could damage your car, but for sure you don't want to spill 
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -2034,6 +2177,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -2157,6 +2311,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -2301,6 +2466,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -2425,6 +2601,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
  
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
@@ -2537,6 +2724,17 @@ So the decaf wasn't the best, but it wasn't too bad when I mixed it with regular
 
 ---
 <!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
