@@ -1739,6 +1739,45 @@ Hey coffee lovers.
 
 # Lifestyle
 
+## **Philz Coffee**
+
+*November 20, 2023*
+
+*Lights, Camera, Decaf: Decaf Doug in Los Angeles*
+
+**Refill Frequency 
+ ☕️
+ <span style="color: black; opacity: 0.1;">☕️</span>
+ <span style="color: black; opacity: 0.1;">☕️</span>
+ <span style="color: black; opacity: 0.1;">☕️</span>
+ <span style="color: black; opacity: 0.1;">☕️</span>** 
+
+**Price 
+ 💲
+ 💲
+ <span style="color: black; opacity: 0.1;">💲</span>** 
+
+<div style="text-align: center;">
+    <img src="images/philz_2023.jpg" alt="Photo showing a delicious cup of hot, decaf coffee at the wedding" style="width: 40vw; display: block; margin-left: auto; margin-right: auto; margin-bottom: 1.5em;">
+</div> 
+
+[Philz Coffee](https://philzcoffee.com/t/shop/coffee/recommended) is in downtown Culver City, California. Right next to the [Culver Steps](https://theculversteps.com/). They feature pour over coffee with very fresh and delicious brews. They are famous for their "mint mojito latte." Unfortunately there are no free refills
+
+---
+<!-- Section 1 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9283020036917902"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-9283020036917902"
+     data-ad-slot="5767091755"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
 
 ## **Decaf Doug's Wisconsin Wedding**
 
